@@ -200,7 +200,7 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action HD
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 русское HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Vip Comedy HD
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
@@ -212,7 +212,7 @@ http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
 http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Дом кино Premium HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино",Дом кино Premium HD
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",.Sci-Fi
 http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
@@ -224,13 +224,21 @@ http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX Life HD
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",FlixSnip HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/flixsnip.png" tvg-id="flixsnip" group-title="Кино",FlixSnip HD
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
@@ -238,7 +246,7 @@ http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинеко HD
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинобоевик HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoboevik-kz.png" tvg-id="kinoboevik-kz" group-title="Кино",Кинобоевик HD
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноман
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
@@ -254,7 +262,7 @@ http://155.212.209.23/HTB-XIT/index.m3u8
 http://155.212.209.23/vf-univer/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://kino-stream.online/logo/russkaya-komedia.png" group-title="Кино",Комедия
 http://155.212.209.23/Komediya/index.m3u8
-#EXTINF:-1 group-title="Кино",Мировое Кино HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="mirovoe-kino-kz" group-title="Кино",Мировое Кино HD
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
@@ -268,7 +276,7 @@ http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир HD
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Семейное кино HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/semejnoe-kino-kz.png" tvg-id="semejnoe-kino-kz" group-title="Кино",Семейное кино HD
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
@@ -278,7 +286,7 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://kino-stream.online/logo/patriot.png" group-title="Кино",Патриот
 http://155.212.209.23/patriot/index.m3u8
-#EXTINF:-1 group-title="Кино",RTVi HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rtvi.png" tvg-id="rtvi" group-title="Кино",RTVi HD
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Bollywood HD
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
@@ -290,7 +298,7 @@ http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Plan B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Trash HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино",Trash HD
 http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
 
 
@@ -312,7 +320,7 @@ http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
 http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Visast History HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая природа HD
 http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
@@ -324,7 +332,7 @@ http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Зоопарк
 http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Тайны галактики HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Планета HD
 http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
@@ -393,7 +401,7 @@ https://ix.goodgame.ru/hls/215291.m3u8?expires=1768812999&token=xmPLiJ93bTtUd3s_
 
 
 
-#EXTINF:-1 group-title="Музыкальные",1HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" group-title="Музыкальные",1HD Music
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8

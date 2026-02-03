@@ -99,12 +99,8 @@ http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Твоё телевидение
-http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Новый игровой канал
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Gakku TV
-http://188.225.31.197/bpk-tv/000001383/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Вопросы и ответы
 http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Время
@@ -244,7 +240,7 @@ http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинеко HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kineko.png" tvg-id="kineko" group-title="Кино",Кинеко HD
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoboevik-kz.png" tvg-id="kinoboevik-kz" group-title="Кино",Кинобоевик HD
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
@@ -280,7 +276,7 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Премиум Кино HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/premium-kino-kz.png" tvg-id="premium-kino-kz" group-title="Кино",Премиум Кино HD
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",8 канал
 http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
@@ -292,7 +288,7 @@ http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Т24
 http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",ТВ21
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv21m.png" tvg-id="tv21m" group-title="Кино",ТВ21
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
@@ -340,6 +336,8 @@ http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Terra HD
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC
+http://109.75.59.241:8017/TLC/index.m3u8
 
 
 
@@ -465,8 +463,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 http://46.173.24.15/zsmedia/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/vhdvtv.png" group-title="Кинозал Креаторы",VHDV TV HD
 http://46.173.24.15/vhdvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VHDV TV orig
-https://kino-stream.online/hls/vhdvtv.m3u8
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD 
+http://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",NSC
 https://live.15plusmg.ru/memfs/b778b5c8-907e-4193-850e-ea031aa551f4.m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/original/901291.webp" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Cinema
@@ -475,6 +475,8 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
 http://46.173.24.15/kinowalk/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://imgur.com/Z7BXnPQ" group-title="Кинозал Креаторы",Kino Walk orig
+http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino.online.png" group-title="Кинозал Креаторы",Kino.Online
 http://46.173.24.15/kino.online/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino-vk.png" group-title="Кинозал Креаторы",КИНО ВК
@@ -484,6 +486,26 @@ http://46.173.24.15/kinovk2/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/KinoMix.png" group-title="Кинозал Креаторы",KinoMix
 http://46.173.24.15/kinomix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kino Mix orig
-https://kino-stream.online/hls/kinomix.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозал Креаторы" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png", VHS-ка HD 
-http://188.134.7.215:4022/udp/235.10.10.86:1234
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" group-title="Кинозал Креаторы", KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="Кинозал Креаторы", MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18457974/avatar?change_time=1758279827&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", TimeToHorror
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18457965/avatar?change_time=1717150729&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", TimeToMovie
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Blockbusters Time
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 tvg-name="Cinema Time" tvg-logo="https://images.live.vkvideo.ru/user/23803295/avatar?change_time=1767804459&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Cinema Time
+http://kinowalk.hopto.org/cinemaa_live
+#EXTINF:-1 tvg-name="Dimpon TV" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="Кинозал Креаторы", Dimpon TV
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 tvg-id="43064" tvg-name="Malder vse tv" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Малдер Всё ТВ
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 tvg-name="wihail" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", wihail
+http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 tvg-name="kinolampa" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", kinolampa
+http://kinowalk.hopto.org/kinolampa_live

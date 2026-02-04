@@ -562,3 +562,70 @@ http://lb.wisp.cat/lb0/Premiere_2_HD/video.m3u8?token=Ze0sZzzZ7d
 http://lb.wisp.cat/lb0/Premiere_3_HD/video.m3u8?token=Ze0sZzzZ7d
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1442.png" tvg-id="premierehd4",Premiere HD 4
 http://lb.wisp.cat/lb0/Premiere_4_HD/video.m3u8?token=Ze0sZzzZ7d
+
+
+
+#EXTINF:-1 group-title="Кинозал BCU",BCU Кинозал Premiere 1 HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1283.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Кинозал Premiere 2 HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1284.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Кинозал Premiere 3 HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1285.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Action HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1287.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Catastrophe HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1288.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Cinema HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1289.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Cinema+ HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1290.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Criminal HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1291.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Fantastic HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1292.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Filmystic HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1293.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU History HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1294.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Comedy HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1295.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Cosmo HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1296.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Romantic HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1297.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Kinorating HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1298.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-id="bcu-marvel",BCU Marvel HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1299.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Premiere HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1300.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Stars HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1301.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Reality HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1302.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Survival HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1303.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-id="bcu-trumotion",BCU TruMotion HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1304.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Ultra 4K
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1305.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU VHS HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1306.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Сваты HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1307.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU СССР HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1308.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-id="bcu-russia90s",BCU Russia 90s HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1309.m3u8
+#EXTINF:-1 group-title="Кинозал BCU",BCU Russian HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1310.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1311.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-name="BCU Kids HD" tvg-id="bcu-kids",BCU Kids HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1312.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-name="BCU Kids+ HD" tvg-id="bcu-kids-plus",BCU Kids+ HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1313.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-id="bcu-kinozakaz-premiere-4k",BCU Media HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1314.m3u8
+#EXTINF:-1 group-title="Кинозал BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
+http://woobl.ru/op/YzI1cGEyOXNaVzVyYnpFNU56QkFaMjFoYVd3dVkyOXQ/1315.m3u8

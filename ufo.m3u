@@ -515,53 +515,53 @@ http://kinowalk.hopto.org/kinolampa_live
 
 
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1434.png" tvg-id="cineman",CineMan
-http://lb.wisp.cat/lb0/CineMan/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1435.png" tvg-id="cineman-top",CineMan Top
-http://lb.wisp.cat/lb0/CineMan-TOP/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan-TOP/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1441.png" tvg-id="cineman-rukino",CineMan Рукино
-http://lb.wisp.cat/lb0/CineMan-RuKino/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan-RuKino/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1436.png" tvg-id="cineman-action",CineMan Action
-http://lb.wisp.cat/lb0/CineManAction/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineManAction/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2445.png" tvg-id="cineman-premium",CineMan Premium
-http://lb.wisp.cat/lb0/CineMan_Premium/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan_Premium/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1439.png" tvg-id="cineman-marvel",CineMan Marvel
-http://lb.wisp.cat/lb0/CineMan-MARVEL/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan-MARVEL/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1438.png" tvg-id="cineman-thriller",CineMan Thriller
-http://lb.wisp.cat/lb0/CineMan-Thiller/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan-Thiller/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1437.png" tvg-id="cineman-melodrama",CineMan Melodrama
-http://lb.wisp.cat/lb0/CineManMelodrama/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineManMelodrama/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1529.png" tvg-id="cineman-comedy",CineMan Комедия
-http://lb.wisp.cat/lb0/CinaMan_Comedy/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CinaMan_Comedy/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2299.png" tvg-id="cineman-skorpom",CineMan Скорая помощь
-http://lb.wisp.cat/lb0/CineMan_Ambylace/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan_Ambylace/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2487.png" tvg-id="cineman-simps",CineMan Симпсоны
-http://lb.wisp.cat/lb0/CineMan_Simpson/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan_Simpson/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/369.png" tvg-id="cineman-old4k",CineMan OLD 4K
-http://lb.wisp.cat/lb0/CineMan-Old4K/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan-Old4K/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1120.png" tvg-id="cineman-uzhasy",CineMan Ужасы
-http://lb.wisp.cat/lb0/CineMan_Uzasy/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan_Uzasy/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1851.png" tvg-id="cineman-katastrofy",CineMan Катастрофы
-http://lb.wisp.cat/lb0/CineMan_Katastrophe/index.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan_Katastrophe/index.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1394.png" tvg-id="cineman-aircrash",CineMan Air Crash
-http://lb.wisp.cat/lb0/Cineman-AirCrash/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/Cineman-AirCrash/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1440.png" tvg-id="cineman-vhs",CineMan VHS
-http://lb.wisp.cat/lb0/CineMan-VHS/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan-VHS/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2487.png" tvg-id="cineman-simps",CineMan Симпсоны
-http://lb.wisp.cat/lb0/CineMan_Simpson/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan_Simpson/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1823.png" tvg-id="cineman-pes",CineMan ПёС + ЛИХАЧ
-http://lb.wisp.cat/lb0/CineMan_Pes/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan_Pes/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1443.png" tvg-id="cineman-svaty",CineMan Сваты
-http://lb.wisp.cat/lb0/CineMan-Svaty/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/CineMan-Svaty/video.m3u8?token=tvqBYZSvuq
 
 
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1107.png" tvg-id="premierehd1",Premiere HD 1
-http://lb.wisp.cat/lb0/Premiere_1_HD/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/Premiere_1_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1649.png" tvg-id="premierehd2",Premiere HD 2
-http://lb.wisp.cat/lb0/Premiere_2_HD/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/Premiere_2_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1416.png" tvg-id="premierehd3",Premiere HD 3
-http://lb.wisp.cat/lb0/Premiere_3_HD/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/Premiere_3_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1442.png" tvg-id="premierehd4",Premiere HD 4
-http://lb.wisp.cat/lb0/Premiere_4_HD/video.m3u8?token=Ze0sZzzZ7d
+http://lb.wisp.cat/lb0/Premiere_4_HD/video.m3u8?token=tvqBYZSvuq
 
 
 

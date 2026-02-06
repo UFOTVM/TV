@@ -17,7 +17,7 @@ http://31.131.141.195:8000/play/1070/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные",  Россия 24 HD
 http://62.113.110.23/russia24hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/14.png" tvg-id="rentv" group-title="Основные",  Рен ТВ
-http://31.131.141.195:8000/play/2010/index.m3u8
+http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwNjczMjQzMSIsImV4cCI6MTc3MDYwNTkzNiwiaHdpZCI6IjkyY2RiNTJmZGE4M2NkM2QxMWUzNjIyNjUzZWRmYTYxYmMzMTllOGZiMTQ5YWQyZmQxYzljZjk1YjkzOWEzOTciLCJsYXN0X3JlcV9kYXRlIjoxNzcwMDAxMTM2LCJzZXNzaW9uX2lkIjoiZWVhZDQ2ZGVkYTMwOGIxODUwZTE5MjBlZTA2NjAwZjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.MVfnFvHQjWSagZa4vKbFi8YYOspIy4LbXvOHGWpHgOM
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
 http://62.113.110.23/THTHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
@@ -221,13 +221,13 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NTEwNTAsImlhdCI6MTc3MDM2NDY1MCwiY2lkIjo2LCJ1aWQiOjEwMDAwNzM5NjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTM5LCJhZHVsdCI6ZmFsc2V9.WJCTiIfz1QFBMgh2Xhl9280wAb3NMwoNQKEgOVOcXvA&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
+http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NTEwNTAsImlhdCI6MTc3MDM2NDY1MCwiY2lkIjo2LCJ1aWQiOjEwMDAwNzM5NjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTM5LCJhZHVsdCI6ZmFsc2V9.WJCTiIfz1QFBMgh2Xhl9280wAb3NMwoNQKEgOVOcXvA&offset=10
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
-http://195.26.83.96:7005/play/a00m/index.m3u8
+http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NTEwNTAsImlhdCI6MTc3MDM2NDY1MCwiY2lkIjo2LCJ1aWQiOjEwMDAwNzM5NjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTM5LCJhZHVsdCI6ZmFsc2V9.WJCTiIfz1QFBMgh2Xhl9280wAb3NMwoNQKEgOVOcXvA&offset=10
 #EXTINF:-1 group-title="Кино",Cinema
 http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
@@ -297,7 +297,7 @@ http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино",Trash HD
 http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://62.113.110.23/FANHD/index.m3u8
+http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NTEwNTAsImlhdCI6MTc3MDM2NDY1MCwiY2lkIjo2LCJ1aWQiOjEwMDAwNzM5NjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTM5LCJhZHVsdCI6ZmFsc2V9.WJCTiIfz1QFBMgh2Xhl9280wAb3NMwoNQKEgOVOcXvA&offset=10
 
 
 

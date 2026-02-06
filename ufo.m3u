@@ -221,9 +221,9 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
-https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
@@ -297,7 +297,7 @@ http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино",Trash HD
 http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://31.148.48.15/Fan/index.m3u8
+http://62.113.110.23/FANHD/index.m3u8
 
 
 
@@ -562,9 +562,6 @@ http://lb.wisp.cat/lb0/Premiere_2_HD/video.m3u8?token=tvqBYZSvuq
 http://lb.wisp.cat/lb0/Premiere_3_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1442.png" tvg-id="premierehd4",Premiere HD 4
 http://lb.wisp.cat/lb0/Premiere_4_HD/video.m3u8?token=tvqBYZSvuq
-
-
-
 
 
 

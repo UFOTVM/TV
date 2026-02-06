@@ -423,14 +423,8 @@ http://31.131.141.195:8000/play/2100/index.m3u8
 http://62.113.110.23/muztvhd/index.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="https://kino-stream.online/logo/rutv.png" group-title="Музыкальные",RU.TV HD
 http://62.113.110.23/rutv/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV 00s
-http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Live HD
-http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mezzo
 http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Muzzone
-http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Trace Urban HD
 http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыкальные",FON Music
@@ -516,61 +510,115 @@ http://kinowalk.hopto.org/kinolampa_live
 
 
 
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1434.png" tvg-id="cineman",CineMan
-http://lb.wisp.cat/lb0/CineMan/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1435.png" tvg-id="cineman-top",CineMan Top
-http://lb.wisp.cat/lb0/CineMan-TOP/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1441.png" tvg-id="cineman-rukino",CineMan Рукино
-http://lb.wisp.cat/lb0/CineMan-RuKino/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1436.png" tvg-id="cineman-action",CineMan Action
-http://lb.wisp.cat/lb0/CineManAction/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2445.png" tvg-id="cineman-premium",CineMan Premium
-http://lb.wisp.cat/lb0/CineMan_Premium/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1439.png" tvg-id="cineman-marvel",CineMan Marvel
-http://lb.wisp.cat/lb0/CineMan-MARVEL/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1438.png" tvg-id="cineman-thriller",CineMan Thriller
-http://lb.wisp.cat/lb0/CineMan-Thiller/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1437.png" tvg-id="cineman-melodrama",CineMan Melodrama
-http://lb.wisp.cat/lb0/CineManMelodrama/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1529.png" tvg-id="cineman-comedy",CineMan Комедия
-http://lb.wisp.cat/lb0/CinaMan_Comedy/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2299.png" tvg-id="cineman-skorpom",CineMan Скорая помощь
-http://lb.wisp.cat/lb0/CineMan_Ambylace/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2487.png" tvg-id="cineman-simps",CineMan Симпсоны
-http://lb.wisp.cat/lb0/CineMan_Simpson/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/369.png" tvg-id="cineman-old4k",CineMan OLD 4K
-http://lb.wisp.cat/lb0/CineMan-Old4K/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1120.png" tvg-id="cineman-uzhasy",CineMan Ужасы
-http://lb.wisp.cat/lb0/CineMan_Uzasy/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1851.png" tvg-id="cineman-katastrofy",CineMan Катастрофы
-http://lb.wisp.cat/lb0/CineMan_Katastrophe/index.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1394.png" tvg-id="cineman-aircrash",CineMan Air Crash
-http://lb.wisp.cat/lb0/Cineman-AirCrash/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1440.png" tvg-id="cineman-vhs",CineMan VHS
-http://lb.wisp.cat/lb0/CineMan-VHS/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/2487.png" tvg-id="cineman-simps",CineMan Симпсоны
-http://lb.wisp.cat/lb0/CineMan_Simpson/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1823.png" tvg-id="cineman-pes",CineMan ПёС + ЛИХАЧ
-http://lb.wisp.cat/lb0/CineMan_Pes/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1443.png" tvg-id="cineman-svaty",CineMan Сваты
-http://lb.wisp.cat/lb0/CineMan-Svaty/video.m3u8?token=tvqBYZSvuq
-
-
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1107.png" tvg-id="premierehd1",Premiere HD 1
-http://lb.wisp.cat/lb0/Premiere_1_HD/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1649.png" tvg-id="premierehd2",Premiere HD 2
-http://lb.wisp.cat/lb0/Premiere_2_HD/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1416.png" tvg-id="premierehd3",Premiere HD 3
-http://lb.wisp.cat/lb0/Premiere_3_HD/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1442.png" tvg-id="premierehd4",Premiere HD 4
-http://lb.wisp.cat/lb0/Premiere_4_HD/video.m3u8?token=tvqBYZSvuq
+#EXTINF:0,Oasis Action HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20951/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Alien and Predator HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20952/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Celentano Brando Connery HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20957/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Comedy HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20958/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Comedy Horrors HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20959/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis DC HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20961/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Demon Slayer and Dororo HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20962/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Detective HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20963/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Disney Classic HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20964/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Drama HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20965/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Family HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20966/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Фантастика HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20967/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Horror HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20969/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Корейские сериалы HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20971/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Кухня Отель HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20972/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Латиноамериканские сериалы HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20973/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Mafia HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20978/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Marvel HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20979/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Мелодрама HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20980/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Old Horrors HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20982/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis RUS Комедии HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20985/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis RUS Драма HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20986/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis RUS Сериалы HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20988/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis RUS Сериалы Драма HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20989/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Serkan Bolat HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20990/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Soviet Comedy HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20991/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Superheroes Series HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20993/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Ufo and Aliens HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20997/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis USA Сериалы HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20998/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Тайны Смолвиля  HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21003/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Великобританские сериалы HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21004/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Чечня и Афган HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21006/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Доктор Кто HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21007/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Саша Таня HD
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21008/index.m3u8?token=h82Wa5mmCzVSr8
 
 
 
 #EXTINF:0,BOX Franchise HD
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/20851/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,BOX Franchise HD
+#EXTINF:0,BOX Franchise HDR
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21209/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Hybrid HD

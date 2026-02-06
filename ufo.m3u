@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml " refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
-http://62.113.110.23/perviy/index.m3u8
+http://31.148.48.15:80/Pervii_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
-http://62.113.110.23/russia1hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.propg.net/img/channel_icons/2.png" tvg-id="rossia1" group-title="Основные", Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ntv.png" tvg-id="ntv" group-title="Основные",  НТВ HD
-http://62.113.110.23/HTBHD/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/3.png" tvg-id="ntv" group-title="Основные",  НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные",  Россия 24

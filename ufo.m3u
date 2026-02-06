@@ -297,7 +297,7 @@ http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино",Trash HD
 http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://62.113.110.23/FANHD/index.m3u8
+http://31.148.48.15:80/Fan/index.m3u8
 
 
 
@@ -562,6 +562,7 @@ http://lb.wisp.cat/lb0/Premiere_2_HD/video.m3u8?token=tvqBYZSvuq
 http://lb.wisp.cat/lb0/Premiere_3_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1442.png" tvg-id="premierehd4",Premiere HD 4
 http://lb.wisp.cat/lb0/Premiere_4_HD/video.m3u8?token=tvqBYZSvuq
+
 
 
 

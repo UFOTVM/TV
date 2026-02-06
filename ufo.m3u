@@ -618,7 +618,7 @@ https://nl01.links-tv-channels.org/21008/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Franchise HD
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/20851/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,BOX Franchise HDR
+#EXTINF:0 tvg-id="box-franchise-hdr",BOX Franchise HDR
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21209/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Hybrid HD
@@ -714,3 +714,4 @@ https://nl01.links-tv-channels.org/21224/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Kosmo 4K
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21226/index.m3u8?token=h82Wa5mmCzVSr8
+

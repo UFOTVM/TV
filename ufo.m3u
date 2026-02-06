@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml " refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
-http://31.148.48.15:80/Pervii_kanal_HD/index.m3u8
+http://62.113.110.23/perviy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
@@ -562,6 +562,7 @@ http://lb.wisp.cat/lb0/Premiere_2_HD/video.m3u8?token=tvqBYZSvuq
 http://lb.wisp.cat/lb0/Premiere_3_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="Кинозал CineMan" tvg-logo="http://play.wisp.cat/logos/1442.png" tvg-id="premierehd4",Premiere HD 4
 http://lb.wisp.cat/lb0/Premiere_4_HD/video.m3u8?token=tvqBYZSvuq
+
 
 
 

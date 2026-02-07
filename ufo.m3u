@@ -21,7 +21,7 @@ http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
 http://62.113.110.23/THTHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
-#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
 http://193.25.8.59:8000/ESPN
@@ -715,4 +715,5 @@ https://nl01.links-tv-channels.org/21224/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Kosmo 4K
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21226/index.m3u8?token=h82Wa5mmCzVSr8
+
 

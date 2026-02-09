@@ -299,7 +299,7 @@ http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино",Trash HD
 http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://31.148.48.15/Fan/index.m3u8
+http://tv.lamro.workers.dev/?ID=5064
 
 
 
@@ -715,4 +715,5 @@ https://nl01.links-tv-channels.org/21224/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Kosmo 4K
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21226/index.m3u8?token=h82Wa5mmCzVSr8
+
 

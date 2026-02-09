@@ -137,6 +137,8 @@ http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Бобер
 http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a5cfa43179f7b313920bf743b1cf92191a0302c1-5333794-images-thumbs&n=13" tvg-id="no_epg_music" group-title="Развлекательные",Залипательные ролики
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 
 
 
@@ -347,7 +349,7 @@ http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
 http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="neizvestnaya-planeta" group-title="Познавательные",Неизвестная Планета
 http://46.53.208.4:80/live/3005.m3u8
-#EXTINF:-1 group-title="Познавательные",Russian Extreme Ultra 4K
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russian-extreme-uhd.png" tvg-id="russian-extreme-uhd" group-title="Познавательные",Russian Extreme Ultra 4K
 http://46.53.208.4:80/live/1042.m3u8
 
 
@@ -470,6 +472,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 http://217.114.4.22/selecaotv-serial/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кинозал Креаторы", VHS-ка
+http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/ZSMEDIA.png" group-title="Кинозал Креаторы",ZSMEDIA
 http://217.114.4.22/zsmedia/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/vhdvtv.png" group-title="Кинозал Креаторы",VHDV TV HD
@@ -523,106 +527,109 @@ http://kinowalk.hopto.org/kinolampa_live
 
 
 
-#EXTINF:0,Oasis Action HD
+#EXTINF:0 tvg-id="ch2510" tvg-name="Oasis Action" tvg-logo="http://tvtm.one/images/chIcons/2510.png" tvg-rec="3", Oasis Action
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/20951/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Alien and Predator HD
+#EXTINF:0 tvg-id="ch2647" tvg-name="Oasis Alien and Predator" tvg-logo="http://tvtm.one/images/chIcons/2647.png" tvg-rec="3", Oasis Alien and Predator
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/20952/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Celentano Brando Connery HD
+#EXTINF:0 tvg-id="ch2652" tvg-name="Oasis Celentano Brando Connery" tvg-logo="http://tvtm.one/images/chIcons/2652.png" tvg-rec="3", Oasis Celentano Brando Connery
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/20957/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Comedy HD
+#EXTINF:0 tvg-id="ch2653" tvg-name="Oasis Comedy" tvg-logo="http://tvtm.one/images/chIcons/2653.png" tvg-rec="3", Oasis Comedy
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/20958/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Comedy Horrors HD
+#EXTINF:0 tvg-id="ch2654" tvg-name="Oasis Comedy Horrors" tvg-logo="http://tvtm.one/images/chIcons/2654.png" tvg-rec="3", Oasis Comedy Horrors
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/20959/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis DC HD
+#EXTINF:0 tvg-id="ch2655" tvg-name="Oasis DC" tvg-logo="http://tvtm.one/images/chIcons/2655.png" tvg-rec="3", Oasis DC
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/20961/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Demon Slayer and Dororo HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20962/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Detective HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20963/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Disney Classic HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20964/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Drama HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20965/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Family HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20966/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Фантастика HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20967/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Horror HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20969/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Корейские сериалы HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20971/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Кухня Отель HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20972/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Латиноамериканские сериалы HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20973/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Mafia HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20978/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Marvel HD
+#EXTINF:0 tvg-id="ch2675" tvg-name="Oasis Marvel" tvg-logo="http://tvtm.one/images/chIcons/2675.png" tvg-rec="3", Oasis Marvel
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/20979/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Мелодрама HD
+#EXTINF:0 tvg-id="ch2656" tvg-name="Oasis Demon Slayer and Dororo" tvg-logo="http://tvtm.one/images/chIcons/2656.png" tvg-rec="3", Oasis Demon Slayer and Dororo
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20980/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Old Horrors HD
+https://nl01.links-tv-channels.org/20962/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2657" tvg-name="Oasis Detective" tvg-logo="http://tvtm.one/images/chIcons/2657.png" tvg-rec="3", Oasis Detective
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20982/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis RUS Комедии HD
+https://nl01.links-tv-channels.org/20963/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2649" tvg-name="Oasis Anime" tvg-logo="http://tvtm.one/images/chIcons/2649.png" tvg-rec="3", Oasis Anime
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20985/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis RUS Драма HD
+http://nl01.links-tv-channels.org/20954/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Disney Classic
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20986/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis RUS Сериалы HD
+https://nl01.links-tv-channels.org/20964/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2660" tvg-name="Oasis Drama" tvg-logo="http://tvtm.one/images/chIcons/2660.png" tvg-rec="3", Oasis Drama
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20988/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis RUS Сериалы Драма HD
+https://nl01.links-tv-channels.org/20965/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2662" tvg-name="Oasis Family" tvg-logo="http://tvtm.one/images/chIcons/2662.png" tvg-rec="3", Oasis Family
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20989/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Serkan Bolat HD
+https://nl01.links-tv-channels.org/20966/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2663" tvg-name="Oasis Фантастика" tvg-logo="http://tvtm.one/images/chIcons/2663.png" tvg-rec="3", Oasis Фантастика
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20990/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Soviet Comedy HD
+https://nl01.links-tv-channels.org/20967/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2666" tvg-name="Oasis Horror" tvg-logo="http://tvtm.one/images/chIcons/2666.png" tvg-rec="3", Oasis Horror
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20991/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Superheroes Series HD
+https://nl01.links-tv-channels.org/20969/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2667" tvg-name="Oasis Корейские Сериалы" tvg-logo="http://tvtm.one/images/chIcons/2667.png" tvg-rec="3", Oasis Корейские Сериалы
 #EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20993/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Ufo and Aliens HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20997/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis USA Сериалы HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/20998/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Тайны Смолвиля  HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/21003/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Великобританские сериалы HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/21004/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Чечня и Афган HD
-#EXTGRP:Кинозал Oasis
-https://nl01.links-tv-channels.org/21006/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Доктор Кто HD
+https://nl01.links-tv-channels.org/20971/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2920" tvg-name="Oasis Доктор Кто" tvg-logo="http://tvtm.one/images/chIcons/2920.png" tvg-rec="3", Oasis Доктор Кто
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/21007/index.m3u8?token=h82Wa5mmCzVSr8
-#EXTINF:0,Oasis Саша Таня HD
+#EXTINF:0,Oasis Superheroes Series
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20993/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch1442" tvg-name="Oasis Ufo And Aliens" tvg-logo="http://tvtm.one/images/chIcons/1442.png" tvg-rec="3", Oasis Ufo And Aliens
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20997/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis USA Сериалы
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20998/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2668" tvg-name="Oasis Кухня Отель" tvg-logo="http://tvtm.one/images/chIcons/2668.png" tvg-rec="3", Oasis Кухня Отель
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20972/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2669" tvg-name="Oasis Латиноамериканские Сериалы" tvg-logo="http://tvtm.one/images/chIcons/2669.png" tvg-rec="3", Oasis Латиноамериканские Сериалы
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20973/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2674" tvg-name="Oasis Mafia" tvg-logo="http://tvtm.one/images/chIcons/2674.png" tvg-rec="3", Oasis Mafia
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20978/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2676" tvg-name="Oasis Мелодрама" tvg-logo="http://tvtm.one/images/chIcons/2676.png" tvg-rec="3", Oasis Мелодрама
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20980/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2678" tvg-name="Oasis Old Horrors" tvg-logo="http://tvtm.one/images/chIcons/2678.png" tvg-rec="3", Oasis Old Horrors
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20982/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2681" tvg-name="Oasis RUS Комедии" tvg-logo="http://tvtm.one/images/chIcons/2681.png" tvg-rec="3", Oasis RUS Комедии
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20985/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2682" tvg-name="Oasis RUS Драма" tvg-logo="http://tvtm.one/images/chIcons/2682.png" tvg-rec="3", Oasis RUS Драма
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20986/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2684" tvg-name="Oasis RUS Сериалы" tvg-logo="http://tvtm.one/images/chIcons/2684.png" tvg-rec="3", Oasis RUS Сериалы
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20988/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2685" tvg-name="Oasis RUS Сериалы Драма" tvg-logo="http://tvtm.one/images/chIcons/2685.png" tvg-rec="3", Oasis RUS Сериалы Драма
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20989/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2686" tvg-name="Oasis Serkan Bolat" tvg-logo="http://tvtm.one/images/chIcons/2686.png" tvg-rec="3", Oasis Serkan Bolat
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20990/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2688" tvg-name="Oasis Soviet Comedy" tvg-logo="http://tvtm.one/images/chIcons/2688.png" tvg-rec="3", Oasis Soviet Comedy
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/20991/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2687" tvg-name="Oasis Тайны Смолвиля" tvg-logo="http://tvtm.one/images/chIcons/2687.png" tvg-rec="3", Oasis Тайны Смолвиля
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21003/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Великобританские сериалы
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21004/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0 tvg-id="ch2919" tvg-name="Oasis Чечня и Афган" tvg-logo="http://tvtm.one/images/chIcons/2919.png" tvg-rec="3", Oasis Чечня и Афган
+#EXTGRP:Кинозал Oasis
+https://nl01.links-tv-channels.org/21006/index.m3u8?token=h82Wa5mmCzVSr8
+#EXTINF:0,Oasis Саша Таня
 #EXTGRP:Кинозал Oasis
 https://nl01.links-tv-channels.org/21008/index.m3u8?token=h82Wa5mmCzVSr8
 

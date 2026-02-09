@@ -16,8 +16,10 @@ http://176.118.197.101/NTV/index.m3u8
 http://185.46.16.239:8000/Rossiya_24
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные",  Россия 24 HD
 http://217.114.4.22/russia24hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/14.png" tvg-id="rentv" group-title="Основные",  Рен ТВ
-http://185.229.235.30:8005/udp/225.15.3.197:2345
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/14.png" tvg-id="rentv" group-title="Основные",  Рен ТВ HD
+http://tv.lamro.workers.dev/?ID=4743
+#EXTINF:-1 tvg-id="18" tvg-logo="https://kino-stream.online/logo/rentv.png" group-title="Основные", Рен ТВ
+http://217.114.4.22/rentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
 http://217.114.4.22/THTHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
@@ -221,13 +223,13 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-http://allway.space/iptv/users/Sky/513.m3u8
+http://tv.lamro.workers.dev/?ID=3791
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NTEwNTAsImlhdCI6MTc3MDM2NDY1MCwiY2lkIjo2LCJ1aWQiOjEwMDAwNzM5NjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTM5LCJhZHVsdCI6ZmFsc2V9.WJCTiIfz1QFBMgh2Xhl9280wAb3NMwoNQKEgOVOcXvA&offset=10
+http://tv.lamro.workers.dev/?ID=5088
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
-http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzA0NTEwNTAsImlhdCI6MTc3MDM2NDY1MCwiY2lkIjo2LCJ1aWQiOjEwMDAwNzM5NjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTM5LCJhZHVsdCI6ZmFsc2V9.WJCTiIfz1QFBMgh2Xhl9280wAb3NMwoNQKEgOVOcXvA&offset=10
+http://tv.lamro.workers.dev/?ID=5089
 #EXTINF:-1 group-title="Кино",Cinema
 http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD

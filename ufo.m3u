@@ -25,7 +25,7 @@ http://217.114.4.22/THTHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
-http://193.25.8.59:8000/ESPN
+http://tv.lamro.workers.dev/?ID=4997
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -715,3 +715,4 @@ https://nl01.links-tv-channels.org/21224/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Kosmo 4K
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21226/index.m3u8?token=h82Wa5mmCzVSr8
+

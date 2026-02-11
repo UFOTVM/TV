@@ -518,12 +518,41 @@ http://kinowalk.hopto.org/blockbusterstime_live
 http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="Кинозал Креаторы", Dimpon TV
 http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Malder vse tv" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Малдер Всё ТВ
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Малдер Всё ТВ
 http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", wihail
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", kinolampa
 http://kinowalk.hopto.org/kinolampa_live
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Kinofon 
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", serial4u 
+http://kinowalk.hopto.org/serial4u_live_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/14011062/avatar?change_time=1709050240&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", MrsDOOmKa 
+http://kinowalk.hopto.org/mrsdoomka_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Alex.Films 
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", BOSSFILM 
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", ZubrilomFilm 
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19124468/avatar?change_time=1718878513&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", JTX Online 
+http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29768939/avatar?change_time=1763990207&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Кинохунос 
+http://kinowalk.hopto.org/kinokunos_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/15503490/avatar?change_time=1769803131&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Тоха Киноман 
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29025041/avatar?change_time=1759414105&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Коновал ТВ 
+http://kinowalk.hopto.org/www.konoval_tv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20767389/avatar?change_time=1763432114&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Фильмомания 
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18203881/avatar?change_time=1770056028&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", KINO-TV 
+http://kinowalk.hopto.org/strannik1177_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19863595/avatar?change_time=1769945071&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", KINOХИТ HD 
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30356733/avatar?change_time=1767144911&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", КИНОУЖАС HD 
+http://kinowalk.hopto.org/kinouzhas_live
 
 
 

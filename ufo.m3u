@@ -576,6 +576,8 @@ http://kinowalk.hopto.org/kinouzhas_live
 http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Канал Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18284008/avatar?change_time=1698739266&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы",Мультфильмы 24/7
+http://kinowalk.hopto.org/mezontrop_live
 
 
 

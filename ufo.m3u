@@ -461,6 +461,21 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=256e1de1580c69898babf093bab3acd9_l-5677019-images-thumbs" tvg-id="no_epg_music" group-title="Музыкальные", VIVA CLASSICS
 http://185.221.213.254:8080/Ritsa/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA Russia rut
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
+
+#EXTINF:-1 tvg-logo="https://sun9-77.userapi.com/impf/nNai67zCi4neIS8l4QLfgnnWVuhl_fotKh-Nxw/64vA7mNVAHA.jpg?size=443x398&quality=96&sign=12ca16e7ca675d44f59977116dc59f6d&c_uniq_tag=wDKxRd8s_gFvBGjnDUmOEBkJF6kO59JXXGpEoTgAMEw&type=album" tvg-id="no_epg_music" group-title="Музыкальные", Record Megamix
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
+
+#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000003457.png" tvg-name="no_epg_music" group-title="Музыкальные",Clubbing TV
+http://46.151.151.250:9201
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271g.png" tvg-name="no_epg_music" group-title="Музыкальные",Power Dance
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/1200px-Clubland_TV_Logo_2022.svg.png" tvg-name="no_epg_music" group-title="Музыкальные", Clubland
+http://212.32.241.201:8000/play/a01g
+
 
 
 

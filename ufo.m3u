@@ -456,7 +456,7 @@ http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQJQv1X.png" tvg-id="no_epg_music" group-title="Музыкальные",Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыка",VIVA Russia
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=256e1de1580c69898babf093bab3acd9_l-5677019-images-thumbs" tvg-id="no_epg_music" group-title="Музыкальные", VIVA CLASSICS
 http://185.221.213.254:8080/Ritsa/index.m3u8

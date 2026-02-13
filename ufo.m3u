@@ -15,11 +15,11 @@ http://176.118.197.101/NTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные",  Россия 24
 http://fl04.lamro.tv/rossia24/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные",  Россия 24 HD
-http://213.139.211.201/russia24hd/index.m3u8
+http://85.198.71.82/russia24hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/rentv.png" tvg-id="rentv" group-title="Основные",  Рен ТВ HD
 http://fl05.lamro.tv/RentvHD/mono.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
-http://213.139.211.201/rentv/index.m3u8
+http://85.198.71.82/rentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
 https://fl07.lamro.tv/ch86/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
@@ -49,7 +49,7 @@ http://95.47.156.60:8000/play/10/index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://kino-stream.online/logo/russiak.png" group-title="Основные",Россия K
 http://95.47.156.60:8000/play/6/index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://kino-stream.online/logo/russiak.png" group-title="Основные",Россия K HD
-http://213.139.211.201/russiak/index.m3u8
+http://85.198.71.82/russiak/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piaty-int.png" tvg-id="5kanal-ru" group-title="Основные",Пятый канал
 https://fl07.lamro.tv/5kanal/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/906.png" group-title="Основные",ОТР
@@ -61,15 +61,15 @@ http://fl07.lamro.tv/zvezdahd/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/46.png" group-title="Основные",Мир
 http://95.47.156.60:8000/play/18/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir24.png" tvg-id="mir-24" group-title="Основные",  Мир 24 HD
-http://213.139.211.201/mir24/index.m3u8
+http://85.198.71.82/mir24/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
 http://95.47.156.60:8000/play/12/index.m3u8
 #EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://kino-stream.online/logo/otv-eburg.png" group-title="Основные",ОТВ (Екатеринбург)
-http://213.139.211.201/otv-ekb/index.m3u8
+http://85.198.71.82/otv-ekb/index.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/ont-by.png" tvg-id="ont-by" group-title="Основные",ОНТ HD
-http://213.139.211.201/OHT/index.m3u8
+http://85.198.71.82/OHT/index.m3u8
 #EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://kino-stream.online/logo/krik-tv.png" group-title="Основные",КРИК-ТВ HD
-http://213.139.211.201/krik-tv/index.m3u8
+http://85.198.71.82/krik-tv/index.m3u8
 
 
 
@@ -78,23 +78,23 @@ http://213.139.211.201/krik-tv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tvoetv" tvg-logo="https://kino-stream.online/logo/tvoetv.png" group-title="Развлекательные",Твоё ТВ HD
-http://213.139.211.201/tvoetv/index.m3u8
+http://85.198.71.82/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://kino-stream.online/logo/tvoetvhumor.png" group-title="Развлекательные",Твоё ТВ Юмор HD
-http://213.139.211.201/tvoetv-humor/index.m3u8
+http://85.198.71.82/tvoetv-humor/index.m3u8
 #EXTINF:-1 tvg-id="1322" tvg-logo="https://kino-stream.online/logo/CTCLove.png" group-title="Развлекательные",CTC Love
-http://213.139.211.201/CTCLOVE/index.m3u8
+http://85.198.71.82/CTCLOVE/index.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-logo="https://kino-stream.online/logo/THT4.png" group-title="Развлекательные",THT4 HD
-http://213.139.211.201/THT4HD/index.m3u8
+http://85.198.71.82/THT4HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt4.png" tvg-id="tnt4" group-title="Развлекательные", ТНТ 4
 http://193.25.8.59:8000/tntcomedy
 #EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://kino-stream.online/logo/prodvizhenie.png" group-title="Развлекательные",Продвижение HD
-http://213.139.211.201/Prodvizhenie/index.m3u8
+http://85.198.71.82/Prodvizhenie/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://kino-stream.online/logo/kvn-tv.png" group-title="Развлекательные",КВН ТВ
-http://213.139.211.201/kvn-tv/index.m3u8
+http://85.198.71.82/kvn-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Развлекательные",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" group-title="Развлекательные",DTR ZONA 1 HD
-http://213.139.211.201/dtrzona1/index.m3u8
+http://85.198.71.82/dtrzona1/index.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/logo.png" tvg-id="no_epg_cinema" group-title="Развлекательные", DTRZONA1 orig
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gagsnetwork
@@ -152,7 +152,7 @@ https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-tv.png" tvg-id="match-tv" group-title="Спорт", Матч! HD
-http://213.139.211.201/matchtv/index.m3u8
+http://85.198.71.82/matchtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-tv.png" tvg-id="match-tv" group-title="Спорт", Матч!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-football1.png" tvg-id="match-football1" group-title="Спорт", Футбол1
@@ -182,7 +182,7 @@ http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kxl.png" tvg-id="kxl" group-title="Спорт", KHL HD
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kxl" tvg-logo="https://kino-stream.online/logo/kxl.png" group-title="Спорт",КХЛ ТВ
-http://213.139.211.201/khltv/index.m3u8
+http://85.198.71.82/khltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-arena.png" tvg-id="match-arena" group-title="Спорт",Матч! Арена
 http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 
@@ -259,17 +259,17 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мир Сериала
 http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:-1 tvg-id="2041" tvg-logo="https://kino-stream.online/logo/NTVXIT.png" group-title="Кино",НТВ-Хит
-http://213.139.211.201/HTB-XIT/index.m3u8
+http://85.198.71.82/HTB-XIT/index.m3u8
 #EXTINF:-1 tvg-id="vf-univer" tvg-logo="https://kino-stream.online/logo/vf-univer.png" group-title="Кино",VF Универ
-http://213.139.211.201/vf-univer/index.m3u8
+http://85.198.71.82/vf-univer/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://kino-stream.online/logo/russkaya-komedia.png" group-title="Кино",Комедия
-http://213.139.211.201/Komediya/index.m3u8
+http://85.198.71.82/Komediya/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="mirovoe-kino-kz" group-title="Кино",Мировое Кино HD
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://kino-stream.online/logo/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция HD
-http://213.139.211.201/mosfilm-hd/index.m3u8
+http://85.198.71.82/mosfilm-hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Мужской
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Победа
@@ -287,7 +287,7 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",8 канал
 http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://kino-stream.online/logo/patriot.png" group-title="Кино",Патриот
-http://213.139.211.201/patriot/index.m3u8
+http://85.198.71.82/patriot/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rtvi.png" tvg-id="rtvi" group-title="Кино",RTVi HD
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Bollywood HD
@@ -365,11 +365,11 @@ https://cdn-fr1.lamro.tv/OkeanHD/mono.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 http://46.53.208.4:80/live/5123.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://kino-stream.online/logo/solnce.png" group-title="Детские",Солнце
-http://213.139.211.201/solnce/index.m3u8
+http://85.198.71.82/solnce/index.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 tvg-id="323" tvg-logo="https://kino-stream.online/logo/2na2.png" group-title="Детские",2x2 HD
-http://213.139.211.201/2x2hd/index.m3u8
+http://85.198.71.82/2x2hd/index.m3u8
 #EXTINF:-1 tvg-id="2x2" group-title="Детские",2x2
 http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
@@ -387,13 +387,13 @@ http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://kino-stream.online/logo/smaylik-tv.png" group-title="Детские",Смайлик ТВ HD
-http://213.139.211.201/smaylik-tv/index.m3u8
+http://85.198.71.82/smaylik-tv/index.m3u8
 #EXTINF:-1 group-title="Детские",TiJi
 http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
 http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://kino-stream.online/logo/mult.png" group-title="Детские",Мульт HD
-http://213.139.211.201/mult/index.m3u8
+http://85.198.71.82/mult/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
 http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/01/dc/e2/01dce2acb29c7ce2edebd5337187a99b.jpg" tvg-id="no_epg_cinema" group-title="Детские", Чип и Дейл
@@ -435,13 +435,13 @@ http://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-id="dtrmusic1" tvg-logo="https://kino-stream.online/logo/dtr2.png" group-title="Музыкальные",DTR MUSIC 1 orig
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-id="dtrmusic1" tvg-logo="https://kino-stream.online/dtr2.png" group-title="Музыкальные",DTR MUSIC 1 HD
-http://213.139.211.201/dtrmusic1/index.m3u8
+http://85.198.71.82/dtrmusic1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="897" tvg-logo="https://kino-stream.online/logo/muztv.png" group-title="Музыкальные",Муз ТВ HD
-http://213.139.211.201/muztvhd/index.m3u8
+http://85.198.71.82/muztvhd/index.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="https://kino-stream.online/logo/rutv.png" group-title="Музыкальные",RU.TV HD
-http://213.139.211.201/rutv/index.m3u8
+http://85.198.71.82/rutv/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mezzo
 http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Trace Urban HD
@@ -496,7 +496,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кинозал Креаторы", VHS-ка
 http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/vhdvtv.png" group-title="Кинозал Креаторы",VHDV TV HD
-http://213.139.211.201/vhdvtv/index.m3u8
+http://85.198.71.82/vhdvtv/index.m3u8
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD 
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
@@ -508,17 +508,17 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
-http://213.139.211.201/kinowalk/index.m3u8
+http://85.198.71.82/kinowalk/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk orig
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino.online.png" group-title="Кинозал Креаторы",Kino.Online
-http://213.139.211.201/kino.online/index.m3u8
+http://85.198.71.82/kino.online/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino-vk.png" group-title="Кинозал Креаторы",КИНО ВК
-http://213.139.211.201/kinovk/index.m3u8
+http://85.198.71.82/kinovk/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino-vk2.png" group-title="Кинозал Креаторы",КИНО ВК 2
-http://213.139.211.201/kinovk2/index.m3u8
+http://85.198.71.82/kinovk2/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/KinoMix.png" group-title="Кинозал Креаторы",KinoMix
-http://213.139.211.201/kinomix/index.m3u8
+http://85.198.71.82/kinomix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kino Mix orig
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", KinoJam

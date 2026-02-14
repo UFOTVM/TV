@@ -66,6 +66,8 @@ http://fl07.lamro.tv/zvezdahd/mono.m3u8
 http://95.47.156.60:8000/play/18/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir24.png" tvg-id="mir-24" group-title="Основные",  Мир 24 HD
 http://85.198.71.82/mir24/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" tvg-id="solovjinypomiot" group-title="Основные",Соловьев.Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
 http://95.47.156.60:8000/play/12/index.m3u8
 #EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://kino-stream.online/logo/otv-eburg.png" group-title="Основные",ОТВ (Екатеринбург)

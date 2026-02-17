@@ -20,8 +20,8 @@ http://46.173.28.105/russia24hd/index.m3u8
 https://cdn-fr1.lamro.tv/IzvestiyaHD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные",  Рен ТВ HD
 http://fl05.lamro.tv/RentvHD/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
-http://46.173.28.105/rentv/index.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
+http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
 https://fl07.lamro.tv/ch86/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
@@ -510,17 +510,17 @@ http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",NSC
-https://live.15plusmg.ru/memfs/b778b5c8-907e-4193-850e-ea031aa551f4.m3u8
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/original/901291.webp" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/d2qzrUO.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3436-3030-4661-a165-613330333230/photo.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Новый русский
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
 http://46.173.28.105/kinowalk/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk orig
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino.online.png" group-title="Кинозал Креаторы",Kino.Online
-http://46.173.28.105/kino.online/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino-vk.png" group-title="Кинозал Креаторы",КИНО ВК
 http://46.173.28.105/kinovk/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino-vk2.png" group-title="Кинозал Креаторы",КИНО ВК 2
@@ -823,4 +823,3 @@ https://nl01.links-tv-channels.org/21224/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Kosmo 4K
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21226/index.m3u8?token=h82Wa5mmCzVSr8
-

@@ -18,7 +18,7 @@ http://fl04.lamro.tv/rossia24/mono.m3u8
 http://46.173.28.105/russia24hd/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="Основные",Известия HD
 https://cdn-fr1.lamro.tv/IzvestiyaHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/rentv.png" tvg-id="rentv" group-title="Основные",  Рен ТВ HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные",  Рен ТВ HD
 http://fl05.lamro.tv/RentvHD/mono.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://46.173.28.105/rentv/index.m3u8
@@ -501,6 +501,8 @@ http://kinowalk.hopto.org/selecaotv1_live
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кинозал Креаторы", VHS-ка
 http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/vhdvtv.png" group-title="Кинозал Креаторы",VHDV TV HD
 http://46.173.28.105/vhdvtv/index.m3u8
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD 
@@ -511,7 +513,7 @@ http://kinowalk.hopto.org/videoarsenal_live
 https://live.15plusmg.ru/memfs/b778b5c8-907e-4193-850e-ea031aa551f4.m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/original/901291.webp" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Moretime
+#EXTINF:-1 tvg-logo="https://imgur.com/d2qzrUO" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
 http://46.173.28.105/kinowalk/index.m3u8
@@ -523,9 +525,7 @@ http://46.173.28.105/kino.online/index.m3u8
 http://46.173.28.105/kinovk/index.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kino-vk2.png" group-title="Кинозал Креаторы",КИНО ВК 2
 http://46.173.28.105/kinovk2/index.m3u8
-#EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/KinoMix.png" group-title="Кинозал Креаторы",KinoMix
-http://46.173.28.105/kinomix/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kino Mix orig
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kino Mix
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", KinoJam
 http://kinowalk.hopto.org/kinojam_live
@@ -597,8 +597,6 @@ http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 http://kinowalk.hopto.org/kino05_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Aisman
 http://kinowalk.hopto.org/aisman_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", VHS Forever
-http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18907130/avatar?change_time=1734455298&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", lampoTV
 http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19529013/avatar?change_time=1727359016&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Игрун 1997

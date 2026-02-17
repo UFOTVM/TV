@@ -308,6 +308,10 @@ http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
 https://fl02.lamro.tv/ch3562/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="Кино",  BCU Kinorating HD
+https://kinostream.hopto.org/bcu-kinorating/index.m3u8?token=gho_16X4e3sT8vB2nM1qW5kL9pO2iR6uY7jH4fD1gK2l
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" tvg-id="bcu-stars" group-title="Кино",  BCU STARS HD
+https://kinostream.hopto.org/bcu-stars/index.m3u8?token=gho_16X4e3sT8vB2nM1qW5kL9pO2iR6uY7jH4fD1gK2l
 
 
 

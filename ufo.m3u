@@ -516,7 +516,7 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/d2qzrUO.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3436-3030-4661-a165-613330333230/photo.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Новый русский
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
 http://46.173.28.105/kinowalk/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk orig
@@ -823,3 +823,4 @@ https://nl01.links-tv-channels.org/21224/index.m3u8?token=h82Wa5mmCzVSr8
 #EXTINF:0,BOX Kosmo 4K
 #EXTGRP:Кинозал BOX
 https://nl01.links-tv-channels.org/21226/index.m3u8?token=h82Wa5mmCzVSr8
+

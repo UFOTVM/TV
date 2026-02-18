@@ -87,6 +87,10 @@ http://155.212.208.96/krik-tv/index.m3u8
 https://kinostreammedia.hopto.org/TVOETV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://kino-stream.online/logo/tvoetvhumor.png" group-title="Развлекательные",Твоё ТВ Юмор HD
 https://kinostreammedia.hopto.org/TVOETV-HUMOR/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" group-title="Развлекательные",DTR ZONA 1 HD
+https://kinostreammedia.hopto.org/DTRZONA1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="dtr2" tvg-logo="https://kino-stream.online/dtrzona2.png" group-title="Развлекательные", DTR ZONA 2 HD
+https://kino-stream.online/hls/DTRZONA2.m3u8 
 #EXTINF:-1 tvg-id="1322" tvg-logo="https://kino-stream.online/logo/CTCLove.png" group-title="Развлекательные",CTC Love
 http://155.212.208.96/CTCLOVE/index.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-logo="https://kino-stream.online/logo/THT4.png" group-title="Развлекательные",THT4 HD
@@ -101,8 +105,6 @@ https://kinostreammedia.hopto.org/PRODVIZHENIE/tracks-v1a1/mono.ts.m3u8
 http://155.212.208.96/kvn-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Развлекательные",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" group-title="Развлекательные",DTR ZONA 1 HD
-https://kinostreammedia.hopto.org/DTRZONA1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/logo.png" tvg-id="no_epg_cinema" group-title="Развлекательные", DTRZONA1 orig
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gagsnetwork

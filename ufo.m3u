@@ -391,7 +391,7 @@ http://155.212.216.131/solnce/index.m3u8
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://kino-stream.online/logo/2na2.png" group-title="Детские",2x2 HD
 http://155.212.216.131/2x2hd/index.m3u8
-#EXTINF:-1 tvg-id="dtrzona2" tvg-logo="https://kino-stream.online/dtrzona2.png" group-title="Развлекательные", DTR ZONA 2 HD
+#EXTINF:-1 tvg-id="dtrzona2" tvg-logo="https://kino-stream.online/dtrzona2.png" group-title="Детские", DTR ZONA 2 HD
 https://kino-stream.online/hls/DTRZONA2.m3u8 
 #EXTINF:-1 tvg-id="2x2" group-title="Детские",2x2
 http://176.118.197.101/2x2/index.m3u8
@@ -647,4 +647,3 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-

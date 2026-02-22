@@ -69,7 +69,7 @@ http://95.47.156.60:8000/play/18/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir24.png" tvg-id="mir-24" group-title="Основные",  Мир 24 HD
 http://155.212.216.131/mir24/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" tvg-id="solovjinypomiot" group-title="Основные",Соловьев.Live HD
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
 http://95.47.156.60:8000/play/12/index.m3u8
 #EXTINF:-1 tvg-id="otv-eburg" tvg-logo="https://kino-stream.online/logo/otv-eburg.png" group-title="Основные",ОТВ (Екатеринбург)
@@ -289,8 +289,8 @@ http://155.212.216.131/Komediya/index.m3u8
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://kino-stream.online/logo/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция HD
-http://155.212.216.131/mosfilm-hd/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epg.iptvx.one/picons/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция HD
+https://fl05.lamro.tv/ch4985/mono.m3u8
 #EXTINF:-1 group-title="Кино",Мужской
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Победа
@@ -323,6 +323,14 @@ http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
 https://fl02.lamro.tv/ch3562/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
+https://fl05.lamro.tv/ch4779/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kamedi.png" tvg-id="kamedi" group-title="Кино", Камеди HD 
+https://fl05.lamro.tv/ch4780/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" tvg-id="shokiruyushchee-hd" group-title="Кино", Шокирующее HD
+https://fl05.lamro.tv/ch137/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ostrosiuzhetnoe-hd.png" tvg-id="ostrosiuzhetnoe-hd" group-title="Кино", Остросюжетное HD
+http://fl04.lamro.tv/OstrosyujetnoeHD/mono.m3u8
 
 
 

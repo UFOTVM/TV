@@ -86,9 +86,9 @@ http://155.212.216.131/krik-tv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tvoetv" tvg-logo="https://kino-stream.online/logo/tvoetv.png" group-title="Развлекательные",Твоё ТВ HD
-http://155.212.216.131/tvoetv/index.m3u8
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://kino-stream.online/logo/tvoetvhumor.png" group-title="Развлекательные",Твоё ТВ Юмор HD
-http://155.212.216.131/tvoetv-humor/index.m3u8
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" group-title="Развлекательные",DTR ZONA 1 HD
 http://155.212.216.131/dtrzona1/index.m3u8
 #EXTINF:-1 tvg-id="1322" tvg-logo="https://kino-stream.online/logo/CTCLove.png" group-title="Развлекательные",CTC Love
@@ -390,11 +390,11 @@ http://155.212.216.131/solnce/index.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://kino-stream.online/logo/2na2.png" group-title="Детские",2x2 HD
-http://155.212.216.131/2x2hd/index.m3u8
-#EXTINF:-1 tvg-id="dtrzona2" tvg-logo="https://kino-stream.online/dtrzona2.png" group-title="Детские", DTR ZONA 2 HD
-https://kino-stream.online/hls/DTRZONA2.m3u8 
+http://155.212.216.131/2x2hd/index.m3u8 
 #EXTINF:-1 tvg-id="2x2" group-title="Детские",2x2
 http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 tvg-id="dtrzona2" tvg-logo="https://kino-stream.online/dtrzona2.png" group-title="Детские", DTR ZONA 2 HD
+https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
 http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
@@ -628,6 +628,25 @@ http://kinowalk.hopto.org/wfliq_live
 http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/26410366/avatar?change_time=1764539328&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Snoochies Boochies 
 http://kinowalk.hopto.org/sinema_live
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Эквилибриум
+http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", ROMEO Video
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13" group-title="Кинозал Креаторы",Maksim Films
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", R serials
+http://kinowalk.hopto.org/zzz881_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Фильмы сериалы
+http://kinowalk.hopto.org/dfsfsdg_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", ZubrilomFranchise
+http://kinowalk.hopto.org/zubrilommusic.ru_live
 
 
 

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.fox-tv.fun/123-light.xmltv, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml " refresh="86400" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml " refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 http://91.198.104.13:8001/udp/237.0.11.1:10000
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
@@ -39,7 +39,7 @@ http://91.198.104.13:8001/udp/237.0.13.6:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piatnica.png" tvg-id="piatnica" group-title="Основные",  Пятница HD
 http://155.212.219.223/friday/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53.png" tvg-id="piatnica" group-title="Основные",  Пятница
-http://95.47.156.60:8000/play/16/index.m3u8
+http://91.198.104.13:8001/udp/237.0.13.21:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/super.png" tvg-id="super" group-title="Основные",Суббота HD
 https://cdn-fr1.lamro.tv/ch505/mono.m3u8
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
@@ -63,7 +63,9 @@ http://91.198.104.13:8001/udp/237.0.11.56:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda.png" tvg-id="zvezda" group-title="Основные",Звезда
 http://91.198.104.13:8001/udp/237.0.10.5:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda.png" tvg-id="zvezda" group-title="Основные",Звезда HD
-http://fl07.lamro.tv/zvezdahd/mono.m3u8
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda-plus.png" tvg-id="zvezda-plus" group-title="Основные", Звезда+ HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/46.png" group-title="Основные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir24.png" tvg-id="mir-24" group-title="Основные",  Мир 24 HD
@@ -451,6 +453,8 @@ http://kinowalk.hopto.org/kanaldisneyonline_live
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://lh3.googleusercontent.com/MNoso0zs34PjhzxJ_2UD8aFmbnvmXthy-b68oBLxtUpwwl4mV4Qhl8SDwSugC2yTAQ" group-title="Детские", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/26226613/avatar?change_time=1754551047&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Детские", ZumiBox
+http://kinowalk.hopto.org/zumibox_live
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
 http://46.53.208.4:80/live/3007.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Classics
@@ -667,6 +671,30 @@ http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", ZubrilomFranchise
 http://kinowalk.hopto.org/zubrilommusic.ru_live
 
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/30679453/avatar?change_time=1768060945&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/4374205/avatar?change_time=1685722513&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", FGS
+http://kinowalk.hopto.org/dscb_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19573960/avatar?change_time=1728634064&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", У КРАЯ БЕЗДНЫ 24/7
+http://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/31272330/avatar?change_time=1771171161&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", AASS
+http://kinowalk.hopto.org/aaasss_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1743317709&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Prodigy_movie
+http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20396730/avatar?change_time=1742167676&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", InMuNa Live
+http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20310353/avatar?change_time=1771715709&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Тоха Стрим
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19395604/avatar?change_time=1725404395&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", не Кино
+http://kinowalk.hopto.org/notnotes_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/16123819/avatar?change_time=1744393606&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Solo ink
+http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/31231924/avatar?change_time=1770988973&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", PhoENIX
+http://kinowalk.hopto.org/phoenix3345_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18290547/avatar?change_time=1726158637&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", TopMoment LiVE
+http://kinowalk.hopto.org/topmomentlive_live
+
+
 
 
 #EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
@@ -685,68 +713,3 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-
-
-
-
-
-
-#EXTINF:0 CUID="25" tvg-name="4:Freshcinema-1" tvg-id="4:Freshcinema-1" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshCinema.png" group-title="Fresh | Magic",Fresh Cinema
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIyNSIsInQiOiJjN2QyMzY4MDU5NjAyM2Y1NTYzOWRkMGE2NjZkZTBlMCIsImQiOiI4ODc1NiIsInIiOiIxNzk3NTgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX0NpbmVtYS9tcGV
-#EXTINF:0 CUID="113" tvg-name="4:Freshkids-6" tvg-id="4:Freshkids-6" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshKids.png" group-title="Fresh | Magic",Fresh Kids
-http://ost.fox-tv.fun/zP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6ImEwZmY0ZTRjIiwicCI6ImEwZmY0ZTRjN2QzYzA4NjciLCJjIjoiMTEzIiwidCI6ImM3ZDIzNjgwNTk2MDIzZjU1NjM5ZGQwYTY2NmRlMGUwIiwiZCI6Ijg4NzU2IiwiciI6IjE3OTc1OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX0tpZHMvbXBlZ3R
-#EXTINF:0 CUID="142" tvg-name="4:Freshcomedy-2" tvg-id="4:Freshcomedy-2" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshComedy.png" group-title="Fresh | Magic",Fresh Comedy
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIxNDIiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX0NvbWVkeS9tcGV
-#EXTINF:0 CUID="143" tvg-name="4:Freshpremiere-7" tvg-id="4:Freshpremiere-7" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshPremiere.png" group-title="Fresh | Magic",Fresh Premiere
-http://ost.fox-tv.fun/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU0YyIsInAiOiJhMGZmNGU0YzdkM2MwODY3IiwiYyI6IjE0MyIsInQiOiJjN2QyMzY4MDU5NjAyM2Y1NTYzOWRkMGE2NjZkZTBlMCIsImQiOiI4ODc1NiIsInIiOiIxNzk3NTgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1ByZW1pZXJlL21
-#EXTINF:0 CUID="144" tvg-name="4:Freshfamily-3" tvg-id="4:Freshfamily-3" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshFamily.png" group-title="Fresh | Magic",Fresh Family
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIxNDQiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX0ZhbWlseS9tcGV
-#EXTINF:0 CUID="145" tvg-name="4:Freshrating-8" tvg-id="4:Freshrating-8" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshRating.png" group-title="Fresh | Magic",Fresh Rating
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIxNDUiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1JhdGluZy9tcGV
-#EXTINF:0 CUID="166" tvg-name="4:Freshvhs-14" tvg-id="4:Freshvhs-14" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshVHS.png" group-title="Fresh | Magic",Fresh VHS
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIxNjYiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1ZIUy9tcGVndHM
-#EXTINF:0 CUID="242" tvg-name="4:Freshfantastic-4" tvg-id="4:Freshfantastic-4" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshFantastic.png" group-title="Fresh | Magic",Fresh Fantastic
-http://ost.fox-tv.fun/tcGVndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIyNDIiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX0ZhbnRhc3RpYy9
-#EXTINF:0 CUID="255" tvg-name="4:Freshseries-11" tvg-id="4:Freshseries-11" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshSeries.png" group-title="Fresh | Magic",Fresh Series
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIyNTUiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1Nlcmllcy9tcGV
-#EXTINF:0 CUID="260" tvg-name="4:Freshhorror-5" tvg-id="4:Freshhorror-5" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshHorror.png" group-title="Fresh | Magic",Fresh Horror
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIyNjAiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX0hvcnJvci9tcGV
-#EXTINF:0 CUID="275" tvg-name="4:Freshadventure-0" tvg-id="4:Freshadventure-0" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshAdventure.png" group-title="Fresh | Magic",Fresh Adventure
-http://ost.fox-tv.fun/tcGVndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIyNzUiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX0FkdmVudHVyZS9
-#EXTINF:0 CUID="276" tvg-name="4:Freshromantic-9" tvg-id="4:Freshromantic-9" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshRomantic.png" group-title="Fresh | Magic",Fresh Romantic
-http://ost.fox-tv.fun/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU0YyIsInAiOiJhMGZmNGU0YzdkM2MwODY3IiwiYyI6IjI3NiIsInQiOiJjN2QyMzY4MDU5NjAyM2Y1NTYzOWRkMGE2NjZkZTBlMCIsImQiOiI4ODc1NiIsInIiOiIxNzk3NTgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1JvbWFudGljL21
-#EXTINF:0 CUID="307" tvg-name="4:Freshrussian-10" tvg-id="4:Freshrussian-10" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshRussian.png" group-title="Fresh | Magic",Fresh Russian
-http://ost.fox-tv.fun/lZ3RzP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6ImEwZmY0ZTRjIiwicCI6ImEwZmY0ZTRjN2QzYzA4NjciLCJjIjoiMzA3IiwidCI6ImM3ZDIzNjgwNTk2MDIzZjU1NjM5ZGQwYTY2NmRlMGUwIiwiZCI6Ijg4NzU2IiwiciI6IjE3OTc1OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1J1c3NpYW4vbXB
-#EXTINF:0 CUID="328" tvg-name="4:Freshthriller-13" tvg-id="4:Freshthriller-13" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshThriller.png" group-title="Fresh | Magic",Fresh Thriller
-http://ost.fox-tv.fun/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU0YyIsInAiOiJhMGZmNGU0YzdkM2MwODY3IiwiYyI6IjMyOCIsInQiOiJjN2QyMzY4MDU5NjAyM2Y1NTYzOWRkMGE2NjZkZTBlMCIsImQiOiI4ODc1NiIsInIiOiIxNzk3NTgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1RocmlsbGVyL21
-#EXTINF:0 CUID="372" tvg-name="4:Freshsoviet-12" tvg-id="4:Freshsoviet-12" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FreshSoviet.png" group-title="Fresh | Magic",Fresh Soviet
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIzNzIiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0ZyZXNoX1NvdmlldC9tcGV
-
-
-#EXTINF:0 CUID="1076" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/blank.png" group-title="Fresh | Magic",Magic Premiere
-http://ost.fox-tv.fun/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU0YyIsInAiOiJhMGZmNGU0YzdkM2MwODY3IiwiYyI6IjEwNzYiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX1ByZW1pZXJlL21
-#EXTINF:0 CUID="398" tvg-name="1:2018" tvg-id="1:2018" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic VHS HD.png" group-title="Fresh | Magic",Magic VHS
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiIzOTgiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX1ZIUy9tcGVndHM
-#EXTINF:0 CUID="417" tvg-name="1:2015" tvg-id="1:2015" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Karate HD.png" group-title="Fresh | Magic",Magic Karate
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI0MTciLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0thcmF0ZS9tcGV
-#EXTINF:0 CUID="438" tvg-name="1:2010" tvg-id="1:2010" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Comedy HD.png" group-title="Fresh | Magic",Magic Comedy
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI0MzgiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0NvbWVkeS9tcGV
-#EXTINF:0 CUID="439" tvg-name="1:2011" tvg-id="1:2011" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Disney HD.png" group-title="Fresh | Magic",Magic Disney
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI0MzkiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0Rpc25leS9tcGV
-#EXTINF:0 CUID="440" tvg-name="1:2014" tvg-id="1:2014" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Horror HD.png" group-title="Fresh | Magic",Magic Horror
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI0NDAiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0hvcnJvci9tcGV
-#EXTINF:0 CUID="441" tvg-name="1:2013" tvg-id="1:2013" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Galaxy HD.png" group-title="Fresh | Magic",Magic Galaxy
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI0NDEiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0dhbGF4eS9tcGV
-#EXTINF:0 CUID="442" tvg-name="1:2009" tvg-id="1:2009" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Action HD.png" group-title="Fresh | Magic",Magic Action
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI0NDIiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0FjdGlvbi9tcGV
-#EXTINF:0 CUID="443" tvg-name="1:2017" tvg-id="1:2017" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Thriller HD.png" group-title="Fresh | Magic",Magic Thriller
-http://ost.fox-tv.fun/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU0YyIsInAiOiJhMGZmNGU0YzdkM2MwODY3IiwiYyI6IjQ0MyIsInQiOiJjN2QyMzY4MDU5NjAyM2Y1NTYzOWRkMGE2NjZkZTBlMCIsImQiOiI4ODc1NiIsInIiOiIxNzk3NTgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX1RocmlsbGVyL21
-#EXTINF:0 CUID="444" tvg-name="1:2012" tvg-id="1:2012" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Family HD.png" group-title="Fresh | Magic",Magic Family
-http://ost.fox-tv.fun/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI0NDQiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0ZhbWlseS9tcGV
-#EXTINF:0 CUID="445" tvg-name="1:2016" tvg-id="1:2016" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/Magic Love HD.png" group-title="Fresh | Magic",Magic Love
-http://ost.fox-tv.fun/zP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6ImEwZmY0ZTRjIiwicCI6ImEwZmY0ZTRjN2QzYzA4NjciLCJjIjoiNDQ1IiwidCI6ImM3ZDIzNjgwNTk2MDIzZjU1NjM5ZGQwYTY2NmRlMGUwIiwiZCI6Ijg4NzU2IiwiciI6IjE3OTc1OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0xvdmUvbXBlZ3R
-#EXTINF:0 CUID="711" tvg-name="1:2065" tvg-id="1:2065" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/magic-adventure.png" group-title="Fresh | Magic",Magic Adventure
-http://ost.fox-tv.fun/tcGVndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiYTBmZjRlNGMiLCJwIjoiYTBmZjRlNGM3ZDNjMDg2NyIsImMiOiI3MTEiLCJ0IjoiYzdkMjM2ODA1OTYwMjNmNTU2MzlkZDBhNjY2ZGUwZTAiLCJkIjoiODg3NTYiLCJyIjoiMTc5NzU4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX0FkdmVudHVyZS9
-#EXTINF:0 CUID="876" tvg-name="1:2024" tvg-id="1:2024" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/magic-russian.png" group-title="Fresh | Magic",Magic Russian
-http://ost.fox-tv.fun/lZ3RzP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6ImEwZmY0ZTRjIiwicCI6ImEwZmY0ZTRjN2QzYzA4NjciLCJjIjoiODc2IiwidCI6ImM3ZDIzNjgwNTk2MDIzZjU1NjM5ZGQwYTY2NmRlMGUwIiwiZCI6Ijg4NzU2IiwiciI6IjE3OTc1OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01hZ2ljX1J1c3NpYW4vbXB

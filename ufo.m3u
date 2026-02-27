@@ -469,6 +469,8 @@ https://cdn-fr1.lamro.tv/ch5726/mono.m3u8
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one./picons/deluxe-music-de.png" tvg-id="deluxe-music-de" group-title="Музыкальные",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://telik.live/images/v2beat.png" tvg-id="no_epg_music" group-title="Музыкальные",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/b4/206c12e5512b5f3646db19d45c620bb4.png" tvg-id="no_epg_music" group-title="Музыкальные",radio m2o

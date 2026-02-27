@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.fox-tv.fun/123-light.xmltv, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml " refresh="86400" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml" refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 http://91.198.104.13:8001/udp/237.0.11.1:10000
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
@@ -717,3 +717,4 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+

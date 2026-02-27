@@ -256,7 +256,7 @@ http://81.94.150.173:8080/kinosemhfd/index.m3u8?token=8a40790d5c1f4323040c2d7e30
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
-http://81.94.150.173:8080/kinoxit/index.m3u8?token=5df249fe6a0490cee6df6b98dbedc2918bd868e5-7b58e8caeac1fd627c7e8a246c7f9a21-1772050396-1772007196
+http://tv.lamro.workers.dev/?ID=5089
 #EXTINF:-1 group-title="Кино",Cinema
 http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
@@ -324,15 +324,15 @@ http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Plan B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://31.148.48.15/Fan/index.m3u8
+http://tv.lamro.workers.dev/?ID=5064
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
-http://81.94.150.173:8080/hit_hd/index.m3u8?token=a11ee4adba99e3287ca80190e256ff4f59663ed2-341dcf464e657ba948f36c54dee49e67-1772050396-1772007196
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kamedi.png" tvg-id="kamedi" group-title="Кино", Камеди HD 
-http://81.94.150.173:8080/2836/index.m3u8?token=a13e6753c5a4f424d6f747ab0dbbb7c181a18f5f-6dde725bf3ea4c6efa58041e73d5e6a3-1772050396-1772007196
+http://tv.lamro.workers.dev/?ID=4972
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kamedi.png" tvg-id="kamedi" group-title="Кино", Камеди HD
+http://tv.lamro.workers.dev/?ID=4965
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" tvg-id="shokiruyushchee-hd" group-title="Кино", Шокирующее HD
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/682634
+http://tv.lamro.workers.dev/?ID=4961
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ostrosiuzhetnoe-hd.png" tvg-id="ostrosiuzhetnoe-hd" group-title="Кино", Остросюжетное HD
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/682632
+http://tv.lamro.workers.dev/?ID=4748
 
 
 
@@ -451,6 +451,8 @@ http://109.94.1.3:8080/132/index.m3u8
 http://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140" group-title="Детские", FoxKids Remastered
 http://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19124468/avatar?change_time=1718878513&croped=1&mh=140&mw=140" group-title="Детские", JTX Online
+http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://lh3.googleusercontent.com/MNoso0zs34PjhzxJ_2UD8aFmbnvmXthy-b68oBLxtUpwwl4mV4Qhl8SDwSugC2yTAQ" group-title="Детские", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/26226613/avatar?change_time=1754551047&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Детские", ZumiBox
@@ -561,6 +563,8 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3436-3030-4661-a165-613330333230/photo.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Новый русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo.png" tvg-id="kinostream" group-title="Кинозал Креаторы",КИНО СТРИМ
+https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
 http://85.198.70.163/kinowalk/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk orig
@@ -606,8 +610,6 @@ http://kinowalk.hopto.org/alex.films_live
 http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", ZubrilomFilm 
 http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19124468/avatar?change_time=1718878513&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", JTX Online 
-http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29768939/avatar?change_time=1763990207&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Кинохунос 
 http://kinowalk.hopto.org/kinokunos_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/15503490/avatar?change_time=1769803131&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", Тоха Киноман 

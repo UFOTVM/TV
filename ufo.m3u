@@ -21,7 +21,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Основные" ,360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
-http://tv.lamro.workers.dev/?ID=4743
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -324,7 +324,7 @@ http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Plan B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://tv.lamro.workers.dev/?ID=5064
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
 http://tv.lamro.workers.dev/?ID=4972
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kamedi.png" tvg-id="kamedi" group-title="Кино", Камеди HD

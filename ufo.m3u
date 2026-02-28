@@ -45,7 +45,7 @@ http://46.151.151.250:9105
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
 http://91.198.104.13:8001/udp/237.0.13.86:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
-https://fl05.lamro.tv/DomashniyHD/mono.m3u8
+http://tv.lamro.workers.dev/?ID=5106
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.53.208.4:80/live/961.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
@@ -250,13 +250,13 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-http://81.94.150.173:8080/kinopremierahd/index.m3u8?token=37dc2737fca9c34067d76604d224d9ade53bc127-c5ae318f243f6931b5e944b321c9009d-1772050396-1772007196
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/premera/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
-http://81.94.150.173:8080/kinosemhfd/index.m3u8?token=8a40790d5c1f4323040c2d7e30a3cf2b08947d5b-1c3510f5c6fa2ccfbf9d56020199067f-1772050396-1772007196
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
-http://tv.lamro.workers.dev/?ID=5089
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
@@ -528,6 +528,9 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/1200px-Clubland_TV_Logo_2022.svg.png" tvg-name="no_epg_music" group-title="Музыкальные", Clubland
 http://212.32.241.201:8000/play/a01g
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b7fb89e720c5e705776505532aa37f39839ace56-12445046-images-thumbs&n=13" tvg-name="no_epg_music" group-title="Музыкальные", TV12 HD
+http://185.221.213.254:8080/Mafia2/index.m3u8
+
 
 
 
@@ -717,5 +720,3 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-

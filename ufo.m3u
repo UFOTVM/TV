@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml" refresh="86400" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml" refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 http://91.198.104.13:8001/udp/237.0.11.1:10000
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
@@ -720,3 +720,119 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" tvg-id="bcu-kinozal-prem-1" group-title="кинозал BCU", BCU Premiere 1 HD
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2" group-title="кинозал BCU", BCU Premiere 2 HD
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-3.png" tvg-id="bcu-kinozal-prem-3" group-title="кинозал BCU", BCU Premiere 3 HD
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4760.png" tvg-id="bcu-premiere" group-title="кинозал BCU", BCU Premiere HD
+http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4748.png" tvg-id="bcu-action" group-title="кинозал BCU",BCU Action HD
+http://185.234.59.200:8080/BCU_Action_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4749.png" tvg-id="bcu-catastrophe" group-title="кинозал BCU",BCU Catastrophe HD
+http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png" tvg-id="bcu-cinema" group-title="кинозал BCU", BCU CINEMA HD
+http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png" tvg-id="bcu-cinemaplus" group-title="кинозал BCU", BCU CINEMA+ HD
+http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-criminal.png" tvg-id="bcu-criminal" group-title="кинозал BCU",BCU Criminal HD
+http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" tvg-id="bcu-fantastic" group-title="кинозал BCU",BCU Fantastic HD
+http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" tvg-id="bcu-filmystic" group-title="кинозал BCU",BCU FilMystic HD
+http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-history.png" tvg-id="bcu-history" group-title="кинозал BCU", BCU History HD
+http://185.234.59.200:8080/BCU_History_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/8963.png" tvg-id="bcu-comedy" group-title="кинозал BCU",BCU Comedy HD
+http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic" group-title="кинозал BCU",BCU Romantic HD
+http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="кинозал BCU",BCU Kinorating HD
+http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/8964.png" tvg-id="bcu-marvel" group-title="кинозал BCU",BCU Marvel HD
+http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" tvg-id="bcu-stars" group-title="кинозал BCU",BCU Stars HD
+http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k" group-title="кинозал BCU",BCU Ultra 4K
+http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-vhs-hd.png" tvg-id="bcu-vhs" group-title="кинозал BCU",BCU VHS HD
+http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-svaty.png" tvg-id="bcu-svaty" group-title="кинозал BCU", BCU Сваты HD
+http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-sssr-hd.png" tvg-id="bcu-sssr" group-title="кинозал BCU", BCU CCCP HD
+http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-russian.png" tvg-id="bcu-russian" group-title="кинозал BCU",BCU Russian HD
+http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ruserial.png" tvg-id="bcu-ruserial" group-title="кинозал BCU", BCU Ruserial HD
+http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids.png" tvg-id="bcu-kids" group-title="кинозал BCU", BCU Kids HD
+http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-plus.png" tvg-id="bcu-kids-plus" group-title="кинозал BCU",BCU Kids+ HD
+http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-multserial.png" tvg-id="bcu-multserial" group-title="кинозал BCU",BCU Мультсериал HD
+http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-4k.png" tvg-id="bcu-kids-4k" group-title="кинозал BCU", BCU Kids 4K
+http://185.234.59.200:8080/BCU_Kids_4K/video.m3u8
+
+
+#EXTINF:0 group-title="Free BOX" tvg-id="6708" tvg-logo="http://epg.one/img/6708.png",BOX Relax 4K
+http://185.234.59.200:8080/BOX_Relax_4K/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="8816" tvg-logo="http://epg.one/img/8816.png",BOX Travel Premiere HD
+http://185.234.59.200:8080/BOX_Travel_Premiere_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="7662" tvg-logo="http://epg.one/img/7662.png",BOX Docu HD
+http://185.234.59.200:8080/BOX_Docu_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6707" tvg-logo="http://epg.one/img/6707.png",BOX Music 4K
+http://185.234.59.200:8080/BOX_Music_4K/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="8923" tvg-logo="http://epg.one/img/8923.png",BOX Serial 4K
+http://185.234.59.200:8080/BOX_Serial_4K/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="8922" tvg-logo="http://epg.one/img/8922.png",BOX Remast+ 4K
+http://185.234.59.200:8080/BOX_Remast_Plus_4K/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="8768" tvg-logo="http://epg.one/img/8768.png",BOX Apocalypse HD
+http://185.234.59.200:8080/BOX_Apocalypse_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="7492" tvg-logo="http://epg.one/img/7492.png",BOX Remast 4K
+http://185.234.59.200:8080/BOX_Remast_4K/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="7491" tvg-logo="http://epg.one/img/7491.png",BOX Premiere 4K
+http://185.234.59.200:8080/BOX_Premiere_4K/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="7490" tvg-logo="http://epg.one/img/7490.png",BOX Fantasy HD
+http://185.234.59.200:8080/BOX_Fantasy_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="7489" tvg-logo="http://epg.one/img/7489.png",BOX Stories HD
+http://185.234.59.200:8080/BOX_Stories_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="7488" tvg-logo="http://epg.one/img/7488.png",BOX Ghost HD
+http://185.234.59.200:8080/BOX_Ghost_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6834" tvg-logo="http://epg.one/img/6834.png",BOX Cyber HD
+http://185.234.59.200:8080/BOX_Cyber_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6833" tvg-logo="http://epg.one/img/6833.png",BOX Zombie HD
+http://185.234.59.200:8080/BOX_Zombie_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6832" tvg-logo="http://epg.one/img/6832.png",BOX Western HD
+http://185.234.59.200:8080/BOX_Western_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6831" tvg-logo="http://epg.one/img/6831.png",BOX Travel HD
+http://185.234.59.200:8080/BOX_Travel_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6705" tvg-logo="http://epg.one/img/6705.png",BOX Spy HD
+http://185.234.59.200:8080/BOX_Spy_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6704" tvg-logo="http://epg.one/img/6704.png",BOX Game HD
+http://185.234.59.200:8080/BOX_Game_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6703" tvg-logo="http://epg.one/img/6703.png",BOX Serial HD
+http://185.234.59.200:8080/BOX_Serial_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6702" tvg-logo="http://epg.one/img/6702.png",BOX M.Serial HD
+http://185.234.59.200:8080/BOX_MSerial_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6701" tvg-logo="http://epg.one/img/6701.png",BOX Memory HD
+http://185.234.59.200:8080/BOX_Memory_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6700" tvg-logo="http://epg.one/img/6700.png",BOX Oscar HD
+http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6699" tvg-logo="http://epg.one/img/6699.png",BOX Gangster HD
+http://185.234.59.200:8080/BOX_Gangster_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6698" tvg-logo="http://epg.one/img/6698.png",BOX Anime HD
+http://185.234.59.200:8080/BOX_Anime_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6697" tvg-logo="http://epg.one/img/6697.png",BOX Hybrid HD
+http://185.234.59.200:8080/BOX_Hybrid_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="6696" tvg-logo="http://epg.one/img/6696.png",BOX Franchise HD
+http://185.234.59.200:8080/BOX_Franchise_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="8831" tvg-logo="http://epg.one/img/8831.png",BOX SportCast HD
+http://185.234.59.200:8080/BOX_Sportcast_HD/video.m3u8
+#EXTINF:0 group-title="Free BOX" tvg-id="8817" tvg-logo="http://epg.one/img/8817.png",BOX Gurman HD
+http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8

@@ -566,6 +566,8 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3436-3030-4661-a165-613330333230/photo.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Новый русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 tvg-id="sunsetone" tvg-logo="https://kino-stream.online/logo/SUNSET-ONE.png" group-title="Кинозал Креаторы",Sunset ONE
+https://str-01.sunset-media.org/SunsetOne/index.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo.png" tvg-id="kinostream" group-title="Кинозал Креаторы",КИНО СТРИМ
 https://cdn.kino-stream.online/hls/KINOSTREAM.m3u8
 #EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk

@@ -703,6 +703,23 @@ http://kinowalk.hopto.org/phoenix3345_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18290547/avatar?change_time=1726158637&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", TopMoment LiVE
 http://kinowalk.hopto.org/topmomentlive_live
 
+#EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 tvg-logo="https://files.kick.com/images/user/59967480/profile_image/conversion/b59451dd-0815-4a82-b37f-eac9249ebb51-fullsize.webp" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Baragozz_TV
+http://kinowalk.hopto.org/baragozz_tv_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19238690/avatar?change_time=1747562022&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", ФИЛЬМЫ&СЕРИАЛЫ
+http://kinowalk.hopto.org/films_serials_24_7_live/_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", 𝕂𝔸ℂℂ𝔼𝕋𝔸
+http://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Первый ряд
+http://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/197/128x128?unique=2026-02-21%2020:43:54.719669&access_token=986de50c-3a7a-4798-a1db-19f4161c0b9d" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", PrizraK PlaY
+http://kinowalk.hopto.org/vampiro1965_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/198/128x128?unique=2026-02-21%2020:43:54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", ChowAmigo
+http://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/200/128x128?unique=2026-02-21%2020:44:21.583209&access_token=6bdbfce3-ebe0-48be-9c34-98c6f7b4a8f3" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", PartizaNka tv
+http://kinowalk.hopto.org/partizanka_tv_live
+
 
 
 

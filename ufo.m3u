@@ -15,7 +15,7 @@ http://176.118.197.101/NTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные",  Россия 24
 http://31.131.141.195:8000/play/1070/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные",  Россия 24 HD
-http://155.212.220.13/russia24hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="Основные",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Основные" ,360° HD
@@ -29,15 +29,15 @@ http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
-http://vipbayi303.top:8080/erolkardesi12/280419sadaa@@@/381823
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
-http://155.212.220.13/tv3/index.m3u8
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/tv3_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3
 http://91.198.104.13:8001/udp/237.0.13.6:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piatnica.png" tvg-id="piatnica" group-title="Основные",  Пятница HD
-http://155.212.220.13/friday/index.m3u8
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/friday_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53.png" tvg-id="piatnica" group-title="Основные",  Пятница
 http://91.198.104.13:8001/udp/237.0.13.21:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/super.png" tvg-id="super" group-title="Основные",Суббота HD
@@ -101,8 +101,6 @@ http://155.212.220.13/THT4HD/index.m3u8
 http://91.198.104.13:8001/udp/237.0.11.10:10000
 #EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://kino-stream.online/logo/prodvizhenie.png" group-title="Развлекательные",Продвижение HD
 http://155.212.220.13/Prodvizhenie/index.m3u8
-#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://kino-stream.online/logo/prodvizhenie.png" group-title="Развлекательные",Продвижение
-https://kinostreammedia.hopto.org/PRODVIZHENIE/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://kino-stream.online/logo/kvn-tv.png" group-title="Развлекательные",КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Развлекательные",Alpha Funny

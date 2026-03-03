@@ -447,6 +447,8 @@ http://46.53.208.4:80/live/1448.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" group-title="Детские", Канал Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19932695/avatar?change_time=1741354798&croped=1&mh=140&mw=140" group-title="Детские", Disney XD
+http://kinowalk.hopto.org/disneyxd_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140" group-title="Детские", FoxKids Remastered
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19124468/avatar?change_time=1718878513&croped=1&mh=140&mw=140" group-title="Детские", JTX Online
@@ -461,6 +463,8 @@ http://46.53.208.4:80/live/3007.m3u8
 http://46.53.208.4:80/live/1303.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ducktv" tvg-logo="https://epg.iptvx.one./picons/ducktv.png",ducktv HD
 https://cdn-fr1.lamro.tv/ch5726/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18534796/avatar?change_time=1756592611&croped=1&mh=140&mw=140" group-title="Детские", Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
 
 
 
@@ -718,6 +722,17 @@ http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/200/128x128?unique=2026-02-21%2020:44:21.583209&access_token=6bdbfce3-ebe0-48be-9c34-98c6f7b4a8f3" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", PartizaNka tv
 http://kinowalk.hopto.org/partizanka_tv_live
 
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/30809873/avatar?change_time=1772349724&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Astrix116
+http://kinowalk.hopto.org/astrix116_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/12719933/avatar?change_time=1699038708&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kycman мульт
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/14163367/avatar?change_time=1685725099&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Argo_13
+http://kinowalk.hopto.org/argo_13_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19921068/avatar?change_time=1763821326&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Lisfix
+http://kinowalk.hopto.org/lisfix_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18716382/avatar?change_time=1737140673&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", dj Zour
+http://kinowalk.hopto.org/zsmedia_live
+
 
 
 
@@ -853,4 +868,3 @@ http://185.234.59.200:8080/BOX_Franchise_HD/video.m3u8
 http://185.234.59.200:8080/BOX_Sportcast_HD/video.m3u8
 #EXTINF:0 group-title="Free BOX" tvg-id="8817" tvg-logo="http://epg.one/img/8817.png",BOX Gurman HD
 http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8
-

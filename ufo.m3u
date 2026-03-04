@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml" refresh="86400" tvg-shift=0 cache=500
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml" tvg-shift=0 cache=500
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 http://91.198.104.13:8001/udp/237.0.11.1:10000
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
@@ -411,6 +411,8 @@ http://62.217.177.157/2x2hd/index.m3u8
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 tvg-id="dtrzona2" tvg-logo="https://kino-stream.online/dtrzona2.png" group-title="Детские", DTR ZONA 2 HD
 https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1 tvg-id="3x3" tvg-logo="https://kino-stream.online/logo/3x3.png" group-title="Детские", 3x3
+https://st01.kino-stream.online/hls/3x3.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
 http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network

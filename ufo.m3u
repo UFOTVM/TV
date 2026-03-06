@@ -41,7 +41,7 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/friday_hd
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53.png" tvg-id="piatnica" group-title="Основные",  Пятница
 http://91.198.104.13:8001/udp/237.0.13.21:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/super.png" tvg-id="super" group-title="Основные",Суббота
-https://salam-nr-luga-78.rtbcdn.ru/dive/river-3-3102.rtbcdn.ru/SP-Qd1QHDj4b2DNfkci8ZQ/stream/genetta-418.ntv.rutube.ru/NON-yepluwqf8Eb4oCvMSA/1773411352/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=ygOk2tDua8hSzJnHH27dwA&e=2069500956&scheme=https
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
 http://91.198.104.13:8001/udp/237.0.13.86:10000
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
@@ -94,7 +94,7 @@ https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 tvg-id="1322" tvg-logo="https://kino-stream.online/logo/CTCLove.png" group-title="Развлекательные",CTC Love
 http://185.78.112.16:8077/sts-love/index.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-logo="https://kino-stream.online/logo/THT4.png" group-title="Развлекательные",THT4 HD
-https://salam-nr-luga-78.rtbcdn.ru/dive/river-5-549.rtbcdn.ru/s7S2hVLyrrZXP6WaB13ACA/stream/genetta-318.m9.rutube.ru/z9GGfzOF8xpxaIEr1pv6bA/1773412230/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=YmLsZ86xBHJzGryIFXgrmg&e=2069500953&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt4.png" tvg-id="tnt4" group-title="Развлекательные", ТНТ 4
 http://91.198.104.13:8001/udp/237.0.11.10:10000
 #EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://kino-stream.online/logo/prodvizhenie.png" group-title="Развлекательные",Продвижение HD
@@ -163,7 +163,7 @@ http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eurosport2.png" tvg-id="eurosport2" group-title="Спорт", Eurosport2 HD
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-tv.png" tvg-id="match-tv" group-title="Спорт", Матч! HD
-https://salam-smf-crel2-25.rtbcdn.ru/dive/river-6-601.rtbcdn.ru/dTGFkkqCK__AcIYQGL5oOg/stream/genetta-320.m9.rutube.ru/OloGFBa25_ngBjZpPY0ErQ/1773410787/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=eZv38IdfIqR5Qp4wrPZIog&e=2069500994&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-tv.png" tvg-id="match-tv" group-title="Спорт", Матч!
 http://46.151.151.250:9002
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-football1.png" tvg-id="match-football1" group-title="Спорт", Футбол1

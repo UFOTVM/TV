@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH, https://kino-stream.online/player.xml" refresh="3600" cache=500 audio-track=ru m3uautoload=1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/?ID=421
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
@@ -881,3 +882,4 @@ http://185.234.59.200:8080/BOX_Franchise_HD/video.m3u8
 http://185.234.59.200:8080/BOX_Sportcast_HD/video.m3u8
 #EXTINF:0 group-title="Free BOX" tvg-id="8817" tvg-logo="http://epg.one/img/8817.png",BOX Gurman HD
 http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8
+

@@ -763,3 +763,53 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="IPTVPLAY" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman.png" tvg-id="cineman" group-title="CineMan",CineMan
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/53382/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" tvg-id="cineman-action" group-title="CineMan",Cineman Action
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/63846/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-katastrofy.png" tvg-id="cineman-katastrofy" group-title="CineMan",Cineman Катастрофы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/53874/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png" tvg-id="cineman-thriller" group-title="CineMan",CineMan Thriller
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/45284/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" tvg-id="cineman-top" group-title="CineMan",CineMan Top
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/29842/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" tvg-id="cineman-marvel" group-title="CineMan",CineMan Marvel
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/47931/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-uzhasy.png" tvg-id="cineman-uzhasy" group-title="CineMan",CineMan Ужасы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/47298/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png" tvg-id="cineman-comedy" group-title="CineMan",CineMan Комедия
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/64557/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png" tvg-id="cineman-melodrama" group-title="CineMan",Cineman Мелодрама
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/35582/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-miniseries.png" tvg-id="cineman-miniseries" group-title="CineMan",Cineman MiniSeries
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/52239/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-premium.png" tvg-id="cineman-premium" group-title="CineMan",CineMan Premium
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/30448/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png" tvg-id="cineman-vhs" group-title="CineMan",CineMan VHS
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/59429/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png" tvg-id="cineman-rukino" group-title="CineMan",CineMan РуКино
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/27445/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-sssr-fhd.png" tvg-id="cineman-sssr-fhd" group-title="CineMan",Cineman СССР
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/69286/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-svaty.png" tvg-id="cineman-svaty" group-title="CineMan",CineMan Сваты
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/62337/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" tvg-id="cineman-pes" group-title="CineMan",CineMan Пес Лихач
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/28488/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" tvg-id="cineman-lesnik" group-title="CineMan",CineMan Лесник
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/37746/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-musw.png" tvg-id="cineman-musw" group-title="CineMan",CineMan Ментовские войны
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/45271/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-gluhar.png" tvg-id="cineman-gluhar" group-title="CineMan",CineMan Криминальные Сериалы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/62853/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-vovserials.png" tvg-id="cineman-vovserials" group-title="CineMan",Cineman Военные сериалы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/52947/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-komseri.png" tvg-id="cineman-komseri" group-title="CineMan",CineMan Комедийные Сериалы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/64376/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-skorpom.png" tvg-id="cineman-skorpom" group-title="CineMan",CineMan Скорая Помощь
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/56632/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-old4k.png" tvg-id="cineman-old4k" group-title="CineMan",Cineman OLD 4K
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/61632/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-sssr4k.png" tvg-id="cineman-sssr4k" group-title="CineMan",CineMan CCCP 4K
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/56216/hlsx/pl.m3u8

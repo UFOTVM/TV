@@ -817,6 +817,38 @@ http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/56216/hlsx/pl.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-premiere.png" tvg-id="fresh-premiere" group-title="Fresh",Fresh Premiere
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/87428/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-cinema.png" tvg-id="fresh-cinema" group-title="Fresh",Fresh Cinema
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/89310/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-adventure.png" tvg-id="fresh-adventure" group-title="Fresh",Fresh Adventure
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/87295/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-fantastic.png" tvg-id="fresh-fantastic" group-title="Fresh",Fresh Fantastic
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/79274/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-comedy.png" tvg-id="fresh-comedy" group-title="Fresh",Fresh Comedy
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/86727/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-family.png" tvg-id="fresh-family" group-title="Fresh",Fresh Family
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/88549/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-romantic.png" tvg-id="fresh-romatic" group-title="Fresh",Fresh Romantic
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/89664/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png" tvg-id="fresh-rating" group-title="Fresh",Fresh Rating
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/82839/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-thriller.png" tvg-id="fresh-thriller" group-title="Fresh",Fresh Thriller
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/81847/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-horror.png" tvg-id="fresh-horror" group-title="Fresh",Fresh Horror
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/74875/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-series.png" tvg-id="fresh-series" group-title="Fresh",Fresh Series
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/75819/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-vhs.png" tvg-id="fresh-vhs" group-title="Fresh",Fresh VHS
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/73957/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-russian.png" tvg-id="fresh-russian" group-title="Fresh",Fresh Russian
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/69446/hlsx/pl.m3u8               
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-soviet.png" tvg-id="fresh-soviet" group-title="Fresh",Fresh Soviet
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/61859/hlsx/pl.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="hlsproxy-100541" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7185.png",Yosso TV Grand
 http://srvru2.play-x.ru:7799/channel/nef02a9d/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c

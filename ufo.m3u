@@ -813,3 +813,54 @@ http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/56632/hlsx/pl.m3u8
 http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/61632/hlsx/pl.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-sssr4k.png" tvg-id="cineman-sssr4k" group-title="CineMan",CineMan CCCP 4K
 http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/56216/hlsx/pl.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="hlsproxy-100541" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7185.png",Yosso TV Grand
+http://srvru2.play-x.ru:7799/channel/nef02a9d/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100573" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7186.png",Yosso TV VHS
+http://srvru2.play-x.ru:7799/channel/n3c37fde8/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100579" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7188.png",Yosso TV Русские Фильмы
+http://srvru2.play-x.ru:7799/channel/6e7e0209/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100581" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7189.png",Yosso TV Советские Фильмы
+http://srvru2.play-x.ru:7799/channel/n1c8f673b/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100541" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7191.png",Yosso TV New Кино
+http://srvru2.play-x.ru:7799/channel/n13f811b8/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100575" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7205.png",Yosso TV Трагичное
+http://srvru2.play-x.ru:7799/channel/n715a7a05/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100576" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7223.png",Yosso TV Забавное
+http://srvru2.play-x.ru:7799/channel/59d73e43/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100577" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7224.png",Yosso TV Best
+http://srvru2.play-x.ru:7799/channel/n4ad06553/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100578" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7229.png",Yosso TV Ковбойское
+http://srvru2.play-x.ru:7799/channel/n1559b7e9/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100574" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7537.png",Yosso TV Oblivion
+http://srvru2.play-x.ru:7799/channel/n5b40a155/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100568" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7538.png",Yosso TV Adrenaline
+http://srvru2.play-x.ru:7799/channel/n3383b4ba/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100570" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7539.png",Yosso TV Adventure
+http://srvru2.play-x.ru:7799/channel/n4f0ff819/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100569" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7545.png",Yosso TV Thriller
+http://srvru2.play-x.ru:7799/channel/nc3ccb5f/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100541" group-title="Yosso" tvg-logo="http://1lot.tv/ch/8250.png",Yosso TV Наше Детское
+http://srvru2.play-x.ru:7799/channel/n4e3b85c6/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100541" group-title="Yosso" tvg-logo="http://1lot.tv/ch/8251.png",Yosso TV Мелодрама
+http://srvru2.play-x.ru:7799/channel/n933e4ad/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100541" group-title="Yosso" tvg-logo="http://1lot.tv/ch/8756.png",Yosso TV Netflix
+http://srvru2.play-x.ru:7799/channel/4994ee29/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100577" group-title="Yosso" tvg-logo="http://1lot.tv/ch/8758.png",Yosso TV Best 60 fps
+http://srvru2.play-x.ru:7799/channel/n7443ecaa/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="yosso-bestbox60" group-title="Yosso" tvg-logo="http://1lot.tv/ch/10172.png",Yosso TV Best Box 60 fps
+http://srvru2.play-x.ru:7799/channel/26592deb/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100608" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7639.png",C-Marvel HD
+http://srvru2.play-x.ru:7799/channel/n2828f19b/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100607" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7832.png",C-Inquest HD
+http://srvru2.play-x.ru:7799/channel/3d1f72f7/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100685" group-title="Yosso" tvg-logo="http://1lot.tv/ch/8060.png",C-History HD
+http://srvru2.play-x.ru:7799/channel/f6099e0/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-100606" group-title="Yosso" tvg-logo="http://1lot.tv/ch/7831.png",C-Comedy HD
+http://srvru2.play-x.ru:7799/channel/n6a0e8cf5/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="c-holiday" group-title="Yosso" tvg-logo="http://1lot.tv/ch/9366.png",C-Holiday HD
+http://srvru2.play-x.ru:7799/channel/58398f9c/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c

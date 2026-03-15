@@ -762,66 +762,6 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" tvg-id="bcu-kinozal-prem-1" group-title="кинозал BCU", BCU Premiere 1 HD
-https://homtv.ru/3855888/BCU_Kinozal_Premiere_1_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2" group-title="кинозал BCU", BCU Premiere 2 HD
-https://homtv.ru/3855888/BCU_Kinozal_Premiere_2_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-3.png" tvg-id="bcu-kinozal-prem-3" group-title="кинозал BCU", BCU Premiere 3 HD
-https://homtv.ru/3855888/BCU_Kinozal_Premiere_3_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4760.png" tvg-id="bcu-premiere" group-title="кинозал BCU", BCU Premiere HD
-https://homtv.ru/3855888/BCU_Premiere_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4748.png" tvg-id="bcu-action" group-title="кинозал BCU",BCU Action HD
-https://homtv.ru/3855888/BCU_Action_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4749.png" tvg-id="bcu-catastrophe" group-title="кинозал BCU",BCU Catastrophe HD
-https://homtv.ru/3855888/BCU_Catastrophe_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png" tvg-id="bcu-cinema" group-title="кинозал BCU", BCU CINEMA HD
-https://homtv.ru/3855888/BCU_Cinema_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png" tvg-id="bcu-cinemaplus" group-title="кинозал BCU", BCU CINEMA+ HD
-https://homtv.ru/3855888/BCU_Cinema_Plus_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-criminal.png" tvg-id="bcu-criminal" group-title="кинозал BCU",BCU Criminal HD
-https://homtv.ru/3855888/BCU_Criminal_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" tvg-id="bcu-fantastic" group-title="кинозал BCU",BCU Fantastic HD
-https://homtv.ru/3855888/BCU_Fantastic_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" tvg-id="bcu-filmystic" group-title="кинозал BCU",BCU FilMystic HD
-https://homtv.ru/3855888/BCU_FilMystic_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-history.png" tvg-id="bcu-history" group-title="кинозал BCU", BCU History HD
-https://homtv.ru/3855888/BCU_History_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8963.png" tvg-id="bcu-comedy" group-title="кинозал BCU",BCU Comedy HD
-https://homtv.ru/3855888/BCU_Comedy_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8963.png" tvg-id="bcu-cosmo" group-title="кинозал BCU",BCU Cosmo HD
-https://homtv.ru/3855888/BCU_Cosmo_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic" group-title="кинозал BCU",BCU Romantic HD
-https://homtv.ru/3855888/BCU_Romantic_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="кинозал BCU",BCU Kinorating HD
-https://homtv.ru/3855888/BCU_Kinorating_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8964.png" tvg-id="bcu-marvel" group-title="кинозал BCU",BCU Marvel HD
-https://homtv.ru/3855888/BCU_Marvel_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" tvg-id="bcu-stars" group-title="кинозал BCU",BCU Stars HD
-https://homtv.ru/3855888/BCU_Stars_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k" group-title="кинозал BCU",BCU Ultra 4K
-https://homtv.ru/3855888/BCU_Ultra_4K/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-vhs-hd.png" tvg-id="bcu-vhs" group-title="кинозал BCU",BCU VHS HD
-https://homtv.ru/3855888/BCU_VHS_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-svaty.png" tvg-id="bcu-svaty" group-title="кинозал BCU", BCU Сваты HD
-https://homtv.ru/3855888/BCU_Svaty_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-sssr-hd.png" tvg-id="bcu-sssr" group-title="кинозал BCU", BCU CCCP HD
-https://homtv.ru/3855888/BCU_USSR_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-russian.png" tvg-id="bcu-russian" group-title="кинозал BCU",BCU Russian HD
-https://homtv.ru/3855888/BCU_Russian_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ruserial.png" tvg-id="bcu-ruserial" group-title="кинозал BCU", BCU Ruserial HD
-https://homtv.ru/3855888/BCU_RUSERIAL_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids.png" tvg-id="bcu-kids" group-title="кинозал BCU", BCU Kids HD
-https://homtv.ru/3855888/BCU_Kids_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-plus.png" tvg-id="bcu-kids-plus" group-title="кинозал BCU",BCU Kids+ HD
-https://homtv.ru/3855888/BCU_Kids_Plus_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-multserial.png" tvg-id="bcu-multserial" group-title="кинозал BCU",BCU Мультсериал HD
-https://homtv.ru/3855888/BCU_Multserial_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-4k.png" tvg-id="bcu-kids-4k" group-title="кинозал BCU", BCU Kids 4K
-https://homtv.ru/3855888/BCU_Kids_4K/video.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-premiere.png" tvg-id="fresh-premiere" group-title="Fresh",Fresh Premiere
 http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/87428/hlsx/pl.m3u8               
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fresh-cinema.png" tvg-id="fresh-cinema" group-title="Fresh",Fresh Cinema
@@ -853,395 +793,52 @@ http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/61859/hlsx/pl.m3u8
 
 
 
-#EXTINF:-1 group-title="Кинозал VF",VF Премьера
-https://homtv.ru/3855888/79c36785/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Premiere
-https://homtv.ru/3855888/n25c46863/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Series
-https://homtv.ru/3855888/n4c0ff265/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF TOP Series
-https://homtv.ru/3855888/313bb8e6/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Сериал
-https://homtv.ru/3855888/69835d3b/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Netflix
-https://homtv.ru/3855888/n3e529712/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF HBO
-https://homtv.ru/3855888/n5a118def/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Кино 4K
-https://homtv.ru/3855888/5983ec54/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Сериал 4K
-https://homtv.ru/3855888/n52012c64/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Adventure
-https://homtv.ru/3855888/n7b2b1a94/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Anime
-https://homtv.ru/3855888/n1c340330/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Юмор 18+
-https://homtv.ru/3855888/n3604f928/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Comedy
-https://homtv.ru/3855888/n66d2e643/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Комедия
-https://homtv.ru/3855888/63bea0ca/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Family
-https://homtv.ru/3855888/n62799578/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Fantasy
-https://homtv.ru/3855888/1359d482/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Fantastic
-https://homtv.ru/3855888/n5bc949a9/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Marvel
-https://homtv.ru/3855888/n5685335d/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Comics
-https://homtv.ru/3855888/n66d2d764/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Mystic
-https://homtv.ru/3855888/n553291f5/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Thriller
-https://homtv.ru/3855888/7eba127c/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Боевик
-https://homtv.ru/3855888/4eaf9130/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Ужасы
-https://homtv.ru/3855888/1c49ef83/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF" tvg-id="vf-vhs",VF VHS MIX
-https://homtv.ru/3855888/357166f9/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Ужасы VHS
-https://homtv.ru/3855888/nffb23c/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Вестерн
-https://homtv.ru/3855888/n528273d6/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Катастрофы
-https://homtv.ru/3855888/n39976b52/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Melodrama
-https://homtv.ru/3855888/n2090b378/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Detective
-https://homtv.ru/3855888/3f1bb9b1/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Криминал
-https://homtv.ru/3855888/777315be/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Оскар
-https://homtv.ru/3855888/1c089d83/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Классика
-https://homtv.ru/3855888/6197a3c3/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Classic
-https://homtv.ru/3855888/n794af212/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF История
-https://homtv.ru/3855888/n967a72/index.m3u8
 
-#EXTINF:-1 group-title="Кинозал VF",VF Art house
-https://homtv.ru/3855888/5343ad7f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Доктор Хаус
-https://homtv.ru/3855888/n4b454c4f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF The X-Files
-https://homtv.ru/3855888/n5e77a0b1/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Сверхъестественное
-https://homtv.ru/3855888/n59fe43e1/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Игра престолов
-https://homtv.ru/3855888/3a3c06b5/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Гарри Поттер
-https://homtv.ru/3855888/75b2c293/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Джеки Чан
-https://homtv.ru/3855888/4a8e1aa1/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Клиника
-https://homtv.ru/3855888/5e6b6b04/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Теория большого взрыва
-https://homtv.ru/3855888/63fad5f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Американская история ужасов
-https://homtv.ru/3855888/n1b025ffc/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Друзья
-https://homtv.ru/3855888/53f0bc87/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Секс в большом городе
-https://homtv.ru/3855888/3981b951/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Карточный домик
-https://homtv.ru/3855888/n36d4b5a6/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Ходячие мертвецы
-https://homtv.ru/3855888/n55c845c9/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Бесстыжие
-https://homtv.ru/3855888/n50f17f9e/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Два с половиной человека
-https://homtv.ru/3855888/n61eb0115/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Наша Раша
-https://homtv.ru/3855888/n4a29b367/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Однажды в России
-https://homtv.ru/3855888/n1e05434/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Городок
-https://homtv.ru/3855888/ne5087fd/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Comedy Woman
-https://homtv.ru/3855888/8c9433f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Маски Шоу
-https://homtv.ru/3855888/n7caae0c/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Каламбур
-https://homtv.ru/3855888/2d867841/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF КВН
-https://homtv.ru/3855888/n5a02bc9f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Уральские пельмени
-https://homtv.ru/3855888/124864a5/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Военные
-https://homtv.ru/3855888/n43d216d1/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Наша победа
-https://homtv.ru/3855888/n30e8cca0/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Мосфильм
-https://homtv.ru/3855888/n12cab184/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Фильмы СССР
-https://homtv.ru/3855888/n6aabccf9/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Леонид Гайдай
-https://homtv.ru/3855888/n378da818/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Эльдар Рязанов
-https://homtv.ru/3855888/2392d973/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Луи де Фюнес
-https://homtv.ru/3855888/d84cd4/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Одесская киностудия
-https://homtv.ru/3855888/17ce964a/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Ленфильм
-https://homtv.ru/3855888/n5d975628/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Киностудия им. Горького
-https://homtv.ru/3855888/19d8650/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Рижская киностудия
-https://homtv.ru/3855888/n2782a1ca/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Свердловская киностудия
-https://homtv.ru/3855888/2ca97b95/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Беларусьфильм
-https://homtv.ru/3855888/n29c744b4/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Чернобыль
-https://homtv.ru/3855888/30f28c5a/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Новогодний
-https://homtv.ru/3855888/d65b946/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Ёлки
-https://homtv.ru/3855888/19a06d1c/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF New Year
-https://homtv.ru/3855888/753b1d01/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF С новым годом!
-https://homtv.ru/3855888/174fc91b/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Мультфильмы СССР
-https://homtv.ru/3855888/dd63185/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Disney Movie
-https://homtv.ru/3855888/n156c5598/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Cartoon
-https://homtv.ru/3855888/74dfb4ca/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Disney Cartoon
-https://homtv.ru/3855888/6b3d5ca6/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Союзмультфильм
-https://homtv.ru/3855888/n2d6853a9/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Ералаш
-https://homtv.ru/3855888/559cfdb2/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF VHS Cartoon
-https://homtv.ru/3855888/n2661f275/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Малыш
-https://homtv.ru/3855888/1be4bb40/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Мультуб
-https://homtv.ru/3855888/n29f01acc/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Новогодние мультфильмы
-https://homtv.ru/3855888/292969e0/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Скуби-Ду
-https://homtv.ru/3855888/2350f52f/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Солдаты
-https://homtv.ru/3855888/n2a045a21/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Тайны следствия
-https://homtv.ru/3855888/1443d724/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Воронины
-https://homtv.ru/3855888/n239d9f09/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Универ
-https://homtv.ru/3855888/6d5a11a3/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF СашаТаня
-https://homtv.ru/3855888/1ad1dc5b/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Универ новая общага
-https://homtv.ru/3855888/n6d1e893c/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Реальные пацаны
-https://homtv.ru/3855888/3c4b5f0a/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF След
-https://homtv.ru/3855888/19aef85d/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Счастливы Вместе
-https://homtv.ru/3855888/n7accaef4/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Сваты
-https://homtv.ru/3855888/1c2bef24/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Без цензуры
-https://homtv.ru/3855888/207a9134/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Музыка
-https://homtv.ru/3855888/61bc9c55/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Music
-https://homtv.ru/3855888/n1b87957f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Привет из 90х
-https://homtv.ru/3855888/9b95461/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Michael Jackson
-https://homtv.ru/3855888/n68a02a6a/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Король и Шут
-https://homtv.ru/3855888/n4439966a/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Легенды Ретро ФМ
-https://homtv.ru/3855888/n64eef067/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Музыкальный Новый год!
-https://homtv.ru/3855888/4f5a2cf4/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Modern Talking
-https://homtv.ru/3855888/n309c3147/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Britney Spears
-https://homtv.ru/3855888/58c7ef7/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Rock
-https://homtv.ru/3855888/17e50789/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Караоке
-https://homtv.ru/3855888/4c1105ef/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Шансон
-https://homtv.ru/3855888/752d9a6f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Музсоюз
-https://homtv.ru/3855888/n2a2d868e/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Metal
-https://homtv.ru/3855888/n1b8ed89d/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Rap
-https://homtv.ru/3855888/n5a116483/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Хит-парад
-https://homtv.ru/3855888/n44c8e20f/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Русский рок
-https://homtv.ru/3855888/718b3db0/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Концерты
-https://homtv.ru/3855888/16ba75c5/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Владимир Высоцкий
-https://homtv.ru/3855888/1c358a0e/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Орел и решка
-https://homtv.ru/3855888/2f3d9d6d/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Путешествия
-https://homtv.ru/3855888/74270aa0/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Авто
-https://homtv.ru/3855888/19a71de2/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Охота
-https://homtv.ru/3855888/1c0a8021/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Домашний повар
-https://homtv.ru/3855888/n7af86f45/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Рыбалка
-https://homtv.ru/3855888/n494a299d/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Стройка
-https://homtv.ru/3855888/n22e5d5b4/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Кухня
-https://homtv.ru/3855888/1bd1532a/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Баня
-https://homtv.ru/3855888/19a78a35/index.m3u8
-
-#EXTINF:-1 group-title="Кинозал VF",VF Сериалы Турции
-https://homtv.ru/3855888/1a838d17/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Мыльные оперы
-https://homtv.ru/3855888/5fcebda2/index.m3u8
-#EXTINF:-1 group-title="Кинозал VF",VF Индия
-https://homtv.ru/3855888/1bb22982/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-bunny-hd.png" tvg-id="sky-high-bunny-hd" group-title="Кинозал SKY HIGH",SKY HIGH BUNNY HD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/BUNNYHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-doc-hd.png" tvg-id="sky-high-doc-hd" group-title="Кинозал SKY HIGH",SKY HIGH DOC FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_DOC_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-brain-hd.png" tvg-id="sky-high-brain-hd" group-title="Кинозал SKY HIGH",SKY HIGH BRAIN FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKYHIGHBRAINFHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-nature-fhd.png" tvg-id="sky-high-nature-fhd" group-title="Кинозал SKY HIGH",SKY HIGH NATURE FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_NATURE_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-beyond-s-fhd.png" tvg-id="sky-high-beyond-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH BEYOND S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_BEYOND_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-scream-fhd.png" tvg-id="sky-high-scream-fhd" group-title="Кинозал SKY HIGH",SKY HIGH SCREAM FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_SCREAM_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-fear-vhs-fhd.png" tvg-id="sky-high-fear-vhs-fhd" group-title="Кинозал SKY HIGH",SKY HIGH FEAR VHS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_FEAR_VHS_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-jetix-hd.png" tvg-id="sky-high-jetix-hd" group-title="Кинозал SKY HIGH",SKY HIGH JETIX HD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_JETIX_HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-brick-s-fhd.png" tvg-id="sky-high-brick-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH BRICK S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_BRICK_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-dusts-fhd.png" tvg-id="sky-high-dusts-fhd" group-title="Кинозал SKY HIGH",SKY HIGH DUSTS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_DUST_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-strike-vhs-fhd.png" tvg-id="sky-high-strike-vhs-fhd" group-title="Кинозал SKY HIGH",SKY HIGH STRIKE VHS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" tvg-id="sky-high-firezone-fhd" group-title="Кинозал SKY HIGH",SKY HIGH FIREZONE FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_FIREZONE_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-gunrush-fhd.png" tvg-id="sky-high-gunrush-fhd" group-title="Кинозал SKY HIGH",SKY HIGH GUNRUSH FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_GUNRUSH_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-quants-fhd.png" tvg-id="sky-high-quants-fhd" group-title="Кинозал SKY HIGH",SKY HIGH QUANTS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_QUANT_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-tanoss-fhd.png" tvg-id="sky-high-tanoss-fhd" group-title="Кинозал SKY HIGH",SKY HIGH TANOS S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_TANOS_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-bats-fhd.png" tvg-id="sky-high-bats-fhd" group-title="Кинозал SKY HIGH",SKY HIGH BATS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_BAT_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" tvg-id="sky-high-neonvhs-fhd" group-title="Кинозал SKY HIGH",SKY HIGH NEONVHS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_NEON_VHS_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-future-fhd.png" tvg-id="sky-high-future-fhd" group-title="Кинозал SKY HIGH",SKY HIGH FUTURE FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_FUTURE_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-nicks-fhd.png" tvg-id="sky-high-nicks-fhd" group-title="Кинозал SKY HIGH",SKY HIGH NICKS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_NICK_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-toon-s-fhd.png" tvg-id="sky-high-toon-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH TOON S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_TOON_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-junior-fhd.png" tvg-id="sky-high-junior-fhd" group-title="Кинозал SKY HIGH",SKY HIGH JUNIOR FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_JUNIOR_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-teen-fhd.png" tvg-id="sky-high-teen-fhd" group-title="Кинозал SKY HIGH",SKY HIGH TEEN FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_TEEN_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-boom-fhd.png" tvg-id="sky-high-boom-fhd" group-title="Кинозал SKY HIGH",SKY HIGH BOOM FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_BOOM_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-civil-s-fhd.png" tvg-id="sky-high-civil-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH CIVIL S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_CIVIL_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-archive-fhd.png" tvg-id="sky-high-archive-fhd" group-title="Кинозал SKY HIGH",SKY HIGH ARCHIVE FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_ARCHIVE_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-trace-s-fhd.png" tvg-id="sky-high-trace-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH TRACE S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_TRACE_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-votum-s-fhd.png" tvg-id="sky-high-votum-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH VOTUM S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_VOTUM_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-case-vhs-fhd.png" tvg-id="sky-high-case-vhs-fhd" group-title="Кинозал SKY HIGH",SKY HIGH CASE VHS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_CASE_VHS_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-zippy-s-fhd.png" tvg-id="sky-high-zippy-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH ZIPPY S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_ZIPPY_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-heart-s-fhd.png" tvg-id="sky-high-heart-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH HEART S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_HEART_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-joke-fhd.png" tvg-id="sky-high-joke-fhd" group-title="Кинозал SKY HIGH",SKY HIGH JOKE FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_JOKE_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-medy-vhs-fhd.png" tvg-id="sky-high-medy-vhs-fhd" group-title="Кинозал SKY HIGH",SKY HIGH MEDY VHS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_MEDY_VHS_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-romix-fhd.png" tvg-id="sky-high-romix-fhd" group-title="Кинозал SKY HIGH",SKY HIGH ROMIX FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_ROMIX_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-red-s-fhd.png" tvg-id="sky-high-red-s-fhd" group-title="Кинозал SKY HIGH",SKY HIGH RED S FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_RED_S_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-wizz-vhs-fhd.png" tvg-id="sky-high-wizz-vhs-fhd" group-title="Кинозал SKY HIGH",SKY HIGH WIZZ VHS FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-dragon-fhd.png" tvg-id="sky-high-dragon-fhd" group-title="Кинозал SKY HIGH",SKY HIGH DRAGON FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_DRAGON_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-woonder-fhd.png" tvg-id="sky-high-woonder-fhd" group-title="Кинозал SKY HIGH",SKY HIGH WOONDER FHD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_WOONDER_FHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-space-4k-hdr.png" tvg-id="sky-high-space-4k-hdr" group-title="Кинозал SKY HIGH",SKY HIGH SPACE 4K HDR
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_SPACE_4K_HDR/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-horror-4k-hdr.png" tvg-id="sky-high-horror-4k-hdr" group-title="Кинозал SKY HIGH",SKY HIGH HORROR 4K HDR
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_HORROR_4K_HDR/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1543.png" tvg-id="no_epg_music" group-title="Кинозал SKY HIGH",SKY HIGH LOFI HD
-#EXTVLCOPT:network-caching=1000
-https://homtv.ru/3855888/SKY_HIGH_LO_FIHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman.png" tvg-id="cineman" group-title="CineMan",CineMan
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/53382/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" tvg-id="cineman-action" group-title="CineMan",Cineman Action
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/63846/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-katastrofy.png" tvg-id="cineman-katastrofy" group-title="CineMan",Cineman Катастрофы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/53874/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png" tvg-id="cineman-thriller" group-title="CineMan",CineMan Thriller
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/45284/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" tvg-id="cineman-top" group-title="CineMan",CineMan Top
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/29842/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" tvg-id="cineman-marvel" group-title="CineMan",CineMan Marvel
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/47931/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-uzhasy.png" tvg-id="cineman-uzhasy" group-title="CineMan",CineMan Ужасы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/47298/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png" tvg-id="cineman-comedy" group-title="CineMan",CineMan Комедия
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/64557/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png" tvg-id="cineman-melodrama" group-title="CineMan",Cineman Мелодрама
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/35582/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-miniseries.png" tvg-id="cineman-miniseries" group-title="CineMan",Cineman MiniSeries
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/52239/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-premium.png" tvg-id="cineman-premium" group-title="CineMan",CineMan Premium
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/30448/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png" tvg-id="cineman-vhs" group-title="CineMan",CineMan VHS
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/59429/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png" tvg-id="cineman-rukino" group-title="CineMan",CineMan РуКино
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/27445/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-sssr-fhd.png" tvg-id="cineman-sssr-fhd" group-title="CineMan",Cineman СССР
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/69286/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-svaty.png" tvg-id="cineman-svaty" group-title="CineMan",CineMan Сваты
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/62337/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" tvg-id="cineman-pes" group-title="CineMan",CineMan Пес Лихач
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/28488/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" tvg-id="cineman-lesnik" group-title="CineMan",CineMan Лесник
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/37746/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-musw.png" tvg-id="cineman-musw" group-title="CineMan",CineMan Ментовские войны
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/45271/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-gluhar.png" tvg-id="cineman-gluhar" group-title="CineMan",CineMan Криминальные Сериалы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/62853/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-vovserials.png" tvg-id="cineman-vovserials" group-title="CineMan",Cineman Военные сериалы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/52947/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-komseri.png" tvg-id="cineman-komseri" group-title="CineMan",CineMan Комедийные Сериалы
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/64376/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-skorpom.png" tvg-id="cineman-skorpom" group-title="CineMan",CineMan Скорая Помощь
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/56632/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-old4k.png" tvg-id="cineman-old4k" group-title="CineMan",Cineman OLD 4K
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/61632/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cineman-sssr4k.png" tvg-id="cineman-sssr4k" group-title="CineMan",CineMan CCCP 4K
+http://rr3.tvdosug.net/2018d9525c787f1b2062fde2e2d7869dc48/56216/hlsx/pl.m3u8

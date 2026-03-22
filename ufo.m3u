@@ -1039,6 +1039,8 @@ http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=cheburashka_pidaras_za
 http://tv.woobl.ru/SKY_HIGH_JETIX_HD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BRICK S FHD
 http://tv.woobl.ru/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
+#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DUSTS FHD
+http://tv.woobl.ru/SKY_HIGH_DUST_S_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH STRIKE VHS FHD
 http://tv.woobl.ru/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FIREZONE FHD
@@ -1047,6 +1049,10 @@ http://tv.woobl.ru/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=cheburashka_pidaras_za
 http://tv.woobl.ru/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TANOS S FHD
 http://tv.woobl.ru/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
+#EXTINF:-1 tvg-logo="" group-title="SKY HIGH",SKY HIGH BATS FHD
+http://tv.woobl.ru/SKY_HIGH_BAT_S_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
+#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH QUANTS FHD
+http://tv.woobl.ru/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NEONVHS FHD
 http://tv.woobl.ru/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=cheburashka_pidaras_zayebal_pizdit_ssylki
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FUTURE FHD

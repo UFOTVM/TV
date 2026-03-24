@@ -310,7 +310,7 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",8 канал
 http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://kino-stream.online/logo/patriot.png" group-title="Кино",Патриот
-http://cdn.kubteltv.workers.dev/?ID=362
+http://s06.wsbof.com:8080/s/5606c48d/patriot.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rtvi.png" tvg-id="rtvi" group-title="Кино",RTVi HD
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Bollywood HD
@@ -328,11 +328,11 @@ http://46.151.151.250:9113
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
-http://cdn.kubteltv.workers.dev/?ID=255
+http://s06.wsbof.com:8080/s/5606c48d/hit-hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
-http://cdn.kubteltv.workers.dev/?ID=343
+http://allway.tv/iptv/users/etmoro/362.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/blokbaster.png" tvg-id="bolt" group-title="Кино", Блокбастер HD
-http://cdn.kubteltv.workers.dev/?ID=219
+http://s06.wsbof.com:8080/s/5606c48d/blokbaster-hd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="blokbaster-hd" group-title="Кино", Bolt HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8
 
@@ -404,7 +404,7 @@ http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/567440
 #EXTINF:-1 group-title="Детские",Карусель
 http://46.53.208.4:80/live/5123.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://kino-stream.online/logo/solnce.png" group-title="Детские",Солнце
-http://cdn.kubteltv.workers.dev/?ID=334
+https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://kino-stream.online/logo/2na2.png" group-title="Детские",2x2 HD
@@ -413,8 +413,6 @@ https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=cs
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 tvg-id="dtrzona2" tvg-logo="https://kino-stream.online/dtrzona2.png" group-title="Детские", DTR ZONA 2 HD
 https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 tvg-id="3x3" tvg-logo="https://kino-stream.online/logo/3x3.png" group-title="Детские", 3x3
-https://st01.kino-stream.online/hls/3x3.m3u8
 #EXTINF:-1 group-title="Детские",Уникум
 http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
@@ -459,8 +457,6 @@ http://kinowalk.hopto.org/foxkids_remastered_live
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://lh3.googleusercontent.com/MNoso0zs34PjhzxJ_2UD8aFmbnvmXthy-b68oBLxtUpwwl4mV4Qhl8SDwSugC2yTAQ" group-title="Детские", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/26226613/avatar?change_time=1754551047&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Детские", ZumiBox
-http://kinowalk.hopto.org/zumibox_live
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
 http://46.53.208.4:80/live/3007.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-69.userapi.com/HbcoGQvbaerf9JEAaSN5JtAubI5EDmmvubQ0_w/rT9Uhxtosr8.jpg" tvg-id="no_epg_mult" group-title="Детские", Мультики и сказки
@@ -468,8 +464,6 @@ http://46.53.208.4:80/live/3007.m3u8
 rtmp://vkvsd181.okcdn.ru/playback/4105799740408?stkn=NjFStGS4WV6BkVv7awAQ0tzj1KU3ogV4kGyB9tlShxJqymgbcn0noE0Y2b4HyjqVg4M_Rc-tbS4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="Детские",Cartoon Classics
 http://46.53.208.4:80/live/1303.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="ducktv" tvg-logo="https://epg.iptvx.one./picons/ducktv.png",ducktv HD
-https://cdn-fr1.lamro.tv/ch5726/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18534796/avatar?change_time=1756592611&croped=1&mh=140&mw=140" group-title="Детские", Play 4 Fun
 http://kinowalk.hopto.org/play4fun_live
 

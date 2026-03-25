@@ -56,6 +56,8 @@ https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 http://46.53.208.4:80/live/214.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piaty-int.png" tvg-id="5kanal-ru" group-title="Основные",Пятый канал
 http://46.53.208.4:80/live/5121.m3u8
+#EXTINF:-1 group-title="Основные",8 канал
+http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/906.png" group-title="Основные",ОТР
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda.png" tvg-id="zvezda" group-title="Основные",Звезда
@@ -67,7 +69,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/46.png" group-title="Основные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir24.png" tvg-id="mir-24" group-title="Основные",  Мир 24 HD
-http://cdn.kubteltv.workers.dev/?ID=345
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=AHyYF5k7S-kCLd06laF3_w&e=2069500976&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" tvg-id="solovjinypomiot" group-title="Основные",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
@@ -92,7 +94,7 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0n
 #EXTINF:-1 tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" group-title="Развлекательные",DTR ZONA 1 HD
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 tvg-id="1322" tvg-logo="https://kino-stream.online/logo/CTCLove.png" group-title="Развлекательные",CTC Love
-http://cdn.kubteltv.workers.dev/?ID=35
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-logo="https://kino-stream.online/logo/THT4.png" group-title="Развлекательные",THT4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=YmLsZ86xBHJzGryIFXgrmg&e=2069500953&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt4.png" tvg-id="tnt4" group-title="Развлекательные", ТНТ 4
@@ -250,13 +252,13 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/premera/1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
-http://cdn.kubteltv.workers.dev/?ID=105
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png" tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/muzhskoe_kino_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" tvg-id="kinokomedia" group-title="Кино", Кинокомедия
-http://cdn.kubteltv.workers.dev/?ID=328
+http://tinyurl.com/TvZaTak008/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
@@ -285,8 +287,8 @@ http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мир Сериала
 http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
-#EXTINF:-1 tvg-id="2041" tvg-logo="https://kino-stream.online/logo/NTVXIT.png" group-title="Кино",НТВ-Хит
-http://cdn.kubteltv.workers.dev/?ID=329
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://epg.iptvx.one/picons/ntv-xit.png" group-title="Кино",НТВ Хит
+http://tv.ttk.mx:9173
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="mirovoe-kino-kz" group-title="Кино",Мировое Кино HD
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
@@ -307,8 +309,6 @@ http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/premium-kino-kz.png" tvg-id="premium-kino-kz" group-title="Кино",Премиум Кино HD
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",8 канал
-http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://kino-stream.online/logo/patriot.png" group-title="Кино",Патриот
 http://s06.wsbof.com:8080/s/5606c48d/patriot.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rtvi.png" tvg-id="rtvi" group-title="Кино",RTVi HD
@@ -427,8 +427,6 @@ http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
-#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://kino-stream.online/logo/smaylik-tv.png" group-title="Детские",Смайлик ТВ HD
-http://cdn.kubteltv.workers.dev/?ID=177
 #EXTINF:-1 group-title="Детские",TiJi
 http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
@@ -447,6 +445,8 @@ http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
 http://46.53.208.4:80/live/1448.m3u8
 #EXTINF:-1 tvg-id="supergeroi" group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Classics
+http://46.53.208.4:80/live/1303.m3u8
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" group-title="Детские", Канал Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19932695/avatar?change_time=1741354798&croped=1&mh=140&mw=140" group-title="Детские", Disney XD
@@ -459,11 +459,21 @@ http://kinowalk.hopto.org/jtxonline_live
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
 http://46.53.208.4:80/live/3007.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/24/8b/c8/248bc8ea6a9e8206a5a667b8a4f8161a.jpg" tvg-id="no_epg_mult" group-title="Детские",Том и Джерри
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://sun9-69.userapi.com/HbcoGQvbaerf9JEAaSN5JtAubI5EDmmvubQ0_w/rT9Uhxtosr8.jpg" tvg-id="no_epg_mult" group-title="Детские", Мультики и сказки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd181.okcdn.ru/playback/4105799740408?stkn=NjFStGS4WV6BkVv7awAQ0tzj1KU3ogV4kGyB9tlShxJqymgbcn0noE0Y2b4HyjqVg4M_Rc-tbS4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="Детские",Cartoon Classics
-http://46.53.208.4:80/live/1303.m3u8
+
+#EXTINF:-1 tvg-logo="https://niknik.tv/images/logo.png" tvg-id="no_epg_mult" group-title="Детские", NikNik-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/479/3080479-middle.png" tvg-id="no_epg_mult" group-title="Детские",Futurama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18534796/avatar?change_time=1756592611&croped=1&mh=140&mw=140" group-title="Детские", Play 4 Fun
 http://kinowalk.hopto.org/play4fun_live
 

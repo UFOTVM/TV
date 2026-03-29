@@ -767,11 +767,10 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DOC FHD
-http://tv.woobl.ru/SKY_HIGH_DOC_FHD/video.m3u8?token=test222333
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NATURE FHD
 http://tv.woobl.ru/SKY_HIGH_NATURE_FHD/video.m3u8?token=test222333
+#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DOC FHD
+http://tv.woobl.ru/SKY_HIGH_DOC_FHD/video.m3u8?token=test222333
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BEYOND S FHD
 http://tv.woobl.ru/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=test222333
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH SCREAM FHD

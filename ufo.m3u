@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH" refresh="3600" cache=500 audio-track=ru m3uautoload=1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
+https://edge02d.mediavitrina.ru/hls-livef1/1tv/tracks-v5a1/mono.ts.m3u8?token=v2.4uqd7Xl_6HUVbGw_rSVwGm9Sd-wLgeuCCgr5aFCbGXk.oEVdD5JqzqI4TRRWy_1AxA5pGJPYdvZML9u5cXxa1lc.1777026685.f9c2e721cdf08f0f91c304b07790f4c4
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png" group-title="Основные",Первый Европа
@@ -23,7 +23,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Основные" ,360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8
+https://edge02d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.4uqd7Xl_6HUVbGw_rSVwGm9Sd-wLgeuCCgr5aFCbGXk.oEVdD5JqzqI4TRRWy_1AxA5pGJPYdvZML9u5cXxa1lc.1777026685.f9c2e721cdf08f0f91c304b07790f4c4
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -31,7 +31,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=E0
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_hd/16/playlist.m3u8
+https://edge02d.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.4uqd7Xl_6HUVbGw_rSVwGm9Sd-wLgeuCCgr5aFCbGXk.oEVdD5JqzqI4TRRWy_1AxA5pGJPYdvZML9u5cXxa1lc.1777026685.f9c2e721cdf08f0f91c304b07790f4c4
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD

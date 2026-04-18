@@ -254,13 +254,13 @@ http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
 http://92.63.106.41/24hp/stream.php?id=183
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8
+http://92.63.106.41/24hp/stream.php?id=528
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
 http://92.63.106.41/24hp/stream.php?id=534
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png" tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/muzhskoe_kino_hd/16/playlist.m3u8
+http://92.63.106.41/24hp/stream.php?id=148
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" tvg-id="kinokomedia" group-title="Кино", Кинокомедия
 http://92.63.106.41/24hp/stream.php?id=3738
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас HD

@@ -9,11 +9,11 @@ http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.propg.net/img/channel_icons/2.png" tvg-id="rossia1" group-title="Основные", Россия 1
-http://31.210.208.171:8080/russia1/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ntv.png" tvg-id="ntv" group-title="Основные",  НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=KRpRtdju100oOaCoxpKyPg&e=2066519750&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/3.png" tvg-id="ntv" group-title="Основные",  НТВ
-http://31.210.208.171:8080/ntv/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/1040/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные", Россия 24
 http://31.210.208.171:8080/russia24/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные", Россия 24 HD
@@ -29,7 +29,7 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ren_tv_hd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
 https://edge02d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.5KnTNb3w0VD1vr765O8afH8CeOSf5ISDiBeBVYqVjeo.KaFKDTM5xtXBbHJVNaqg7oKE9QiyDKs4z_L7sstf6Vo.1777197923.6c16cf30e776f30ce382974524cc687d
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
-http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=E0R2kfCL_-Hcl58HPM1jgA&e=2072222110&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
@@ -43,7 +43,7 @@ http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=574vg6yabF0PZrSsdpRKuw&e=2069846623&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3
-http://31.210.208.171:8080/tv3/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piatnica.png" tvg-id="piatnica" group-title="Основные",  Пятница HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=XhfUK7cRUF2Ss3pJ9kCOmg&e=2069846622&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53.png" tvg-id="piatnica" group-title="Основные",  Пятница
@@ -51,7 +51,7 @@ http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/super.png" tvg-id="super" group-title="Основные",Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=ygOk2tDua8hSzJnHH27dwA&e=2069500956&scheme=https
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
-http://31.210.208.171:8080/che/index.m3u8?token=+W2MSER
+http://92.63.106.41/24hp/stream.php?id=4846
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/domashny_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
@@ -69,7 +69,7 @@ http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/906.png" group-title="Основные",ОТР
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda.png" tvg-id="zvezda" group-title="Основные",Звезда
-http://31.210.208.171:8080/zvezda/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/2070/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda.png" tvg-id="zvezda" group-title="Основные",Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda-plus.png" tvg-id="zvezda-plus" group-title="Основные", Звезда+ HD
@@ -81,7 +81,7 @@ https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=AH
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" tvg-id="solovjinypomiot" group-title="Основные",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
-http://31.210.208.171:8080/spas/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/2020/index.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/ont-by.png" tvg-id="ont-by" group-title="Основные",ОНТ HD
 http://46.53.208.4:80/live/849.m3u8
 #EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://kino-stream.online/logo/krik-tv.png" group-title="Основные",КРИК-ТВ HD
@@ -108,7 +108,7 @@ http://31.210.208.171:8080/tnt4/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://kino-stream.online/logo/prodvizhenie.png" group-title="Развлекательные",Продвижение HD
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://kino-stream.online/logo/kvn-tv.png" group-title="Развлекательные",КВН ТВ
-http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
+http://92.63.106.41/24hp/stream.php?id=3452
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Развлекательные",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/gags-network.png" tvg-id="gags-network" group-title="Развлекательные",Gags Network

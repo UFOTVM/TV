@@ -284,7 +284,7 @@ http://92.63.106.41/24hp/stream.php?id=5552
 http://92.63.106.41/24hp/stream.php?id=4781
 #EXTINF:-1 group-title="Кино",Наш Кинопаказ HD
 http://92.63.106.41/24hp/stream.php?id=4775
-#EXTINF:-1 group-title="Общие",Камеди HD
+#EXTINF:-1 group-title="Кино",Камеди HD
 http://92.63.106.41/24hp/stream.php?id=4780
 #EXTINF:-1 group-title="Кино",Cinema
 http://46.53.208.4:80/live/2092.m3u8

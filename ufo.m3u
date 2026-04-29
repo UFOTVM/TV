@@ -214,7 +214,12 @@ http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-sports-prem-ar.png" tvg-id="tnt-sports-prem-ar" group-title="Спорт", TNT SPORTS 1 HD
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=Tk2ELJCYDAttr-psIBrOWw&e=2077359365&scheme=https
-
+#EXTINF:-1 tvg-id="okko-sport" catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Спорт HD
+https://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
+#EXTINF:-1 tvg-id="okko-football" catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Футбол HD
+https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
+#EXTINF:-1 tvg-id="okko-sport-2" catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Прайм Спорт HD
+https://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино",Amedia 1 HD
@@ -858,6 +863,85 @@ https://kino.zunotv.workers.dev/SKY_HIGH_LO_FIHD/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Franchise HD
+https://kino.zunotv.workers.dev/BOX_Franchise_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Hybrid HD
+https://kino.zunotv.workers.dev/BOX_Hybrid_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Gangster HD
+https://kino.zunotv.workers.dev/BOX_Gangster_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Anime HD
+https://kino.zunotv.workers.dev/BOX_Anime_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Memory HD
+https://kino.zunotv.workers.dev/BOX_Memory_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX M.Serial HD
+https://kino.zunotv.workers.dev/BOX_MSerial_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Serial HD
+https://kino.zunotv.workers.dev/BOX_Serial_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Music 4K
+https://kino.zunotv.workers.dev/BOX_Music_4K/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Relax 4K
+https://kino.zunotv.workers.dev/BOX_Relax_4K/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Spy HD
+https://kino.zunotv.workers.dev/BOX_Spy_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Game HD
+https://kino.zunotv.workers.dev/BOX_Game_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Travel HD
+https://kino.zunotv.workers.dev/BOX_Travel_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Western HD
+https://kino.zunotv.workers.dev/BOX_Western_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Zombie HD
+https://kino.zunotv.workers.dev/BOX_Zombie_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Cyber HD
+https://kino.zunotv.workers.dev/BOX_Cyber_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge 1 Live HD
+https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD_Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge 2 Live HD
+https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD_Live_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Docu HD
+https://kino.zunotv.workers.dev/BOX_Docu_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge HD
+https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Ghost HD
+https://kino.zunotv.workers.dev/BOX_Ghost_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Stories HD
+https://kino.zunotv.workers.dev/BOX_Stories_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Fantasy HD
+https://kino.zunotv.workers.dev/BOX_Fantasy_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Serial 4K
+https://kino.zunotv.workers.dev/BOX_Serial_4K/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Remast 4K
+https://kino.zunotv.workers.dev/BOX_Remast_4K/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Remast+ 4K
+https://kino.zunotv.workers.dev/BOX_Remast_Plus_4K/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 1 HD
+https://kino.zunotv.workers.dev/BOX_SportCast_1_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 2 HD
+https://kino.zunotv.workers.dev/BOX_SportCast_2_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 3 HD
+https://kino.zunotv.workers.dev/BOX_SportCast_3_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 5 HD
+https://kino.zunotv.workers.dev/BOX_SportCast_5_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 6 HD
+https://kino.zunotv.workers.dev/BOX_SportCast_6_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 8 HD
+https://kino.zunotv.workers.dev/BOX_SportCast_8_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 9 HD
+https://kino.zunotv.workers.dev/BOX_SportCast_9_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX RU.RAP HD
+https://kino.zunotv.workers.dev/BOX_RuRap_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sportcast HD
+https://kino.zunotv.workers.dev/BOX_Sportcast_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Travel Premiere HD
+https://kino.zunotv.workers.dev/BOX_Travel_Premiere_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Gurman HD
+https://kino.zunotv.workers.dev/BOX_Gurman_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Autotrend HD
+https://kino.zunotv.workers.dev/BOX_Autotrend_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Apocalypse HD
+https://kino.zunotv.workers.dev/BOX_Apocalypse_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sitcom HD
+https://kino.zunotv.workers.dev/BOX_Sitcom_HD/index.m3u8
 
 
 

@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый FHD
-https://edge02d.mediavitrina.ru/hls-livef1/1tv/tracks-v5a1/mono.ts.m3u8?token=v2.TPBmNlHIcD19Z1rkD9M7uU7QitgkpRMJK7g7EWve1v0.3fivaM5iZqHdEC3I26bMJ5YeFvpvEBFcALoViSpzBgA.1777615582.9fc50fc865743b6123c1689c94214c74
+http://185.221.213.254/live/stream11.php?q=OWHPT_MRdjOT2tz52BOmAAveKyUijEFuCdAn1H9jrcQY2lMvu-IOavivPws25uVzmyM-b6r6ktWWzjELjgQk0T7ZetLZdg2KbAN9dhfEO_HI8bvWR9iY3ixs8MJOtUES1O4H4Y-EvcPFy9a3Y6y_5Wr7rYNrkmbcPQvkr-QC16BkJTZn14wGcLEi_InRe_yPiRjgVTuB3PZYPVDh_lf-oaxkerodF5cGpYiKBb3Ok-sDukR6FOdkdEsa-iww7A645MqpnllBOyas0N7OV_s-VZvWjTe2B_At6pl5GSmL1aG2txGksytU68D3duw8PyNDwRz6rVHXW3cFJXhlQ6EhEdxq1a2BfWPnL8qSi0QUzg-0X9IIwdFYyPf5_TF2JoSqrbI6iIhaRhtu-4gBcNyGsG1Kg-Nc3bfPI8jtjvPaSs_tu5mMT2DHIBBBZ_OAkD4OO1cVkXPQvizCLmEgxbJwGKfXFwUTMh77A4sttx5ekeGZjIG5oHR92hlyfoLO-EwaFVIBCyVAnnw_TduNiKTAfQ&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
@@ -29,7 +29,7 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2h
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
-https://edge02d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.TPBmNlHIcD19Z1rkD9M7uU7QitgkpRMJK7g7EWve1v0.3fivaM5iZqHdEC3I26bMJ5YeFvpvEBFcALoViSpzBgA.1777615582.9fc50fc865743b6123c1689c94214c74
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgKvnM9MElmWatLTg3qIfzEx_9wOoD6H5l21pVt3qrLVXJyt62XuLErvoMio-HbHKCiQXaF4PF0irjw6wFOP02aNEB9ReJbhVIDvh9bt0wwYhZ_Z3yYTTRoTRTNGu9eZXI3gIHHn01wxR3vhcLR8bNrbf3bQi16W1CdocEwGtHDq6P3Zv3xC1sn8u8mT66EPYja6pUuqrhseERbfuEMKywXbENfjUUlngBOkIZbDmtAL3WW8Hg0tLs7GRsKd5M4w-X&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -39,7 +39,7 @@ http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
-https://edge02d.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.TPBmNlHIcD19Z1rkD9M7uU7QitgkpRMJK7g7EWve1v0.3fivaM5iZqHdEC3I26bMJ5YeFvpvEBFcALoViSpzBgA.1777615582.9fc50fc865743b6123c1689c94214c74
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgupCnL886_9CMa1v5ehWOEe7Y5OdQX6Ic94hLnua31sn-2gtSabU1X49ARfgUWdq4A0BhAHqt99Bf_ZNdGVauxQSuEOWtxw2uzPiBDdNuQwfqx91S6rCuS19nHszGo5grbNfhdA8MGkTXtdNyWXSiBlA6UXBXIHTH2UPpy-FDpMmEMC775uVJ8ZX6LVyQowII7ME_FS5DwJQa1rutw5IQRVRJcrsG3AhGNbFwok0XD9e0KVJe8fMh1YuKlomFJz01&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -55,7 +55,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=yg
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/domashny_hd/16/playlist.m3u8
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgeuCwCHtKgrsnhAYtDYJPCiGArqofP3nZJTX0Dm3QxgYL6yrqAi_3X5ibtYEXjATf5VDbHlgMvYIiz7_zb5o9p8aMcxVWl5wE01y4ARvconHCMX6p6Wgma84MDkaLGHafHxdLCJHwymZZYW4_LXG310UnUQnB85JTGrX9_j8_xX-vncMJUAgauJdnHQHG2Z-oBHa8GCfbUwIxVbGynoCVJnoa5lf1ioa0j7zxKt7_U8riH9e-LmsKwBYmpCH6uyAZ&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
@@ -113,12 +113,6 @@ https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IB
 http://92.63.106.41/24hp/stream.php?id=3452
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Развлекательные",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/gags-network.png" tvg-id="gags-network" group-title="Развлекательные",Gags Network
-http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/anekdottv.png" tvg-id="anekdottv" group-title="Развлекательные",Анекдот ТВ
-http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Новый игровой канал
-http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Вопросы и ответы
@@ -306,14 +300,6 @@ http://tv.ttk.mx:9173
 http://92.63.106.41/ptv/trico/ch.php?id=2524&token=freshtv
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://185.164.82.18:9010/ykMHqK_Fox
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="mirovoe-kino-kz" group-title="Кино",Мировое Кино HD
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/semejnoe-kino-kz.png" tvg-id="semejnoe-kino-kz" group-title="Кино",Семейное кино HD
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/premium-kino-kz.png" tvg-id="premium-kino-kz" group-title="Кино",Премиум Кино HD
-http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoboevik-kz.png" tvg-id="kinoboevik-kz" group-title="Кино",Кинобоевик HD
-http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX Life HD
@@ -377,7 +363,7 @@ https://kino.zunotv.workers.dev/history_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 https://kino.zunotv.workers.dev/viju_plus_planet_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgnEsi3FHhyWu9MvKlqdsJjYcoN7IxAMM9Mf4_0MniafzjWrivHDvXJ-HR6Ll1LM1A2gx-h_r82biQovZLfpJBprNwkJUQz6yrEF_2q4vyrHPWbf61Do8hrs8402pRTiZYRqIa0Wi0lszCsOZEVYAffTkbF6vh0UHrAsB1oIz8pyg0W2kK6rukV8YDMTIp02mDLnRLRgcaNb7X6ibHwNPVZo-tifQ6qQYKFeUWCaVfHV94_LylNKn3YKAodGiuAKoa&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
@@ -392,8 +378,6 @@ http://tv.ttk.mx:9066
 http://92.63.106.41/24hp/stream.php?id=494
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 http://46.32.176.50/domashniejivotnie/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Da Vinci
-https://a3569457567-s70378.cdn.ngenix.net/da_vinci/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Зоопарк
 http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
@@ -463,6 +447,8 @@ https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
 http://46.53.208.4:80/live/2424.m3u8
+#EXTINF:-1 group-title="Детские",Da Vinci
+https://a3569457567-s70378.cdn.ngenix.net/da_vinci/index.m3u8
 #EXTINF:-1 group-title="Детские",Лапки LIVE
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские",English Club TV
@@ -575,15 +561,15 @@ http://212.32.241.201:8000/play/a01g
 
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/scripach-tv.webp" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Скрипач ТВ orig
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
-#EXTINF:-1 tvg-id="49811" tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="Кинозал Креаторы", Скрипач ТВ HD
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="Кинозал Креаторы", Скрипач ТВ HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://telik.live/images/selecao_tv.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", SeleCaoTV Фильмы orig
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Фильм
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Фильм
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://telik.live/images/selecao_tv.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", SeleCaoTV Сериалы orig
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
-#EXTINF:-1 tvg-id="NoEPG" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Сериал
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Сериал
 http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kino Mix
 http://kinowalk.hopto.org/yurich_kinomix_live

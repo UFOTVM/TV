@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый FHD
-http://185.221.213.254/live/stream11.php?q=OWHPT_MRdjOT2tz52BOmAAveKyUijEFuCdAn1H9jrcQY2lMvu-IOavivPws25uVzmyM-b6r6ktWWzjELjgQk0T7ZetLZdg2KbAN9dhfEO_HI8bvWR9iY3ixs8MJOtUES1O4H4Y-EvcPFy9a3Y6y_5Wr7rYNrkmbcPQvkr-QC16BkJTZn14wGcLEi_InRe_yPiRjgVTuB3PZYPVDh_lf-oaxkerodF5cGpYiKBb3Ok-sDukR6FOdkdEsa-iww7A645MqpnllBOyas0N7OV_s-VZvWjTe2B_At6pl5GSmL1aG2txGksytU68D3duw8PyNDwRz6rVHXW3cFJXhlQ6EhEdxq1a2BfWPnL8qSi0QUzg-0X9IIwdFYyPf5_TF2JoSqrbI6iIhaRhtu-4gBcNyGsG1Kg-Nc3bfPI8jtjvPaSs_tu5mMT2DHIBBBZ_OAkD4OO1cVkXPQvizCLmEgxbJwGKfXFwUTMh77A4sttx5ekeGZjIG5oHR92hlyfoLO-EwaFVIBCyVAnnw_TduNiKTAfQ&token=MjIyMjoyMjIyMjI=
+http://46.151.151.250:9093
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
@@ -61,7 +61,7 @@ http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
 https://edge02d.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.TPBmNlHIcD19Z1rkD9M7uU7QitgkpRMJK7g7EWve1v0.3fivaM5iZqHdEC3I26bMJ5YeFvpvEBFcALoViSpzBgA.1777615582.9fc50fc865743b6123c1689c94214c74
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ
-https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://kino-stream.online/logo/russiak.png" group-title="Основные",Россия K
 http://31.131.141.195:8000/play/1060/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piaty-int.png" tvg-id="5kanal-ru" group-title="Основные",Пятый канал
@@ -85,7 +85,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
 http://31.131.141.195:8000/play/2020/index.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/ont-by.png" tvg-id="ont-by" group-title="Основные",ОНТ HD
-http://46.53.208.4:80/live/849.m3u8
+http://194.158.222.36:6102/
 #EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://kino-stream.online/logo/krik-tv.png" group-title="Основные",КРИК-ТВ HD
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 
@@ -345,7 +345,7 @@ http://92.63.106.41/24hp/stream.php?id=7465
 #EXTINF:-1 tvg-id="animetv" tvg-logo="https://epg.iptvx.one/picons/animetv.png" group-title="Кино",Аниме ТВ HD
 http://92.63.106.41/24hp/stream.php?id=8854
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="blokbaster-hd" group-title="Кино", Bolt HD
-https://kino.zunotv.workers.dev/bolt_hd/index.m3u8
+http://92.63.106.41/24hp/stream.php?id=1592
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
 #EXTINF:-1 tvg-id="cinema" tvg-logo="https://epg.iptvx.one/picons/cinema.png" group-title="Кино",Cinema Космос ТВ HD
@@ -392,18 +392,20 @@ http://92.63.106.41/24hp/stream.php?id=5886
 http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC HD
 https://kino.zunotv.workers.dev/tlc_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-xp-hd.png" tvg-id="travel-xp-hd" group-title="Познавательные",Travel XP HD
+http://77.245.98.18:8000/play/a00n
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure" group-title="Познавательные",Travel+Adventure
-https://kino.zunotv.workers.dev/travel_adventure_hd/index.m3u8
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="neizvestnaya-planeta" group-title="Познавательные",Неизвестная Планета
 http://46.53.208.4:80/live/3005.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russian-extreme-uhd.png" tvg-id="russian-extreme-uhd" group-title="Познавательные",Russian Extreme Ultra 4K
 http://92.63.106.41/24hp/stream.php?id=800
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
-https://kino.zunotv.workers.dev/RTG_HD/index.m3u8
+http://92.63.106.41/24hp/stream.php?id=186
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные",Epic HD
-https://kino.zunotv.workers.dev/epic_hd/index.m3u8
+http://92.63.106.41/24hp/stream.php?id=8267
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/curiosity-stream.png" tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD
-https://kino.zunotv.workers.dev/curiosity_stream_hd/index.m3u8
+http://92.63.106.41/24hp/stream.php?id=988
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://epg.iptvx.one/picons/prikluchenia-hd.png" group-title="Познавательные",Приключения HD
 http://92.63.106.41/24hp/stream.php?id=140
 
@@ -575,6 +577,8 @@ http://kinowalk.hopto.org/selecaotv1_live
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD 
+http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кинозал Креаторы", VHS-ка
 http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", VHS Forever

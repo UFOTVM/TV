@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый FHD
-http://46.151.151.250:9093
+https://kino.zunotv.workers.dev/pervy_kanal_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
@@ -29,7 +29,7 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2h
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
-https://tinyurl.com/teh55yef/19404/index.m3u8
+https://kino.zunotv.workers.dev/ren_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -39,7 +39,7 @@ http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgupCnL886_9CMa1v5ehWOEe7Y5OdQX6Ic94hLnua31sn-2gtSabU1X49ARfgUWdq4A0BhAHqt99Bf_ZNdGVauxQSuEOWtxw2uzPiBDdNuQwfqx91S6rCuS19nHszGo5grbNfhdA8MGkTXtdNyWXSiBlA6UXBXIHTH2UPpy-FDpMmEMC775uVJ8ZX6LVyQowII7ME_FS5DwJQa1rutw5IQRVRJcrsG3AhGNbFwok0XD9e0KVJe8fMh1YuKlomFJz01&token=MjIyMjoyMjIyMjI=
+https://kino.zunotv.workers.dev/sts_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -59,7 +59,7 @@ http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kK
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
-https://edge02d.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.TPBmNlHIcD19Z1rkD9M7uU7QitgkpRMJK7g7EWve1v0.3fivaM5iZqHdEC3I26bMJ5YeFvpvEBFcALoViSpzBgA.1777615582.9fc50fc865743b6123c1689c94214c74
+https://kino.zunotv.workers.dev/tvc_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://kino-stream.online/logo/russiak.png" group-title="Основные",Россия K
@@ -124,7 +124,7 @@ http://92.63.106.41/24hp/stream.php?id=5599
 #EXTINF:-1 group-title="Развлекательные",Загородная жизнь HD
 http://94.250.255.172/alma/stream.php?id=4988
 #EXTINF:-1 group-title="Развлекательные",Зал суда
-http://46.53.208.4:80/live/15082.m3u8
+https://tinyurl.com/teh55yef/7141/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Здоровое ТВ
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir-uvlecheniy.png" tvg-id="mir-uvlecheniy" group-title="Развлекательные",Кто Куда
@@ -132,7 +132,7 @@ https://kino.zunotv.workers.dev/kto_kuda/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Наша Тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Оружие
-http://46.53.208.4:80/live/168.m3u8
+https://tinyurl.com/teh55yef/2087/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Поехали!
@@ -274,6 +274,10 @@ http://92.63.106.41/24hp/stream.php?id=259
 http://92.63.106.41/24hp/stream.php?id=3739
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
 http://92.63.106.41/24hp/stream.php?id=526
+#EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
+https://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="4k-ruskino",VHS-ка Русское кино HD
+https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ HD
 http://92.63.106.41/24hp/stream.php?id=4781
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz" group-title="Кино",Наш Кинопоказ HD
@@ -301,9 +305,9 @@ http://92.63.106.41/ptv/trico/ch.php?id=2524&token=freshtv
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://185.164.82.18:9010/ykMHqK_Fox
 #EXTINF:-1 group-title="Кино",FOX HD
-http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n775dfb62/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX Life HD
-http://77.245.98.18:8000/play/a00w
+https://stream.zuno-tv.workers.dev/channel/9090/n79d9cde2/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 group-title="Кино",Ключ
@@ -397,7 +401,7 @@ http://77.245.98.18:8000/play/a00n
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure" group-title="Познавательные",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="neizvestnaya-planeta" group-title="Познавательные",Неизвестная Планета
-http://46.53.208.4:80/live/3005.m3u8
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russian-extreme-uhd.png" tvg-id="russian-extreme-uhd" group-title="Познавательные",Russian Extreme Ultra 4K
 http://92.63.106.41/24hp/stream.php?id=800
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
@@ -448,7 +452,7 @@ https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/01/dc/e2/01dce2acb29c7ce2edebd5337187a99b.jpg" tvg-id="no_epg_mult" group-title="Детские", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
-http://46.53.208.4:80/live/2424.m3u8
+https://tinyurl.com/teh55yef/15098/index.m3u8
 #EXTINF:-1 group-title="Детские",Da Vinci
 https://a3569457567-s70378.cdn.ngenix.net/da_vinci/index.m3u8
 #EXTINF:-1 group-title="Детские",Лапки LIVE
@@ -582,7 +586,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD 
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кинозал Креаторы", VHS-ка
-http://46.53.208.4:80/live/1123.m3u8
+https://tinyurl.com/teh55yef/5006/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
@@ -779,175 +783,162 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-doc-hd.png" tvg-id="sky-high-doc-hd" group-title="SKY HIGH", SKY HIGH DOC FHD
-http://tv.woobl.ru/SKY_HIGH_DOC_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_DOC_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NATURE FHD
-http://tv.woobl.ru/SKY_HIGH_NATURE_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_NATURE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BEYOND S FHD
-http://tv.woobl.ru/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_BEYOND_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH SCREAM FHD
-http://tv.woobl.ru/SKY_HIGH_SCREAM_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_SCREAM_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FEAR VHS FHD
-http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JETIX HD
-http://tv.woobl.ru/SKY_HIGH_JETIX_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_JETIX_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BRICK S FHD
-http://tv.woobl.ru/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_BRICK_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DUSTS FHD
-http://tv.woobl.ru/SKY_HIGH_DUST_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_DUST_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH STRIKE VHS FHD
-http://tv.woobl.ru/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_STRIKE_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" tvg-id="sky-high-firezone-fhd" group-title="SKY HIGH", SKY HIGH FIREZONE FHD
-http://tv.woobl.ru/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_FIREZONE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH GUNRUSH FHD
-http://tv.woobl.ru/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_GUNRUSH_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TANOS S FHD
-http://tv.woobl.ru/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_TANOS_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH",SKY HIGH BATS FHD
-http://tv.woobl.ru/SKY_HIGH_BAT_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_BAT_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH QUANTS FHD
-http://tv.woobl.ru/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_QUANT_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NEONVHS FHD
-http://tv.woobl.ru/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_NEON_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FUTURE FHD
-http://tv.woobl.ru/SKY_HIGH_FUTURE_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_FUTURE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TOON S FHD
-http://tv.woobl.ru/SKY_HIGH_TOON_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JUNIOR FHD
-http://tv.woobl.ru/SKY_HIGH_JUNIOR_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_JUNIOR_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TEEN FHD
-http://tv.woobl.ru/SKY_HIGH_TEEN_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_TEEN_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BOOM FHD
-http://tv.woobl.ru/SKY_HIGH_BOOM_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_BOOM_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH CIVIL S FHD
-http://tv.woobl.ru/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_CIVIL_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH ARCHIVE FHD
-http://tv.woobl.ru/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_ARCHIVE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-trace-s-fhd.png" tvg-id="sky-high-trace-s-fhd" group-title="SKY HIGH", SKY HIGH TRACE S FHD
-http://tv.woobl.ru/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_TRACE_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH VOTUM S FHD
-http://tv.woobl.ru/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_VOTUM_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH CASE VHS FHD
-http://tv.woobl.ru/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_CASE_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH ZIPPY S FHD
-http://tv.woobl.ru/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_ZIPPY_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH HEART S FHD
-http://tv.woobl.ru/SKY_HIGH_HEART_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_HEART_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JOKE FHD
-http://tv.woobl.ru/SKY_HIGH_JOKE_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_JOKE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH MEDY VHS FHD
-http://tv.woobl.ru/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_MEDY_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH RED S FHD
-http://tv.woobl.ru/SKY_HIGH_RED_S_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_RED_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH WIZZ VHS FHD
-http://tv.woobl.ru/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DRAGON FHD
-http://tv.woobl.ru/SKY_HIGH_DRAGON_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_DRAGON_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH WOONDER FHD
-http://tv.woobl.ru/SKY_HIGH_WOONDER_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_WOONDER_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH SPACE 4K HDR
-http://tv.woobl.ru/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_SPACE_4K_HDR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH HORROR 4K HDR
-http://tv.woobl.ru/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_HORROR_4K_HDR/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1543.png" tvg-id="no_epg_music" group-title="SKY HIGH",SKY HIGH LOFI HD
-http://tv.woobl.ru/SKY_HIGH_LO_FIHD/video.m3u8?token=test55555
-
-
-
-
-
-
-
+https://kino.zunotv.workers.dev/SKY_HIGH_LO_FIHD/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Premiere 4K
-http://tv.woobl.ru/BOX_Premiere_4K/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Premiere_4K/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Franchise HD
-http://tv.woobl.ru/BOX_Franchise_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Franchise_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Hybrid HD
-http://tv.woobl.ru/BOX_Hybrid_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Hybrid_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Oscar HD
-http://tv.woobl.ru/BOX_Oscar_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Oscar_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Gangster HD
-http://tv.woobl.ru/BOX_Gangster_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Gangster_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Anime HD
-http://tv.woobl.ru/BOX_Anime_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Anime_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Memory HD
-http://tv.woobl.ru/BOX_Memory_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Memory_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX M.Serial HD
-http://tv.woobl.ru/BOX_MSerial_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_MSerial_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Serial HD
-http://tv.woobl.ru/BOX_Serial_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Serial_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Spy HD
-http://tv.woobl.ru/BOX_Spy_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Spy_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Ghost HD
-http://tv.woobl.ru/BOX_Ghost_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Ghost_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Fantasy HD
-http://tv.woobl.ru/BOX_Fantasy_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Fantasy_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Serial 4K
-http://tv.woobl.ru/BOX_Serial_4K/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Serial_4K/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Remast 4K
-http://tv.woobl.ru/BOX_Remast_4K/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Remast_4K/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Remast+ 4K
-http://tv.woobl.ru/BOX_Remast_Plus_4K/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Remast_Plus_4K/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Western HD
-http://tv.woobl.ru/BOX_Western_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Western_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Zombie HD
-http://tv.woobl.ru/BOX_Zombie_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Zombie_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Cyber HD
-http://tv.woobl.ru/BOX_Cyber_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Cyber_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Apocalypse HD
-http://tv.woobl.ru/BOX_Apocalypse_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Apocalypse_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sitcom HD
-http://tv.woobl.ru/BOX_Sitcom_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Sitcom_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Game HD
-http://tv.woobl.ru/BOX_Game_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Game_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Stories HD
-http://tv.woobl.ru/BOX_Stories_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Stories_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Travel HD
-http://tv.woobl.ru/BOX_Travel_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Travel_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Docu HD
-http://tv.woobl.ru/BOX_Docu_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Docu_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Travel Premiere HD
-http://tv.woobl.ru/BOX_Travel_Premiere_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Travel_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Gurman HD
-http://tv.woobl.ru/BOX_Gurman_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Gurman_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Autotrend HD
-http://tv.woobl.ru/BOX_Autotrend_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Autotrend_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Music 4K
-http://tv.woobl.ru/BOX_Music_4K/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Music_4K/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Relax 4K
-http://tv.woobl.ru/BOX_Relax_4K/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_Relax_4K/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX RU.RAP HD
-http://tv.woobl.ru/BOX_RuRap_HD/video.m3u8?token=test55555
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Metall HD
-http://tv.woobl.ru/BOX_Metall_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_RuRap_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge 1 Live HD
-http://tv.woobl.ru/BOX_BeOnEdge_HD_Live_1/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD_Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge 2 Live HD
-http://tv.woobl.ru/BOX_BeOnEdge_HD_Live_2/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD_Live_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge HD
-http://tv.woobl.ru/BOX_BeOnEdge_HD/video.m3u8?token=test55555
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sportcast HD
-http://tv.woobl.ru/BOX_Sportcast_HD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 1 HD
-http://tv.woobl.ru/BOX_SportCast_1_Live/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_SportCast_1_Live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 2 HD
-http://tv.woobl.ru/BOX_SportCast_2_Live/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_SportCast_2_Live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 3 HD
-http://tv.woobl.ru/BOX_SportCast_3_Live/video.m3u8?token=test55555
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 4 HD
-http://tv.woobl.ru/BOX_SportCast_4_Live/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_SportCast_3_Live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 5 HD
-http://tv.woobl.ru/BOX_SportCast_5_Live/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_SportCast_5_Live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 6 HD
-http://tv.woobl.ru/BOX_SportCast_6_Live/video.m3u8?token=test55555
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 7 HD
-http://tv.woobl.ru/BOX_SportCast_7_Live/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_SportCast_6_Live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 8 HD
-http://tv.woobl.ru/BOX_SportCast_8_Live/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_SportCast_8_Live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 9 HD
-http://tv.woobl.ru/BOX_SportCast_9_Live/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/BOX_SportCast_9_Live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sportcast HD
+https://kino.zunotv.workers.dev/BOX_Sportcast_HD/index.m3u8
 
 
 

@@ -466,6 +466,8 @@ https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/index.m3u8
 #EXTINF:-1 tvg-id="supergeroi" group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Classics
+http://193.25.8.59:8000/Avto24
+#EXTINF:-1 group-title="Детские",Cartoon Classics int
 http://92.63.106.41/ptv/voka/ch.php?id=f550fa56-6e53-421d-926c-86b944bdabbf
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" group-title="Детские", Канал Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
@@ -939,6 +941,77 @@ https://kino.zunotv.workers.dev/BOX_SportCast_8_Live/index.m3u8
 https://kino.zunotv.workers.dev/BOX_SportCast_9_Live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sportcast HD
 https://kino.zunotv.workers.dev/BOX_Sportcast_HD/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="1552" tvg-logo="http://epg.cdntv.online/img/1552.png" group-title="MS | Fresh", MS Animated HD
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1552.m3u8
+#EXTINF:0 tvg-id="1553" tvg-logo="http://epg.cdntv.online/img/1553.png" group-title="MS | Fresh", MS Crime HD
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1553.m3u8
+#EXTINF:0 tvg-id="1554" tvg-logo="http://epg.cdntv.online/img/1554.png" group-title="MS | Fresh", MS Prisons HD
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1554.m3u8
+#EXTINF:0 tvg-id="1555" tvg-logo="http://epg.cdntv.online/img/1555.png" group-title="MS | Fresh", MS Toons HD
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1555.m3u8
+#EXTINF:0 tvg-id="1556" tvg-logo="http://epg.cdntv.online/img/1556.png" group-title="MS | Fresh", MS Young Blood HD
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1556.m3u8
+#EXTINF:0 tvg-id="1557" tvg-logo="http://epg.cdntv.online/img/1557.png" group-title="MS | Fresh", MS Magic HD
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1557.m3u8
+#EXTINF:0 tvg-id="1545" tvg-logo="http://epg.cdntv.online/img/1545.png" group-title="MS | Fresh", MS Animated
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1545.m3u8
+
+#EXTINF:0 tvg-id="1983" tvg-logo="http://epg.cdntv.online/img/1983.png" group-title="MS | Fresh", Fresh Soviet
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1983.m3u8
+#EXTINF:0 tvg-id="1984" tvg-logo="http://epg.cdntv.online/img/1984.png" group-title="MS | Fresh", Fresh Series
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1984.m3u8
+#EXTINF:0 tvg-id="1985" tvg-logo="http://epg.cdntv.online/img/1985.png" group-title="MS | Fresh", Fresh Fantastic
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1985.m3u8
+#EXTINF:0 tvg-id="1986" tvg-logo="http://epg.cdntv.online/img/1986.png" group-title="MS | Fresh", Fresh VHS
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1986.m3u8
+#EXTINF:0 tvg-id="1987" tvg-logo="http://epg.cdntv.online/img/1987.png" group-title="MS | Fresh", Fresh Rating
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1987.m3u8
+#EXTINF:0 tvg-id="1988" tvg-logo="http://epg.cdntv.online/img/1988.png" group-title="MS | Fresh", Fresh Family
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1988.m3u8
+#EXTINF:0 tvg-id="1989" tvg-logo="http://epg.cdntv.online/img/1989.png" group-title="MS | Fresh", Fresh Premiere
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1989.m3u8
+#EXTINF:0 tvg-id="1990" tvg-logo="http://epg.cdntv.online/img/1990.png" group-title="MS | Fresh", Fresh Comedy
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1990.m3u8
+#EXTINF:0 tvg-id="1991" tvg-logo="http://epg.cdntv.online/img/1991.png" group-title="MS | Fresh", Fresh Kids
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1991.m3u8
+#EXTINF:0 tvg-id="1992" tvg-logo="http://epg.cdntv.online/img/1992.png" group-title="MS | Fresh", Fresh Cinema
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1992.m3u8
+#EXTINF:0 tvg-id="1993" tvg-logo="http://epg.cdntv.online/img/1993.png" group-title="MS | Fresh", Fresh Horror
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1993.m3u8
+#EXTINF:0 tvg-id="1994" tvg-logo="http://epg.cdntv.online/img/1994.png" group-title="MS | Fresh", Fresh Adventure
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1994.m3u8
+#EXTINF:0 tvg-id="1995" tvg-logo="http://epg.cdntv.online/img/1995.png" group-title="MS | Fresh", Fresh Romantic
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1995.m3u8
+#EXTINF:0 tvg-id="1996" tvg-logo="http://epg.cdntv.online/img/1996.png" group-title="MS | Fresh", Fresh Russian
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1996.m3u8
+#EXTINF:0 tvg-id="1997" tvg-logo="http://epg.cdntv.online/img/1997.png" group-title="MS | Fresh", Fresh Thriller
+#EXTGRP:MS | Fresh
+https://tinyurl.com/yrxsfhyv/1997.m3u8
 
 
 

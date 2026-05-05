@@ -27,7 +27,7 @@ https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=8u
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="Основные" ,Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2hpFHyGd4ABvaVKRieBvOg&e=2077359297&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8
+http://cdn.kubteltv.workers.dev/?ID=376
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
 https://kino.zunotv.workers.dev/ren_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
@@ -37,7 +37,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=E0
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_hd/16/playlist.m3u8
+http://cdn.kubteltv.workers.dev/?ID=377
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
 https://kino.zunotv.workers.dev/sts_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
@@ -55,7 +55,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=yg
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgeuCwCHtKgrsnhAYtDYJPCiGArqofP3nZJTX0Dm3QxgYL6yrqAi_3X5ibtYEXjATf5VDbHlgMvYIiz7_zb5o9p8aMcxVWl5wE01y4ARvconHCMX6p6Wgma84MDkaLGHafHxdLCJHwymZZYW4_LXG310UnUQnB85JTGrX9_j8_xX-vncMJUAgauJdnHQHG2Z-oBHa8GCfbUwIxVbGynoCVJnoa5lf1ioa0j7zxKt7_U8riH9e-LmsKwBYmpCH6uyAZ&token=MjIyMjoyMjIyMjI=
+http://cdn.kubteltv.workers.dev/?ID=378
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
@@ -85,9 +85,9 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
 http://31.131.141.195:8000/play/2020/index.m3u8
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/ont-by.png" tvg-id="ont-by" group-title="Основные",ОНТ HD
-http://194.158.222.36:6102/
+http://93.84.115.174:10181/ont_hd
 #EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://kino-stream.online/logo/krik-tv.png" group-title="Основные",КРИК-ТВ HD
-http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
 
 
 
@@ -146,7 +146,7 @@ http://46.32.176.50/avto24/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ЕДА
 http://92.63.106.41/ptv/mtsby/ch.php?id=6163f6df6db6e3983bafd7f7
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Развлекательные",  WF мода HD
-https://river-1.rutube.ru/stream/genetta-302.m9.rutube.ru/YedEJ0bfddD3rJ7cVTRRRA/1777823493/ee6a3d5ba98066c2aaace3c428a3170c/1080p_stream.m3u8
+https://salam-smf-crc2-d132.rtbcdn.ru/dive/river-3-353.rtbcdn.ru/ytavRANHULIYcbklm6cotw/stream/genetta-302.m9.rutube.ru/6soj7_1vezyRyJyFWPyDlA/1778610435/ee6a3d5ba98066c2aaace3c428a3170c/1080p_stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",Аппетитный
 https://kino.zunotv.workers.dev/appetitniy_hd/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Бобер
@@ -216,6 +216,8 @@ https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
 https://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино",Amedia 1 HD
 http://92.63.106.41/24hp/stream.php?id=629
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино",Amedia 2 HD
@@ -253,9 +255,9 @@ http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://89.218.32.179:18000/play/a01p
 #EXTINF:-1 group-title="Кино",Start Air HD
-https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=372
 #EXTINF:-1 group-title="Кино",Start World HD
-https://kino.zunotv.workers.dev/start_world_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=371
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
 http://92.63.106.41/24hp/stream.php?id=183
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
@@ -275,7 +277,7 @@ http://92.63.106.41/24hp/stream.php?id=3739
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
 http://92.63.106.41/24hp/stream.php?id=526
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кино", VHS-ка
-https://tinyurl.com/teh55yef/5006/index.m3u8
+http://tmptv.sunduk.tv/CH5505/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
 https://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4k-ruskino",VHS-ка Русское кино HD
@@ -345,7 +347,7 @@ http://92.63.106.41/24hp/stream.php?id=4776
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
 http://92.63.106.41/24hp/stream.php?id=4779
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8
+http://cdn.kubteltv.workers.dev/?ID=354
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
 http://92.63.106.41/24hp/stream.php?id=7465
 #EXTINF:-1 tvg-id="animetv" tvg-logo="https://epg.iptvx.one/picons/animetv.png" group-title="Кино",Аниме ТВ HD
@@ -369,7 +371,7 @@ https://kino.zunotv.workers.dev/history_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 https://kino.zunotv.workers.dev/viju_plus_planet_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
-http://185.221.213.254/live/stream11.php?q=4NaI7_p4_8l6aYVcokj00oGPij7eDmKfXj-kKoNYAXVjqypbuVMkqJ6aC8GvJeYgnEsi3FHhyWu9MvKlqdsJjYcoN7IxAMM9Mf4_0MniafzjWrivHDvXJ-HR6Ll1LM1A2gx-h_r82biQovZLfpJBprNwkJUQz6yrEF_2q4vyrHPWbf61Do8hrs8402pRTiZYRqIa0Wi0lszCsOZEVYAffTkbF6vh0UHrAsB1oIz8pyg0W2kK6rukV8YDMTIp02mDLnRLRgcaNb7X6ibHwNPVZo-tifQ6qQYKFeUWCaVfHV94_LylNKn3YKAodGiuAKoa&token=MjIyMjoyMjIyMjI=
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031927&extension=ts&play_token=hkvaNbx32I
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
@@ -379,7 +381,7 @@ http://92.63.106.41/24hp/stream.php?id=3963
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://92.63.106.41/24hp/stream.php?id=491
 #EXTINF:-1 group-title="Познавательные",Живая природа HD
-http://tv.ttk.mx:9066
+http://tmptv.sunduk.tv/CH497/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
 http://92.63.106.41/24hp/stream.php?id=494
 #EXTINF:-1 group-title="Познавательные",Домашние животные
@@ -398,8 +400,6 @@ https://kino.zunotv.workers.dev/terra_hd/index.m3u8
 http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC HD
 https://kino.zunotv.workers.dev/tlc_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-xp-hd.png" tvg-id="travel-xp-hd" group-title="Познавательные",Travel XP HD
-http://77.245.98.18:8000/play/a00n
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure" group-title="Познавательные",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="neizvestnaya-planeta" group-title="Познавательные",Неизвестная Планета
@@ -407,7 +407,7 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russian-extreme-uhd.png" tvg-id="russian-extreme-uhd" group-title="Познавательные",Russian Extreme Ultra 4K
 http://92.63.106.41/24hp/stream.php?id=800
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
-https://kino.zunotv.workers.dev/RTG_HD/index.m3u8
+http://93.84.115.174:10181/rtghd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные",Epic HD
 https://kino.zunotv.workers.dev/epic_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/curiosity-stream.png" tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD
@@ -462,7 +462,7 @@ http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские",English Club TV
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids HD
-https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+http://tmptv.sunduk.tv/CH729/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids
 https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/index.m3u8
 #EXTINF:-1 tvg-id="supergeroi" group-title="Детские",СуперГерои
@@ -945,70 +945,60 @@ https://kino.zunotv.workers.dev/BOX_Sportcast_HD/index.m3u8
 
 
 
-#EXTINF:0 tvg-id="1553" tvg-logo="http://epg.cdntv.online/img/1553.png" group-title="MS | Fresh", MS Crime HD
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1553.m3u8
-#EXTINF:0 tvg-id="1554" tvg-logo="http://epg.cdntv.online/img/1554.png" group-title="MS | Fresh", MS Prisons HD
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1554.m3u8
-#EXTINF:0 tvg-id="1555" tvg-logo="http://epg.cdntv.online/img/1555.png" group-title="MS | Fresh", MS Toons HD
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1555.m3u8
-#EXTINF:0 tvg-id="1556" tvg-logo="http://epg.cdntv.online/img/1556.png" group-title="MS | Fresh", MS Young Blood HD
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1556.m3u8
-#EXTINF:0 tvg-id="1557" tvg-logo="http://epg.cdntv.online/img/1557.png" group-title="MS | Fresh", MS Magic HD
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1557.m3u8
-#EXTINF:0 tvg-id="1545" tvg-logo="http://epg.cdntv.online/img/1545.png" group-title="MS | Fresh", MS Animated
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1545.m3u8
-
-#EXTINF:0 tvg-id="1983" tvg-logo="http://epg.cdntv.online/img/1983.png" group-title="MS | Fresh", Fresh Soviet
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1983.m3u8
-#EXTINF:0 tvg-id="1984" tvg-logo="http://epg.cdntv.online/img/1984.png" group-title="MS | Fresh", Fresh Series
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1984.m3u8
-#EXTINF:0 tvg-id="1985" tvg-logo="http://epg.cdntv.online/img/1985.png" group-title="MS | Fresh", Fresh Fantastic
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1985.m3u8
-#EXTINF:0 tvg-id="1986" tvg-logo="http://epg.cdntv.online/img/1986.png" group-title="MS | Fresh", Fresh VHS
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1986.m3u8
-#EXTINF:0 tvg-id="1987" tvg-logo="http://epg.cdntv.online/img/1987.png" group-title="MS | Fresh", Fresh Rating
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1987.m3u8
-#EXTINF:0 tvg-id="1988" tvg-logo="http://epg.cdntv.online/img/1988.png" group-title="MS | Fresh", Fresh Family
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1988.m3u8
-#EXTINF:0 tvg-id="1989" tvg-logo="http://epg.cdntv.online/img/1989.png" group-title="MS | Fresh", Fresh Premiere
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1989.m3u8
-#EXTINF:0 tvg-id="1990" tvg-logo="http://epg.cdntv.online/img/1990.png" group-title="MS | Fresh", Fresh Comedy
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1990.m3u8
-#EXTINF:0 tvg-id="1991" tvg-logo="http://epg.cdntv.online/img/1991.png" group-title="MS | Fresh", Fresh Kids
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1991.m3u8
-#EXTINF:0 tvg-id="1992" tvg-logo="http://epg.cdntv.online/img/1992.png" group-title="MS | Fresh", Fresh Cinema
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1992.m3u8
-#EXTINF:0 tvg-id="1993" tvg-logo="http://epg.cdntv.online/img/1993.png" group-title="MS | Fresh", Fresh Horror
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1993.m3u8
-#EXTINF:0 tvg-id="1994" tvg-logo="http://epg.cdntv.online/img/1994.png" group-title="MS | Fresh", Fresh Adventure
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1994.m3u8
-#EXTINF:0 tvg-id="1995" tvg-logo="http://epg.cdntv.online/img/1995.png" group-title="MS | Fresh", Fresh Romantic
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1995.m3u8
-#EXTINF:0 tvg-id="1996" tvg-logo="http://epg.cdntv.online/img/1996.png" group-title="MS | Fresh", Fresh Russian
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1996.m3u8
-#EXTINF:0 tvg-id="1997" tvg-logo="http://epg.cdntv.online/img/1997.png" group-title="MS | Fresh", Fresh Thriller
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1997.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" tvg-id="bcu-kinozal-prem-1" group-title="кинозал BCU", BCU Premiere 1 HD
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2" group-title="кинозал BCU", BCU Premiere 2 HD
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-3.png" tvg-id="bcu-kinozal-prem-3" group-title="кинозал BCU", BCU Premiere 3 HD
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4760.png" tvg-id="bcu-premiere" group-title="кинозал BCU", BCU Premiere HD
+https://kino.zunotv.workers.dev/BCU_Premiere_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4748.png" tvg-id="bcu-action" group-title="кинозал BCU",BCU Action HD
+https://kino.zunotv.workers.dev/BCU_Action_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4749.png" tvg-id="bcu-catastrophe" group-title="кинозал BCU",BCU Catastrophe HD
+https://kino.zunotv.workers.dev/BCU_Catastrophe_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png" tvg-id="bcu-cinema" group-title="кинозал BCU", BCU CINEMA HD
+https://kino.zunotv.workers.dev/BCU_Cinema_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png" tvg-id="bcu-cinemaplus" group-title="кинозал BCU", BCU CINEMA+ HD
+https://kino.zunotv.workers.dev/BCU_Cinema_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-criminal.png" tvg-id="bcu-criminal" group-title="кинозал BCU",BCU Criminal HD
+https://kino.zunotv.workers.dev/BCU_Criminal_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" tvg-id="bcu-fantastic" group-title="кинозал BCU",BCU Fantastic HD
+https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" tvg-id="bcu-filmystic" group-title="кинозал BCU",BCU FilMystic HD
+https://kino.zunotv.workers.dev/BCU_FilMystic_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-history.png" tvg-id="bcu-history" group-title="кинозал BCU", BCU History HD
+https://kino.zunotv.workers.dev/BCU_History_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/8963.png" tvg-id="bcu-comedy" group-title="кинозал BCU",BCU Comedy HD
+https://kino.zunotv.workers.dev/BCU_Comedy_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic" group-title="кинозал BCU",BCU Romantic HD
+https://kino.zunotv.workers.dev/BCU_Romantic_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="кинозал BCU",BCU Kinorating HD
+https://kino.zunotv.workers.dev/BCU_Kinorating_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/8964.png" tvg-id="bcu-marvel" group-title="кинозал BCU",BCU Marvel HD
+https://kino.zunotv.workers.dev/BCU_Marvel_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" tvg-id="bcu-stars" group-title="кинозал BCU",BCU Stars HD
+https://kino.zunotv.workers.dev/BCU_Stars_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k" group-title="кинозал BCU",BCU Ultra 4K
+https://kino.zunotv.workers.dev/BCU_Ultra_4K/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-vhs-hd.png" tvg-id="bcu-vhs" group-title="кинозал BCU",BCU VHS HD
+https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-svaty.png" tvg-id="bcu-svaty" group-title="кинозал BCU", BCU Сваты HD
+https://kino.zunotv.workers.dev/BCU_Svaty_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-sssr-hd.png" tvg-id="bcu-sssr" group-title="кинозал BCU", BCU CCCP HD
+https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-russian.png" tvg-id="bcu-russian" group-title="кинозал BCU",BCU Russian HD
+https://kino.zunotv.workers.dev/BCU_Russian_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ruserial.png" tvg-id="bcu-ruserial" group-title="кинозал BCU", BCU Ruserial HD
+https://kino.zunotv.workers.dev/BCU_RUSERIAL_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids.png" tvg-id="bcu-kids" group-title="кинозал BCU", BCU Kids HD
+https://kino.zunotv.workers.dev/BCU_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-plus.png" tvg-id="bcu-kids-plus" group-title="кинозал BCU",BCU Kids+ HD
+https://kino.zunotv.workers.dev/BCU_Kids_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-multserial.png" tvg-id="bcu-multserial" group-title="кинозал BCU",BCU Мультсериал HD
+https://kino.zunotv.workers.dev/BCU_Multserial_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-4k.png" tvg-id="bcu-kids-4k" group-title="кинозал BCU", BCU Kids 4K
+https://kino.zunotv.workers.dev/BCU_Kids_4K/index.m3u8
 
 
 

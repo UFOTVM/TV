@@ -274,6 +274,8 @@ http://92.63.106.41/24hp/stream.php?id=259
 http://92.63.106.41/24hp/stream.php?id=3739
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
 http://92.63.106.41/24hp/stream.php?id=526
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кинозал Креаторы", VHS-ка
+https://tinyurl.com/teh55yef/5006/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
 https://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4k-ruskino",VHS-ка Русское кино HD
@@ -587,8 +589,6 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD 
 http://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кинозал Креаторы", VHS-ка
-https://tinyurl.com/teh55yef/5006/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
@@ -945,9 +945,6 @@ https://kino.zunotv.workers.dev/BOX_Sportcast_HD/index.m3u8
 
 
 
-#EXTINF:0 tvg-id="1552" tvg-logo="http://epg.cdntv.online/img/1552.png" group-title="MS | Fresh", MS Animated HD
-#EXTGRP:MS | Fresh
-https://tinyurl.com/yrxsfhyv/1552.m3u8
 #EXTINF:0 tvg-id="1553" tvg-logo="http://epg.cdntv.online/img/1553.png" group-title="MS | Fresh", MS Crime HD
 #EXTGRP:MS | Fresh
 https://tinyurl.com/yrxsfhyv/1553.m3u8

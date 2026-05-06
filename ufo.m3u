@@ -226,7 +226,7 @@ https://kino.zunotv.workers.dev/amedia_1_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино",Amedia 2 HD
 http://46.151.151.250:9156
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Кино", Amedia Hit HD
-http://77.245.98.18:8000/play/a00p
+http://109.70.186.82:9090/udp/239.185.1.13:1234
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium" group-title="Кино", Amedia PREMIUM HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" group-title="Кино",TV1000 HD

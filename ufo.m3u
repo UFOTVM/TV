@@ -27,7 +27,8 @@ https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=8u
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="Основные" ,Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2hpFHyGd4ABvaVKRieBvOg&e=2077359297&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
-http://cdn.kubteltv.workers.dev/?ID=376
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=376
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
 https://kino.zunotv.workers.dev/ren_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
@@ -37,7 +38,8 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=E0
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
-http://cdn.kubteltv.workers.dev/?ID=377
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=377
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
 https://kino.zunotv.workers.dev/sts_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
@@ -55,7 +57,8 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=yg
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
-http://cdn.kubteltv.workers.dev/?ID=378
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=378
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
@@ -223,17 +226,20 @@ http://92.63.106.41/24hp/stream.php?id=629
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино",Amedia 2 HD
 http://46.151.151.250:9156
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Кино", Amedia Hit HD
-https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+http://77.245.98.18:8000/play/a00p
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium" group-title="Кино", Amedia PREMIUM HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" group-title="Кино",TV1000 HD
-http://92.63.106.41/24hp/stream.php?id=488
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/?ID=191
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action HD
-http://92.63.106.41/24hp/stream.php?id=487
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
-http://92.63.106.41/24hp/stream.php?id=489
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=193
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла HD
-http://92.63.106.41/24hp/stream.php?id=8308
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=381
 #EXTINF:-1 group-title="Кино",Vip Comedy HD
 http://46.32.176.50/VIPComedyHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Vip Megahit HD
@@ -255,11 +261,13 @@ http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://89.218.32.179:18000/play/a01p
 #EXTINF:-1 group-title="Кино",Start Air HD
-http://cdn.kubteltv.workers.dev/?ID=372
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=372
 #EXTINF:-1 group-title="Кино",Start World HD
-http://cdn.kubteltv.workers.dev/?ID=371
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=371
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-http://92.63.106.41/24hp/stream.php?id=183
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
 http://92.63.106.41/24hp/stream.php?id=528
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
@@ -269,14 +277,15 @@ http://92.63.106.41/24hp/stream.php?id=534
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png" tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино HD
 http://92.63.106.41/24hp/stream.php?id=148
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" tvg-id="kinokomedia" group-title="Кино", Кинокомедия
-http://92.63.106.41/24hp/stream.php?id=3738
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=328
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас HD
 http://92.63.106.41/24hp/stream.php?id=259
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино
 http://92.63.106.41/24hp/stream.php?id=3739
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
 http://92.63.106.41/24hp/stream.php?id=526
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кино", VHS-ка
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кино",VHS-ка
 http://tmptv.sunduk.tv/CH5505/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
 https://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
@@ -285,7 +294,8 @@ https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ HD
 http://92.63.106.41/24hp/stream.php?id=4781
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz" group-title="Кино",Наш Кинопоказ HD
-http://92.63.106.41/24hp/stream.php?id=4775
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=414
 #EXTINF:-1 group-title="Кино",Камеди HD
 http://92.63.106.41/24hp/stream.php?id=4780
 #EXTINF:-1 group-title="Кино",Cinema
@@ -343,11 +353,14 @@ http://46.151.151.250:9113
 #EXTINF:-1 tvg-id="kino-tv-pl4" tvg-logo="https://epg.iptvx.one/picons/kino-tv-pl4.png" group-title="Кино",КиноТВ HD (+4)
 http://92.63.106.41/ptv/trico/ch.php?id=2542&token=freshtv
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/blokbaster.png" tvg-id="bolt" group-title="Кино", Блокбастер HD
-http://92.63.106.41/24hp/stream.php?id=4776
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=219
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
-http://92.63.106.41/24hp/stream.php?id=4779
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=255
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-http://cdn.kubteltv.workers.dev/?ID=354
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+http://cdn.kubteltv.workers.dev/m3u8?ID=354
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
 http://92.63.106.41/24hp/stream.php?id=7465
 #EXTINF:-1 tvg-id="animetv" tvg-logo="https://epg.iptvx.one/picons/animetv.png" group-title="Кино",Аниме ТВ HD
@@ -801,7 +814,7 @@ https://tinyurl.com/yrxsfhyv/1514.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BRICK S FHD
 https://tinyurl.com/yrxsfhyv/1517.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DUSTS FHD
-https://tinyurl.com/yrxsfhyv/1519.m3u8
+https://tinyurl.com/yrxsfhyv/1518.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH STRIKE VHS FHD
 https://tinyurl.com/yrxsfhyv/1520.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" tvg-id="sky-high-firezone-fhd" group-title="SKY HIGH", SKY HIGH FIREZONE FHD

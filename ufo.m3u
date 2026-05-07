@@ -27,7 +27,7 @@ https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=8u
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="Основные" ,Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2hpFHyGd4ABvaVKRieBvOg&e=2077359297&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=376
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
 https://kino.zunotv.workers.dev/ren_tv_hd/index.m3u8
@@ -38,7 +38,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=E0
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=377
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
 https://kino.zunotv.workers.dev/sts_hd/index.m3u8
@@ -57,7 +57,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=yg
 #EXTINF:-1 tvg-id="1598" tvg-logo="https://kino-stream.online/logo/che.png" group-title="Основные",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=378
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
@@ -114,8 +114,9 @@ https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://kino-stream.online/logo/kvn-tv.png" group-title="Развлекательные",КВН ТВ
 http://93.84.115.174:10181/kvn
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Развлекательные",Alpha Funny
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://epg.iptvx.one/picons/drive.png" group-title="Развлекательные",Драйв
+#EXTVLCOPT:network-caching=3000
+http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=46
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Вопросы и ответы
@@ -123,7 +124,7 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Время
 http://46.32.176.50/Vremya/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Диалоги о Рыбалке
-http://92.63.106.41/24hp/stream.php?id=5599
+https://kino.zunotv.workers.dev/dialogi_o_rybalke_hd/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Загородная жизнь HD
 http://94.250.255.172/alma/stream.php?id=4988
 #EXTINF:-1 group-title="Развлекательные",Зал суда
@@ -147,7 +148,7 @@ https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",АВТО 24
 http://46.32.176.50/avto24/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ЕДА
-http://92.63.106.41/ptv/mtsby/ch.php?id=6163f6df6db6e3983bafd7f7
+https://kino.zunotv.workers.dev/eda/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Развлекательные",  WF мода HD
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Аппетитный
@@ -176,6 +177,7 @@ http://46.151.151.250:9002
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-premiere.png" tvg-id="match-premier" group-title="Спорт", МАТЧ! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-sport.png" tvg-id="viasat-sport" group-title="Спорт", Viju+ sport HD
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=265
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" tvg-id="setanta1-lt" group-title="Спорт",Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
@@ -235,10 +237,10 @@ http://tmptv.sunduk.tv/CH3869/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=193
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=381
 #EXTINF:-1 group-title="Кино",Vip Comedy HD
 http://46.32.176.50/VIPComedyHD/index.m3u8
@@ -264,7 +266,7 @@ http://89.218.32.179:18000/play/a01p
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=371
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
 http://tmptv.sunduk.tv/CH299/index.m3u8
@@ -277,7 +279,7 @@ https://kino.zunotv.workers.dev/kinohit_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png" tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино HD
 http://tmptv.sunduk.tv/CH245/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" tvg-id="kinokomedia" group-title="Кино", Кинокомедия
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=328
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас HD
 http://tmptv.sunduk.tv/CH409/index.m3u8
@@ -294,7 +296,7 @@ https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png" group-title="Кино",Кинопоказ HD
 http://tmptv.sunduk.tv/CH215/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz" group-title="Кино",Наш Кинопоказ HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=414
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/komedijnoe-hd.png" tvg-id="komedijnoe-hd" group-title="Кино",Комедийное HD
 http://tmptv.sunduk.tv/CH231/index.m3u8
@@ -321,11 +323,13 @@ http://46.32.176.50/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино",Мир Сериала
 http://46.32.176.50/mirseriala/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://epg.iptvx.one/picons/ntv-xit.png" group-title="Кино",НТВ Хит
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=329
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epg.iptvx.one/picons/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция HD
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=353
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-http://185.164.82.18:9010/ykMHqK_Fox
+http://tv.ttk.mx:9169
 #EXTINF:-1 group-title="Кино",FOX HD
 https://stream.zuno-tv.workers.dev/channel/9090/n775dfb62/index.m3u8
 #EXTINF:-1 group-title="Кино",FOX Life HD
@@ -333,9 +337,10 @@ https://stream.zuno-tv.workers.dev/channel/9090/n79d9cde2/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 group-title="Кино",Ключ
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=277
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rtvi.png" tvg-id="rtvi" group-title="Кино",RTVi HD
-https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
+http://tmptv.sunduk.tv/CH541/index.m3u8
 #EXTINF:-1 group-title="Кино",Победа
 http://193.25.8.59:8000/tochka
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
@@ -356,29 +361,32 @@ http://46.32.176.50/tv21/index.m3u8
 http://46.32.176.50/nst/index.m3u8
 #EXTINF:-1 group-title="Кино",Plan B
 http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinojam1.png" tvg-id="kinojam1" group-title="Кино",KinoJam 1 HD
+#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinojam2.png" tvg-id="kinojam2" group-title="Кино",KinoJam 2 HD
+#EXTVLCOPT:network-caching=3000
+http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=298
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" tvg-id="kino-tv" group-title="Кино",КиноТВ HD
 http://46.151.151.250:9113
-#EXTINF:-1 tvg-id="kino-tv-pl4" tvg-logo="https://epg.iptvx.one/picons/kino-tv-pl4.png" group-title="Кино",КиноТВ
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epg.iptvx.one/picons/kino-tv-pl4.png" group-title="Кино",КиноТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/blokbaster.png" tvg-id="bolt" group-title="Кино", Блокбастер HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=219
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=255
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
-#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=354
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=343
-#EXTINF:-1 tvg-id="animetv" tvg-logo="https://epg.iptvx.one/picons/animetv.png" group-title="Кино",Аниме ТВ HD
-http://92.63.106.41/24hp/stream.php?id=8854
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="blokbaster-hd" group-title="Кино", Bolt HD
 https://kino.zunotv.workers.dev/bolt_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
-#EXTINF:-1 tvg-id="cinema" tvg-logo="https://epg.iptvx.one/picons/cinema.png" group-title="Кино",Cinema Космос ТВ HD
-http://92.63.106.41/ptv/voka/ch.php?id=ca41163b-3857-4725-9780-076ec2c36f2e
+
 
 
 
@@ -388,7 +396,7 @@ http://46.32.176.50/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 https://kino.zunotv.workers.dev/discovery_channel_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031958&extension=ts&play_token=TR5jMjlUQI
+http://tmptv.sunduk.tv/CH303/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 https://kino.zunotv.workers.dev/viju_plus_planet_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
@@ -396,21 +404,25 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031927&e
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=263
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=262
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=264
 #EXTINF:-1 group-title="Познавательные",Живая природа HD
 http://tmptv.sunduk.tv/CH497/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=342
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 http://46.32.176.50/domashniejivotnie/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Зоопарк
 http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
-http://tmptv.sunduk.tv/CH445/index.m3u8
+http://37.46.49.14:18010/play/a067/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Планета HD
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
@@ -428,6 +440,7 @@ http://91.247.68.229:8000/play/Travelxp/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="neizvestnaya-planeta" group-title="Познавательные",Неизвестная Планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russky-ekstrim.png" tvg-id="russky-ekstrim" group-title="Познавательные",Русский экстрим
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=358
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
 http://93.84.115.174:10181/rtghd
@@ -460,6 +473,9 @@ http://176.118.197.101/2x2/index.m3u8
 http://46.32.176.50/detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epg.iptvx.one/picons/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
+#EXTVLCOPT:network-caching=3000
+http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=207
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/boomerang.png" tvg-id="boomerang" group-title="Детские",Cartoonito
 http://allway.tv/iptv/users/Alex/1587.m3u8
 #EXTINF:-1 group-title="Детские",О!
@@ -494,8 +510,6 @@ https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/index.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Classics
 http://193.25.8.59:8000/Avto24
-#EXTINF:-1 group-title="Детские",Cartoon Classics int
-http://92.63.106.41/ptv/voka/ch.php?id=f550fa56-6e53-421d-926c-86b944bdabbf
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" group-title="Детские", Канал Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19932695/avatar?change_time=1741354798&croped=1&mh=140&mw=140" group-title="Детские", Disney XD
@@ -537,8 +551,10 @@ https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=ph
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" tvg-id="no_epg_music" group-title="Музыкальные",Kiss TV
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://epg.iptvx.one/picons/bridge-tv.png" group-title="Музыкальные",Bridge
+#EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=67
 #EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png" group-title="Музыкальные",Bridge Deluxe HD
+#EXTVLCOPT:network-caching=3000
 http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png" group-title="Музыкальные",Bridge TV Hits
 http://cdn.kubteltv.workers.dev/playlist.m3u8?ID=64

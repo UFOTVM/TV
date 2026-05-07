@@ -200,7 +200,7 @@ https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=kz
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-arena.png" tvg-id="match-arena" group-title="Спорт",Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one./picons/mir-basketbola.png" tvg-id="mir-basketbola" group-title="Спорт",Мир Баскетбола
-http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+http://cdn.kubteltv.workers.dev/index.m3u8?ID=451
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/extreme-sports.png" tvg-id="extreme-sports" group-title="Спорт",Extreme Sports
 http://46.32.176.50/extremesport/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Спорт",Овертайм ТВ
@@ -478,7 +478,7 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=207
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/boomerang.png" tvg-id="boomerang" group-title="Детские",Cartoonito
-http://allway.tv/iptv/users/Alex/1587.m3u8
+http://tmptv.sunduk.tv/CH443/index.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://tv.ttk.mx:9092
 #EXTINF:-1 group-title="Детские",Nick Jr
@@ -488,7 +488,7 @@ https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",TiJi
-http://45.145.32.13:20440/tiji/index.m3u8?token=test
+http://tmptv.sunduk.tv/CH349/index.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
 http://46.32.176.50/mult/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
@@ -500,7 +500,7 @@ https://tinyurl.com/teh55yef/15098/index.m3u8
 #EXTINF:-1 group-title="Детские",Da Vinci
 https://a3569457567-s70378.cdn.ngenix.net/da_vinci/index.m3u8
 #EXTINF:-1 group-title="Детские",Лапки LIVE
-http://45.145.32.13:20440/unikum/index.m3u8?token=test
+http://cdn.kubteltv.workers.dev/index.m3u8?ID=321
 #EXTINF:-1 group-title="Детские",English Club TV
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids HD
@@ -520,7 +520,7 @@ http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19124468/avatar?change_time=1718878513&croped=1&mh=140&mw=140" group-title="Детские", JTX Online
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
-http://46.53.208.4:80/live/3007.m3u8
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/24/8b/c8/248bc8ea6a9e8206a5a667b8a4f8161a.jpg" tvg-id="no_epg_mult" group-title="Детские",Том и Джерри
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 

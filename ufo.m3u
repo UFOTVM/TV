@@ -537,8 +537,7 @@ http://kinowalk.hopto.org/play4fun_live
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" group-title="Музыкальные",1HD Music
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-
+https://tinyurl.com/aleks-u-romki-40/31560/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one./picons/deluxe-music-de.png" tvg-id="deluxe-music-de" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://telik.live/images/v2beat.png" tvg-id="no_epg_music" group-title="Музыкальные",V2BEAT HD
@@ -827,80 +826,78 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-doc-hd.png" tvg-id="sky-high-doc-hd" group-title="SKY HIGH", SKY HIGH DOC FHD
-http://tv.woobl.ru/SKY_HIGH_DOC_FHD/video.m3u8?token=test55555
+https://kino.zunotv.workers.dev/SKY_HIGH_DOC_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NATURE FHD
-https://tinyurl.com/yrxsfhyv/1528.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_NATURE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BEYOND S FHD
-https://tinyurl.com/yrxsfhyv/2263.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_BEYOND_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH SCREAM FHD
-https://tinyurl.com/yrxsfhyv/1512.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_SCREAM_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FEAR VHS FHD
-https://tinyurl.com/yrxsfhyv/1513.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JETIX HD
-https://tinyurl.com/yrxsfhyv/1514.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_JETIX_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BRICK S FHD
-https://tinyurl.com/yrxsfhyv/1517.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_BRICK_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DUSTS FHD
-https://tinyurl.com/yrxsfhyv/1518.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_DUST_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH STRIKE VHS FHD
-https://tinyurl.com/yrxsfhyv/1520.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_STRIKE_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" tvg-id="sky-high-firezone-fhd" group-title="SKY HIGH", SKY HIGH FIREZONE FHD
-https://tinyurl.com/yrxsfhyv/1521.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_FIREZONE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH GUNRUSH FHD
-https://tinyurl.com/yrxsfhyv/1523.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_GUNRUSH_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TANOS S FHD
-https://tinyurl.com/yrxsfhyv/1526.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_TANOS_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH",SKY HIGH BATS FHD
-https://tinyurl.com/yrxsfhyv/1527.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_BAT_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH QUANTS FHD
-https://tinyurl.com/yrxsfhyv/1524.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_QUANT_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NEONVHS FHD
-https://tinyurl.com/yrxsfhyv/1530.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_NEON_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FUTURE FHD
-https://tinyurl.com/yrxsfhyv/1531.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_FUTURE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TOON S FHD
-https://tinyurl.com/yrxsfhyv/1533.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JUNIOR FHD
-https://tinyurl.com/yrxsfhyv/1534.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_JUNIOR_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TEEN FHD
-https://tinyurl.com/yrxsfhyv/1535.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_TEEN_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BOOM FHD
-https://tinyurl.com/yrxsfhyv/1536.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_BOOM_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH CIVIL S FHD
-https://tinyurl.com/yrxsfhyv/1537.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_CIVIL_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH ARCHIVE FHD
-https://tinyurl.com/yrxsfhyv/1541.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_ARCHIVE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-trace-s-fhd.png" tvg-id="sky-high-trace-s-fhd" group-title="SKY HIGH", SKY HIGH TRACE S FHD
-https://tinyurl.com/yrxsfhyv/1542.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_TRACE_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH VOTUM S FHD
-https://tinyurl.com/yrxsfhyv/2265.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_VOTUM_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH CASE VHS FHD
-https://tinyurl.com/yrxsfhyv/2266.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_CASE_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH ZIPPY S FHD
-https://tinyurl.com/yrxsfhyv/2268.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_ZIPPY_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH HEART S FHD
-https://tinyurl.com/yrxsfhyv/2269.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_HEART_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JOKE FHD
-https://tinyurl.com/yrxsfhyv/2270.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_JOKE_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH MEDY VHS FHD
-https://tinyurl.com/yrxsfhyv/2271.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_MEDY_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH RED S FHD
-https://tinyurl.com/yrxsfhyv/2273.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_RED_S_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH WIZZ VHS FHD
-https://tinyurl.com/yrxsfhyv/2275.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DRAGON FHD
-https://tinyurl.com/yrxsfhyv/2276.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_DRAGON_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH WOONDER FHD
-https://tinyurl.com/yrxsfhyv/2277.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_WOONDER_FHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH SPACE 4K HDR
-https://tinyurl.com/yrxsfhyv/2278.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_SPACE_4K_HDR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH HORROR 4K HDR
-https://tinyurl.com/yrxsfhyv/2279.m3u8
+https://kino.zunotv.workers.dev/SKY_HIGH_HORROR_4K_HDR/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1543.png" tvg-id="no_epg_music" group-title="SKY HIGH",SKY HIGH LOFI HD
-https://tinyurl.com/yrxsfhyv/1543.m3u8
-
+https://kino.zunotv.workers.dev/SKY_HIGH_LO_FIHD/index.m3u8
 
 
 

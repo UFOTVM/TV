@@ -557,7 +557,7 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=67
 #EXTVLCOPT:network-caching=3000
 http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png" group-title="Музыкальные",Bridge TV Hits
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=64
+http://cdn.kubteltv.workers.dev/mono.ts.m3u8?ID=64
 #EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png" group-title="Музыкальные",Bridge TV FRESH
 http://89.218.32.179:18000/play/a02j
 #EXTINF:-1 tvg-id="897" tvg-logo="https://kino-stream.online/logo/muztv.png" group-title="Музыкальные",Муз ТВ HD

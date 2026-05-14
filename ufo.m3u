@@ -269,11 +269,11 @@ https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=371
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
 https://kino.zunotv.workers.dev/kinosemya_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
-http://46.32.176.50/kinomiks/index.m3u8
+http://cdn.kubteltv.workers.dev/index.m3u8?ID=105
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" tvg-id="kinoxit" group-title="Кино", Кинохит HD
 https://kino.zunotv.workers.dev/kinohit_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png" tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино HD

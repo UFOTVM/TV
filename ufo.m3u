@@ -30,7 +30,7 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2h
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=376
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
-https://edge02r.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae
+https://edge02r.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae&scheme=https
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -41,7 +41,7 @@ http://176.118.197.101/THT/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=377
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
-https://edge02r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae
+https://edge02r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -62,7 +62,7 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=378
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
-https://edge02r.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae
+https://edge02r.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://kino-stream.online/logo/russiak.png" group-title="Основные",Россия K
@@ -432,7 +432,7 @@ http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
 https://kino.zunotv.workers.dev/big_planet_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Terra HD
-https://kino.zunotv.workers.dev/terra_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/index.m3u8?ID=148
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC
 http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC HD
@@ -540,7 +540,7 @@ http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=OEDc7YtWFRVhgnKKuNV2Vw&e=2069285078&scheme=https
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
-https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
+https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/2.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one./picons/deluxe-music-de.png" tvg-id="deluxe-music-de" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://telik.live/images/v2beat.png" tvg-id="no_epg_music" group-title="Музыкальные",V2BEAT HD

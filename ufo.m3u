@@ -30,7 +30,7 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2h
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=376
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
-https://edge02r.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae&scheme=https
+https://kino.zunotv.workers.dev/ren_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -41,7 +41,7 @@ http://176.118.197.101/THT/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=377
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
-https://edge02r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae&scheme=https
+https://kino.zunotv.workers.dev/sts_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -62,7 +62,7 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=378
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
-https://edge02r.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.RMa1tZ-hVYxBdZAvP6aDeTlJ2CQZsmyiOdOMy8VszLE.b9XkxYoEXfIFPUJ_VX3RtNHYKc3iATGzqcQPZ-FSBe0.1779615490.633d6edd6bf6f50a69eaacc0f3d1daae&scheme=https
+https://kino.zunotv.workers.dev/tvc_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://epg.iptvx.one/picons/kultura.png" group-title="Основные",Россия K

@@ -490,11 +490,11 @@ http://tv.ttk.mx:9092
 #EXTINF:-1 group-title="Детские",Nick Jr
 http://46.32.176.50/nickelodeonjunior/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
-https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",TiJi
-https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+http://185.78.112.47:8077/TiJi/index.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
 http://46.32.176.50/mult/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
@@ -504,7 +504,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
 https://tinyurl.com/teh55yef/15098/index.m3u8
 #EXTINF:-1 group-title="Детские",Da Vinci
-https://a3569457567-s70378.cdn.ngenix.net/da_vinci/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 group-title="Детские",Лапки LIVE
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=321
 #EXTINF:-1 group-title="Детские",English Club TV
@@ -512,7 +512,7 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids HD
 http://185.78.112.47:8077/sts_kids/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids
-https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+http://91.221.252.12:82/tv40
 #EXTINF:-1 tvg-id="supergeroi" group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Classics

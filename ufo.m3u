@@ -395,6 +395,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/bolt_hd/1
 https://tinyurl.com/teh55yef/20211/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ultra-hd-cinema.png" tvg-id="ultra-hd-cinema" group-title="Кино",Ultra HD Cinema
 http://185.78.112.47:8077/ultra_cinema_4k/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино",Trash HD
+http://5.188.159.128:8070/Trash_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k" group-title="Кино",BCU Ultra 4K
 http://185.78.112.47:8077/BCU_Ultra_4K/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
@@ -463,6 +465,8 @@ https://kino.zunotv.workers.dev/curiosity_stream_hd/index.m3u8
 https://tinyurl.com/teh55yef/920/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://epg.iptvx.one/picons/ocean-tv.png" group-title="Познавательные",Ocean TV
 http://185.78.112.47:8077/OceanTV/index.m3u8
+#EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные",Insight TV
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
 
 

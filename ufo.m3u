@@ -611,18 +611,22 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 tvg-logo="https://sun9-77.userapi.com/impf/nNai67zCi4neIS8l4QLfgnnWVuhl_fotKh-Nxw/64vA7mNVAHA.jpg?size=443x398&quality=96&sign=12ca16e7ca675d44f59977116dc59f6d&c_uniq_tag=wDKxRd8s_gFvBGjnDUmOEBkJF6kO59JXXGpEoTgAMEw&type=album" tvg-id="no_epg_music" group-title="Музыкальные", Record Megamix
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
 
-#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000003457.png" tvg-name="no_epg_music" group-title="Музыкальные",Clubbing TV
+#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000003457.png" tvg-id="no_epg_music" group-title="Музыкальные",Clubbing TV
 http://46.151.151.250:9201
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trace-urban.png" tvg-name="trace-urban" group-title="Музыкальные",Trace Urban HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trace-urban.png" tvg-id="trace-urban" group-title="Музыкальные",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/now70s.png" tvg-name="now70s" group-title="Музыкальные",Now 70's
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/now70s.png" tvg-id="now70s" group-title="Музыкальные",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/now80s.png" tvg-name="now80s" group-title="Музыкальные",Now 80's
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/now80s.png" tvg-id="now80s" group-title="Музыкальные",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/now-rock.png" tvg-name="now-rock" group-title="Музыкальные",Now Rock
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/now-rock.png" tvg-id="now-rock" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sun9-17.userapi.com/impg/7ZcuhP1R7Pgp14bH--fi8MqQw9IMlqSC66Ckzg/xJr21AFCPmY.jpg?size=320x201&quality=95&sign=9b9b8268f3cfb73b72b3e4da66029e79&c_uniq_tag=M29CRtGxcOE-UaBhy-HOdk7osjucQ4Tw88LGjjPAsNs&type=video_thumb" tvg-id="no_epg_music" group-title="Музыкальные", RETROHITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd285.okcdn.ru/playback/7765205854979?stkn=3YIqbICN3HQXqSqHe0t6L_U4aObzKpZdQDqaZigiXarsKvoVAU1g9ABrdjLIO7hYZdJPsBcdTGk&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271g.png" tvg-name="no_epg_music" group-title="Музыкальные",Power Dance
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
@@ -643,15 +647,16 @@ http://kinowalk.hopto.org/selecaotv1_live
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD 
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD
 http://kinowalk.hopto.org/legion-tv_live
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="http://telik.live/images/fmc-tv.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", FantasticMistyc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+rtmp://vkvsd199.okcdn.ru/playback/3780958366657?stkn=c3qCEto7Z19Gl6AT2PFZujdHvggU3zjJ1Wd4nvkEESOm9yVb5Ua8iL_YwVUg7G8dNsZOAkV5dUs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",NSC
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/d2qzrUO.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",15+ animatiom
@@ -660,6 +665,13 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
 http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/8/6/24/imgbin-television-show-kodi-film-series-Q965sauX6xFnXRpmYEGEuEiG5.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", TV Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://sun9-81.userapi.com/WJ0Zg9HH9jna5O1M4BwV5rpMcJuCL_GAyd5Luw/HXvx3v4PSec.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", TDM KINO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+rtmp://vkvsd79.okcdn.ru/playback/11865043512184?stkn=iP9X2jyo6Zr-w_LUZKkXvBaBp3-lOX9JjFgyOpcPnbsjorW-MN9cBeUsyuGVMWt0uqYPqhnhKxwK&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", KinoJam
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Video_Prokat

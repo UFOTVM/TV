@@ -345,8 +345,6 @@ https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 group-title="Кино",Ключ
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=277
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rtvi.png" tvg-id="rtvi" group-title="Кино",RTVi HD
-https://a3569457567-s70378.cdn.ngenix.net/rtvi/index.m3u8
 #EXTINF:-1 group-title="Кино",Победа
 http://193.25.8.59:8000/tochka
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
@@ -395,8 +393,8 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/bolt_hd/1
 https://tinyurl.com/teh55yef/20211/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ultra-hd-cinema.png" tvg-id="ultra-hd-cinema" group-title="Кино",Ultra HD Cinema
 http://185.78.112.47:8077/ultra_cinema_4k/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино",Trash HD
-http://5.188.159.128:8070/Trash_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shot-tv.png" tvg-id="shot-tv" group-title="Кино",Shot TV
+http://185.78.112.47:8077/shot_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k" group-title="Кино",BCU Ultra 4K
 http://185.78.112.47:8077/BCU_Ultra_4K/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
@@ -426,14 +424,12 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=263
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=262
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://185.78.112.47:8077/ViasatHistoryHD/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Живая природа HD
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=339
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=342
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 http://46.32.176.50/domashniejivotnie/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Зоопарк
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zoopark.png" tvg-id="zoopark" group-title="Познавательные",Зоопарк
 http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
 http://37.46.49.14:18010/play/a067/index.m3u8
@@ -455,6 +451,10 @@ http://91.247.68.229:8000/play/Travelxp/index.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/home4k.png" tvg-id="home-4k" group-title="Познавательные",Home 4k
 http://185.78.112.47:8077/home4k/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
+http://cdn.kubteltv.workers.dev/index.m3u8?ID=339
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/quadro4k.png" tvg-id="quadro4k" group-title="Познавательные",Quadro 4K
+http://185.78.112.47:8077/Quadro4K/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
 http://93.84.115.174:10181/rtghd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные",Epic HD

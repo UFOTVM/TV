@@ -61,6 +61,8 @@ https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=378
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/yu.png" tvg-id="yu" group-title="Основные",Ю
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=x45t0M4xuuiCNqRQBW70Jg&e=2069285051&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
 https://kino.zunotv.workers.dev/tvc_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ
@@ -84,7 +86,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir24.png" tvg-id="mir-24" group-title="Основные",  Мир 24 HD
 https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=AHyYF5k7S-kCLd06laF3_w&e=2069500976&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" tvg-id="solovjinypomiot" group-title="Основные",Соловьев.Live HD
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
 http://31.131.141.195:8000/play/2020/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ont-by.png" tvg-id="ont-by" group-title="Основные",ОНТ HD
@@ -156,7 +158,7 @@ https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 http://46.32.176.50/avto24/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ЕДА
 https://kino.zunotv.workers.dev/eda/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Развлекательные",  WF мода HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Развлекательные",WF мода HD
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Аппетитный
 https://kino.zunotv.workers.dev/appetitniy_hd/index.m3u8
@@ -164,6 +166,10 @@ https://kino.zunotv.workers.dev/appetitniy_hd/index.m3u8
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a5cfa43179f7b313920bf743b1cf92191a0302c1-5333794-images-thumbs&n=13" tvg-id="no_epg_music" group-title="Развлекательные",Залипательные ролики
 https://rpn3.bozztv.com/dvrfl07/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="no_epg_music" group-title="Развлекательные",Приколы 1
+https://live20.bozztv.com/giatvplayout7/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="no_epg_music" group-title="Развлекательные",Приколы 2
+https://live20.bozztv.com/giatvplayout7/ushba20/tracks-v1a1/mono.m3u8
 
 
 
@@ -197,8 +203,8 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 http://31.148.48.15:80/M1_Global/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11092.png" tvg-id="boks-tv" group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kxl.png" tvg-id="kxl" group-title="Спорт", KHL HD
-http://37.46.49.14:18010/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" tvg-id="kxl-hd" group-title="Спорт", KHL HD
+http://193.25.8.59:8000/khl
 #EXTINF:-1 tvg-id="kxl" tvg-logo="https://epg.iptvx.one/picons/kxl.png" group-title="Спорт",КХЛ ТВ
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="nhl-network-us" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png",NHL Network
@@ -218,6 +224,8 @@ http://37.46.49.14:18010/play/a09e/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-football3.png" tvg-id="match-football3" group-title="Спорт", Футбол3
 http://37.46.49.14:18010/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-sports-prem-ar.png" tvg-id="tnt-sports-prem-ar" group-title="Спорт", TNT SPORTS 1 HD
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=Tk2ELJCYDAttr-psIBrOWw&e=2077359365&scheme=https
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nba-tv.png" tvg-id="nba-tv" group-title="Спорт", NBA TV
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=Tk2ELJCYDAttr-psIBrOWw&e=2077359365&scheme=https
 #EXTINF:-1 tvg-id="okko-sport" catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Спорт HD
 https://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
@@ -576,7 +584,7 @@ http://89.218.32.179:18000/play/a02j
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://epg.iptvx.one/picons/muztv.png" group-title="Музыкальные",Муз ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epg.iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU.TV HD
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=z8iI3jVMag-witLRIH5zVg&e=2068506966&scheme=https
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https
 #EXTINF:-1 group-title="Музыкальные",Mezzo
 https://a3569457567-s70378.cdn.ngenix.net/mezzo/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыкальные",FON Music
@@ -606,8 +614,6 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=hu
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv" group-title="Музыкальные", Europa Plus TV
 http://46.32.176.50/europaplus/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" group-title="Музыкальные",Europa Plus TV HD
-http://92.63.106.41/24hp/stream.php?id=3735
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/deejaytv-it.png" tvg-id="no_epg_music" group-title="Музыкальные",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -649,8 +655,6 @@ http://kinowalk.hopto.org/selecaotv_live
 http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kino Mix
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Видеокассета VHS
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозал Креаторы",Legion tv FHD
 http://kinowalk.hopto.org/legion-tv_live
 

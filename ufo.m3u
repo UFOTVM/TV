@@ -30,7 +30,7 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2h
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=376
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
-https://kino.zunotv.workers.dev/ren_tv_hd/index.m3u8
+https://edge01p.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.XXnqH4sZNV9ExFcL_e0FHLA_MIqnzbirVR71XZrnGTA.LcxcXsOA5ieEvCQMFTUaFWN3wqne31_U8VUtDMvuo_k.1781429889.5b39465ffdb3710d875d1279d8921013
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -41,7 +41,7 @@ http://176.118.197.101/THT/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=377
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
-https://kino.zunotv.workers.dev/sts_hd/index.m3u8
+https://edge02p.mediavitrina.ru/hls-livef6/ctc/index.m3u8?token=v2.4nnhD_z8BT31hXbLbnvh9eRkdItNrlI1jGpjLaheue0.YSnhMpbxM75EXgGYRV6nH3Cg7T5wLRDa47ttRVFGMyw.1781429890.dc6915cbf2842d8ff368c792b2b87b87
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -104,7 +104,7 @@ https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zq
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Развлекательные",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rutube-tv.png" tvg-id="rutube-tv" group-title="Развлекательные", Rutube TV
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rutube-tv.png" tvg-id="no_epg" group-title="Развлекательные", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0n7KfJ7ClPM1At-kR4sR8g&e=2072265313&scheme=https
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://epg.iptvx.one/picons/sts-love.png" group-title="Развлекательные",CTC Love
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
@@ -274,7 +274,7 @@ https://kino.zunotv.workers.dev/sci_fi_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",.Black
 http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
-http://89.218.32.179:18000/play/a01p
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
 https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
@@ -417,7 +417,7 @@ http://46.32.176.50/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 http://46.32.176.50/discoverychannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
-http://46.32.176.50/HistoryHD/index.m3u8
+http://185.78.112.47:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://62.89.17.130:4451/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
@@ -504,7 +504,7 @@ http://185.78.112.47:8077/Boomerang/index.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://tv.ttk.mx:9092
 #EXTINF:-1 group-title="Детские",Nick Jr
-http://46.32.176.50/nickelodeonjunior/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NICKJR.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
 http://185.78.112.47:8077/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
@@ -860,224 +860,6 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-doc-hd.png" tvg-id="sky-high-doc-hd" group-title="SKY HIGH", SKY HIGH DOC FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_DOC_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NATURE FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_NATURE_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BEYOND S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_BEYOND_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH SCREAM FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_SCREAM_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FEAR VHS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_FEAR_VHS_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JETIX HD
-https://kino.zunotv.workers.dev/SKY_HIGH_JETIX_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BRICK S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_BRICK_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DUSTS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_DUST_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH STRIKE VHS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_STRIKE_VHS_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" tvg-id="sky-high-firezone-fhd" group-title="SKY HIGH", SKY HIGH FIREZONE FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_FIREZONE_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH GUNRUSH FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_GUNRUSH_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TANOS S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_TANOS_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH",SKY HIGH BATS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_BAT_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH QUANTS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_QUANT_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH NEONVHS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_NEON_VHS_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH FUTURE FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_FUTURE_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TOON S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_TOON_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JUNIOR FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_JUNIOR_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH TEEN FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_TEEN_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH BOOM FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_BOOM_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH CIVIL S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_CIVIL_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH ARCHIVE FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_ARCHIVE_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-high-trace-s-fhd.png" tvg-id="sky-high-trace-s-fhd" group-title="SKY HIGH", SKY HIGH TRACE S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_TRACE_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH VOTUM S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_VOTUM_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH CASE VHS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_CASE_VHS_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH ZIPPY S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_ZIPPY_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH HEART S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_HEART_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH JOKE FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_JOKE_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH MEDY VHS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_MEDY_VHS_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH RED S FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_RED_S_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH WIZZ VHS FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_WIZZ_VHS_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH DRAGON FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_DRAGON_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH WOONDER FHD
-https://kino.zunotv.workers.dev/SKY_HIGH_WOONDER_FHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH SPACE 4K HDR
-https://kino.zunotv.workers.dev/SKY_HIGH_SPACE_4K_HDR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SKY HIGH", SKY HIGH HORROR 4K HDR
-https://kino.zunotv.workers.dev/SKY_HIGH_HORROR_4K_HDR/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1543.png" tvg-id="no_epg_music" group-title="SKY HIGH",SKY HIGH LOFI HD
-https://kino.zunotv.workers.dev/SKY_HIGH_LO_FIHD/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Premiere 4K
-https://kino.zunotv.workers.dev/BOX_Premiere_4K/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Franchise HD
-https://kino.zunotv.workers.dev/BOX_Franchise_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Hybrid HD
-https://kino.zunotv.workers.dev/BOX_Hybrid_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Oscar HD
-https://kino.zunotv.workers.dev/BOX_Oscar_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Gangster HD
-https://kino.zunotv.workers.dev/BOX_Gangster_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Anime HD
-https://kino.zunotv.workers.dev/BOX_Anime_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Memory HD
-https://kino.zunotv.workers.dev/BOX_Memory_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX M.Serial HD
-https://kino.zunotv.workers.dev/BOX_MSerial_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Serial HD
-https://kino.zunotv.workers.dev/BOX_Serial_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Spy HD
-https://kino.zunotv.workers.dev/BOX_Spy_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Ghost HD
-https://kino.zunotv.workers.dev/BOX_Ghost_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Fantasy HD
-https://kino.zunotv.workers.dev/BOX_Fantasy_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Serial 4K
-https://kino.zunotv.workers.dev/BOX_Serial_4K/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Remast 4K
-https://kino.zunotv.workers.dev/BOX_Remast_4K/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Remast+ 4K
-https://kino.zunotv.workers.dev/BOX_Remast_Plus_4K/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Western HD
-https://kino.zunotv.workers.dev/BOX_Western_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Zombie HD
-https://kino.zunotv.workers.dev/BOX_Zombie_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Cyber HD
-https://kino.zunotv.workers.dev/BOX_Cyber_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Apocalypse HD
-https://kino.zunotv.workers.dev/BOX_Apocalypse_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sitcom HD
-https://kino.zunotv.workers.dev/BOX_Sitcom_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Game HD
-https://kino.zunotv.workers.dev/BOX_Game_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Stories HD
-https://kino.zunotv.workers.dev/BOX_Stories_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Travel HD
-https://kino.zunotv.workers.dev/BOX_Travel_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Docu HD
-https://kino.zunotv.workers.dev/BOX_Docu_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Travel Premiere HD
-https://kino.zunotv.workers.dev/BOX_Travel_Premiere_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Gurman HD
-https://kino.zunotv.workers.dev/BOX_Gurman_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Autotrend HD
-https://kino.zunotv.workers.dev/BOX_Autotrend_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Music 4K
-https://kino.zunotv.workers.dev/BOX_Music_4K/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Relax 4K
-https://kino.zunotv.workers.dev/BOX_Relax_4K/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX RU.RAP HD
-https://kino.zunotv.workers.dev/BOX_RuRap_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge 1 Live HD
-https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD_Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge 2 Live HD
-https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD_Live_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Be ON Edge HD
-https://kino.zunotv.workers.dev/BOX_BeOnEdge_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 1 HD
-https://kino.zunotv.workers.dev/BOX_SportCast_1_Live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 2 HD
-https://kino.zunotv.workers.dev/BOX_SportCast_2_Live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 3 HD
-https://kino.zunotv.workers.dev/BOX_SportCast_3_Live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 5 HD
-https://kino.zunotv.workers.dev/BOX_SportCast_5_Live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 6 HD
-https://kino.zunotv.workers.dev/BOX_SportCast_6_Live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 8 HD
-https://kino.zunotv.workers.dev/BOX_SportCast_8_Live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX SportCast Live 9 HD
-https://kino.zunotv.workers.dev/BOX_SportCast_9_Live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOX",BOX Sportcast HD
-https://kino.zunotv.workers.dev/BOX_Sportcast_HD/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" tvg-id="bcu-kinozal-prem-1" group-title="кинозал BCU", BCU Premiere 1 HD
-https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2" group-title="кинозал BCU", BCU Premiere 2 HD
-https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-3.png" tvg-id="bcu-kinozal-prem-3" group-title="кинозал BCU", BCU Premiere 3 HD
-https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_3_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4760.png" tvg-id="bcu-premiere" group-title="кинозал BCU", BCU Premiere HD
-https://kino.zunotv.workers.dev/BCU_Premiere_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4748.png" tvg-id="bcu-action" group-title="кинозал BCU",BCU Action HD
-https://kino.zunotv.workers.dev/BCU_Action_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/4749.png" tvg-id="bcu-catastrophe" group-title="кинозал BCU",BCU Catastrophe HD
-https://kino.zunotv.workers.dev/BCU_Catastrophe_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png" tvg-id="bcu-cinema" group-title="кинозал BCU", BCU CINEMA HD
-https://kino.zunotv.workers.dev/BCU_Cinema_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png" tvg-id="bcu-cinemaplus" group-title="кинозал BCU", BCU CINEMA+ HD
-https://kino.zunotv.workers.dev/BCU_Cinema_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-criminal.png" tvg-id="bcu-criminal" group-title="кинозал BCU",BCU Criminal HD
-https://kino.zunotv.workers.dev/BCU_Criminal_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" tvg-id="bcu-fantastic" group-title="кинозал BCU",BCU Fantastic HD
-https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" tvg-id="bcu-filmystic" group-title="кинозал BCU",BCU FilMystic HD
-https://kino.zunotv.workers.dev/BCU_FilMystic_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-history.png" tvg-id="bcu-history" group-title="кинозал BCU", BCU History HD
-https://kino.zunotv.workers.dev/BCU_History_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8963.png" tvg-id="bcu-comedy" group-title="кинозал BCU",BCU Comedy HD
-https://kino.zunotv.workers.dev/BCU_Comedy_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic" group-title="кинозал BCU",BCU Romantic HD
-https://kino.zunotv.workers.dev/BCU_Romantic_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="кинозал BCU",BCU Kinorating HD
-https://kino.zunotv.workers.dev/BCU_Kinorating_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8964.png" tvg-id="bcu-marvel" group-title="кинозал BCU",BCU Marvel HD
-https://kino.zunotv.workers.dev/BCU_Marvel_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" tvg-id="bcu-stars" group-title="кинозал BCU",BCU Stars HD
-https://kino.zunotv.workers.dev/BCU_Stars_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k" group-title="кинозал BCU",BCU Ultra 4K
-https://kino.zunotv.workers.dev/BCU_Ultra_4K/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-vhs-hd.png" tvg-id="bcu-vhs" group-title="кинозал BCU",BCU VHS HD
-https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-svaty.png" tvg-id="bcu-svaty" group-title="кинозал BCU", BCU Сваты HD
-https://kino.zunotv.workers.dev/BCU_Svaty_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-sssr-hd.png" tvg-id="bcu-sssr" group-title="кинозал BCU", BCU CCCP HD
-https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-russian.png" tvg-id="bcu-russian" group-title="кинозал BCU",BCU Russian HD
-https://kino.zunotv.workers.dev/BCU_Russian_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ruserial.png" tvg-id="bcu-ruserial" group-title="кинозал BCU", BCU Ruserial HD
-https://kino.zunotv.workers.dev/BCU_RUSERIAL_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids.png" tvg-id="bcu-kids" group-title="кинозал BCU", BCU Kids HD
-https://kino.zunotv.workers.dev/BCU_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-plus.png" tvg-id="bcu-kids-plus" group-title="кинозал BCU",BCU Kids+ HD
-https://kino.zunotv.workers.dev/BCU_Kids_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-multserial.png" tvg-id="bcu-multserial" group-title="кинозал BCU",BCU Мультсериал HD
-https://kino.zunotv.workers.dev/BCU_Multserial_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-4k.png" tvg-id="bcu-kids-4k" group-title="кинозал BCU", BCU Kids 4K
-https://kino.zunotv.workers.dev/BCU_Kids_4K/index.m3u8
 
 
 

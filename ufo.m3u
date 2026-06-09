@@ -252,6 +252,8 @@ http://cdn.kubteltv.workers.dev/index.m3u8?ID=191
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=192
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
 https://kino.zunotv.workers.dev/viju_tv1000_russkoe_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла HD
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/index.m3u8?ID=381

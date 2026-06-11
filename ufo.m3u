@@ -190,7 +190,7 @@ http://46.151.151.250:9002
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-premiere.png" tvg-id="match-premier" group-title="Спорт", МАТЧ! Премьер
 http://91.221.252.12:82/tv114
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-sport.png" tvg-id="viasat-sport" group-title="Спорт", Viju+ sport HD
-http://185.78.112.47:8077/ViasatSportHD/index.m3u8
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=265
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" tvg-id="setanta1-lt" group-title="Спорт",Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta2-lt.png" tvg-id="setanta1-2t" group-title="Спорт",Setanta Sports 2 HD
@@ -227,12 +227,6 @@ http://185.57.68.33/110/index.m3u8
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=Tk2ELJCYDAttr-psIBrOWw&e=2077359365&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nba-tv.png" tvg-id="nba-tv" group-title="Спорт", NBA TV
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=Tk2ELJCYDAttr-psIBrOWw&e=2077359365&scheme=https
-#EXTINF:-1 tvg-id="okko-sport" catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Спорт HD
-https://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-football" catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Футбол HD
-https://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-sport-2" catchup="flussonic" catchup-days="1" group-title="Спорт",Окко Прайм Спорт HD
-https://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
 
 
 

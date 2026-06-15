@@ -26,7 +26,7 @@ https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=8u
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2hpFHyGd4ABvaVKRieBvOg&e=2077359297&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=376
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=376
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
 https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.jQaYNkQyA0w4JJCW_dba1o71P60fwaSnXeQW50TPqBA.EPcpUaUmeow6MUXqOYupJFts5RJ_QPByveKqTAJYsfE.1782027489.0372dfd7a22d07205160c860a9aa238c
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
@@ -37,7 +37,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=E0
 http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=377
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=377
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
 https://edge02r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.-FBfa3cPiL3IMsUij8NuTT5AJl88MyU9QSxpm_k2R8g.5brr-kODIeMtkgzeyJniUyetsImrdiqNYqgjBrQ1Fyc.1782027490.8119d61946105cbc0ca22c796f5e23c1
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
@@ -56,7 +56,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=yg
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=378
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=378
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/yu.png" tvg-id="yu" group-title="Основные",Ю
@@ -116,7 +116,7 @@ https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russky-ekstrim.png" tvg-id="russky-ekstrim" group-title="Развлекательные",Русский экстрим
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=358
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=358
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png" group-title="Развлекательные",КВН ТВ
 http://91.221.252.12:82/tv30
 #EXTINF:-1 tvg-id="gags-network" tvg-logo="https://epg.iptvx.one/picons/gags-network.png" group-title="Развлекательные",Gagsnetwork
@@ -125,7 +125,7 @@ http://cdn.balelbrus.com/bigteisti1/GAGSNETWORK/index.m3u8?token=eG1lbnRzMnx8V0R
 http://46.32.176.50/nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-logo="https://epg.iptvx.one/picons/drive.png" group-title="Развлекательные",Драйв
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=46
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=46
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Вопросы и ответы
@@ -133,7 +133,7 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Время
 http://46.32.176.50/Vremya/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Диалоги о Рыбалке
-http://217.174.229.136:8000/play/a08w
+https://tinyurl.com/yesp92ya/2394/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Загородная жизнь HD
 http://94.250.255.172/alma/stream.php?id=4988
 #EXTINF:-1 group-title="Развлекательные",Зал суда
@@ -141,7 +141,7 @@ https://tinyurl.com/teh55yef/7141/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Здоровое ТВ
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mir-uvlecheniy.png" tvg-id="mir-uvlecheniy" group-title="Развлекательные",Кто Куда
-https://kino.zunotv.workers.dev/kto_kuda/index.m3u8
+https://tinyurl.com/yesp92ya/2112/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Наша Тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Оружие

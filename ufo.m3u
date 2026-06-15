@@ -932,6 +932,85 @@ http://s.only4.tv/10899/video.m3u8?token=Uqxoga1IGq
 
 
 
+#EXTINF:0 tvg-rec="7",CineMan
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11004/index.m3u8
+#EXTINF:0 tvg-rec="3",CineMan Premium
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/20112/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Top
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11005/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Action
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11006/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Мелодрама
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11008/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11012/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan РуКино
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11013/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan MiniSeries
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/19437/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Криминальные Сериалы
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/31626/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Комедийные Сериалы
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/31628/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Сваты
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11014/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Катастрофы
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/15106/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Ментовские войны
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/16063/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan ПёС + Лихач
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/16064/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Лесник
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/16065/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Скорая Помощь
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/15100/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Фитнес
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/31629/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Симпсоны
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/15101/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Cartoons 90
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11001/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Cartoons Short
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11002/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Cartoons Big
+#EXTGRP:CineMan
+https://tinyurl.com/yesp92ya/11003/index.m3u8
+
+
+
+
 
 #EXTINF:-1  tvg-logo="https://www.radiorecord.ru/upload/stations_images/2step_image600_colored_fill.png" ,2-step
 #EXTGRP:RADIO RECORD

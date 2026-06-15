@@ -161,7 +161,7 @@ http://46.32.176.50/kuxnyatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Развлекательные",WF мода HD
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Аппетитный
-https://kino.zunotv.workers.dev/appetitniy_hd/index.m3u8
+http://cdn.balelbrus.com/bigteisti19/08946921/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 group-title="Развлекательные",Бобер
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a5cfa43179f7b313920bf743b1cf92191a0302c1-5333794-images-thumbs&n=13" tvg-id="no_epg_music" group-title="Развлекательные",Залипательные ролики
@@ -266,17 +266,17 @@ http://46.32.176.50/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="Кино",.Sci-Fi
 http://46.32.176.50/sonyscifi/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://epg.iptvx.one/picons/sony-scifi.png" group-title="Кино",.Sci-Fi HD
-https://kino.zunotv.workers.dev/sci_fi_hd/index.m3u8
+http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 group-title="Кино",.Black
 http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air HD
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=372
 #EXTINF:-1 group-title="Кино",Start Air
 #EXTVLCOPT:http-user-agent=TiviMate/2.8.0
-http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=372
+http://37.46.49.14:18010/play/a08u/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=371
@@ -294,7 +294,7 @@ http://46.32.176.50/MujskoeKinoHD/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=328
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас HD
-https://kino.zunotv.workers.dev/kinouzhas_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=200
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас
 http://91.221.252.12:82/tv81
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино
@@ -454,9 +454,9 @@ http://185.78.112.47:8077/Quadro4K/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
 http://193.25.8.59:8000/rtg
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные",Epic HD
-https://kino.zunotv.workers.dev/epic_hd/index.m3u8
+https://tinyurl.com/yesp92ya/2054/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/curiosity-stream.png" tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD
-https://kino.zunotv.workers.dev/curiosity_stream_hd/index.m3u8
+http://37.46.49.14:18010/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://epg.iptvx.one/picons/prikluchenia-hd.png" group-title="Познавательные",Приключения HD
 https://tinyurl.com/teh55yef/920/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://epg.iptvx.one/picons/ocean-tv.png" group-title="Познавательные",Ocean TV
@@ -574,7 +574,7 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JT
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epg.iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU.TV HD
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https
 #EXTINF:-1 group-title="Музыкальные",Mezzo
-https://a3569457567-s70378.cdn.ngenix.net/mezzo/index.m3u8
+http://85.117.37.41/mezzo/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыкальные",FON Music
 http://185.46.16.239:8000/Nashe_TV
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыкальные",FON Music HD

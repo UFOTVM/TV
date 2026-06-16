@@ -319,7 +319,7 @@ https://tinyurl.com/yrxsfhyv/901.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" tvg-id="shokiruyushchee-hd" group-title="Кино",Шокирующее HD
 https://tinyurl.com/yrxsfhyv/905.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
-http://185.46.48.18:80/cinema/mono.m3u8
+http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/flixsnip.png" tvg-id="flixsnip" group-title="Кино",FlixSnip HD
 https://tinyurl.com/teh55yef/10060/index.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
@@ -354,7 +354,7 @@ http://46.32.176.50/foxlife/index.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Кино",Патриот
-http://185.46.48.18:80/asvtv/mono.m3u8
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=362
 #EXTINF:-1 group-title="Кино",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",Т24
@@ -386,7 +386,7 @@ http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=255
 http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=354
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=343
+http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=343
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="bolt" group-title="Кино", Bolt HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Кино",Kion Хит HD
@@ -542,6 +542,9 @@ http://kinowalk.hopto.org/play4fun_live
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" group-title="Музыкальные",1HD Music
 http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/88047.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
+#EXTVLCOPT:http-user-agent=TiviMate/2.8.0
+https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=OEDc7YtWFRVhgnKKuNV2Vw&e=2069285078&scheme=https
 

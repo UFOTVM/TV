@@ -380,10 +380,10 @@ http://185.46.16.239:8000/Kino_TV
 http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=219
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/khit.png" tvg-id="khit-hd" group-title="Кино", Хит HD
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=255
+http://91.204.123.202:80/363/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
 #EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=354
+http://91.204.123.202:80/420/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=343
@@ -450,7 +450,7 @@ https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/quadro4k.png" tvg-id="quadro4k" group-title="Познавательные",Quadro 4K
 http://185.78.112.47:8077/Quadro4K/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
-http://193.25.8.59:8000/rtg
+http://91.204.123.202:80/164/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные",Epic HD
 https://tinyurl.com/4tfv9tup/2054/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/curiosity-stream.png" tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD
@@ -542,14 +542,11 @@ http://kinowalk.hopto.org/play4fun_live
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" group-title="Музыкальные",1HD Music
 http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0827/56/dd691302f764278730b39f39a65f7c56.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
+#EXTINF:-1 tvg-logo="http://epg.one/img2/88047.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=OEDc7YtWFRVhgnKKuNV2Vw&e=2069285078&scheme=https
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one./picons/deluxe-music-de.png" tvg-id="deluxe-music-de" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/88047.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://telik.live/images/v2beat.png" tvg-id="no_epg_music" group-title="Музыкальные",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/b4/206c12e5512b5f3646db19d45c620bb4.png" tvg-id="no_epg_music" group-title="Музыкальные",radio m2o
@@ -913,6 +910,35 @@ https://tinyurl.com/4tfv9tup/11002/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan Cartoons Big
 #EXTGRP:CineMan
 https://tinyurl.com/4tfv9tup/11003/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Fresh",Fresh Rating
+http://91.204.123.202:80/422/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Cinema
+http://91.204.123.202:80/423/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Premiere
+http://91.204.123.202:80/424/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Kids
+http://91.204.123.202:80/425/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Comedy
+http://91.204.123.202:80/426/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Family
+http://91.204.123.202:80/427/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh VHS
+http://91.204.123.202:80/428/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Fantastic
+http://91.204.123.202:80/429/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Series
+http://91.204.123.202:80/430/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Horror
+http://91.204.123.202:80/431/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Adventure
+http://91.204.123.202:80/432/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Romantic
+http://91.204.123.202:80/433/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Thriller
+http://91.204.123.202:80/434/index.m3u8
 
 
 

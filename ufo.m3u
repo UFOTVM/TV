@@ -195,9 +195,9 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-sport.png" tvg-id="viasat-sport" group-title="Спорт", Viju+ sport HD
 http://91.204.123.202:80/333/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" tvg-id="setanta1-lt" group-title="Спорт",Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+http://cdn.tvboom.vip/setanta1hd/index.m3u8?token=TmlrYXRhbjc4fHxNakV5TURJNU1EZEJiU1E9
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta2-lt.png" tvg-id="setanta1-2t" group-title="Спорт",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+http://cdn.tvboom.vip/setanta2hd/index.m3u8?token=TmlrYXRhbjc4fHxNakV5TURJNU1EZEJiU1E9
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trace-sport-stars-ru.png" tvg-id="trace-sport-stars-ru" group-title="Спорт",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ufc.png" tvg-id="ufc" group-title="Спорт",Удар HD
@@ -243,11 +243,11 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium" group-title="Кино", Amedia PREMIUM HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" group-title="Кино",TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=3gLUuQGE3Hn0lVYCXBW52w&e=1782385420&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fzchBV1ACcQqFaWvyJQZpw&e=1783438348&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" group-title="Кино",TV1000
 http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=AqNHXVgwuI_Bm0IJ6JkIpw&e=1782385437&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ZxXbQi5AgCgaILCZ5_JPjg&e=1783438361&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
@@ -293,13 +293,13 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kinohit/1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png" tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино HD
 http://46.32.176.50/MujskoeKinoHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" tvg-id="kinokomedia" group-title="Кино", Кинокомедия
-http://iptv46.mcx-ix.ru:8077/komediya/tracks-v1a1/mono.ts.m3u8
+http://46.32.176.50/kinokomedia/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас HD
 http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=200
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино
-http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/tracks-v1a1/mono.ts.m3u8
+http://37.186.70.39:40/play/73/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
@@ -912,37 +912,6 @@ https://tinyurl.com/4tfv9tup/11002/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan Cartoons Big
 #EXTGRP:CineMan
 https://tinyurl.com/4tfv9tup/11003/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Fresh",Fresh Rating
-http://91.204.123.202:80/422/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Cinema
-http://91.204.123.202:80/423/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Premiere
-http://91.204.123.202:80/424/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Kids
-http://91.204.123.202:80/425/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Comedy
-http://91.204.123.202:80/426/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Family
-http://91.204.123.202:80/427/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh VHS
-http://91.204.123.202:80/428/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Fantastic
-http://91.204.123.202:80/429/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Series
-http://91.204.123.202:80/430/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Horror
-http://91.204.123.202:80/431/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Adventure
-http://91.204.123.202:80/432/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Romantic
-http://91.204.123.202:80/433/index.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Thriller
-http://91.204.123.202:80/434/index.m3u8
-#EXTINF:-1 group-title="Fresh",BCU СССР HD
-http://91.204.123.202:80/488/index.m3u8
 
 
 

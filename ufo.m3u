@@ -625,7 +625,7 @@ rtmp://vkvsd285.okcdn.ru/playback/7765205854979?stkn=3YIqbICN3HQXqSqHe0t6L_U4aOb
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/UFOTVM/TV/refs/heads/main/scripach.png" group-title="Кинозал Креаторы",Скрипач ТВ HD
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo=https://raw.githubusercontent.com/UFOTVM/TV/refs/heads/main/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Фильм
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/UFOTVM/TV/refs/heads/main/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Фильм
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://raw.githubusercontent.com/UFOTVM/TV/refs/heads/main/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Сериал
 http://kinowalk.hopto.org/selecaotv1_live
@@ -636,7 +636,7 @@ http://kinowalk.hopto.org/legion-tv_live
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Кинозал Креаторы", VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/UFOTVM/TV/refs/heads/main/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="http://telik.live/images/fmc-tv.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", FantasticMistyc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36

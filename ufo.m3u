@@ -193,7 +193,7 @@ http://46.151.151.250:9002
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-premiere.png" tvg-id="match-premier" group-title="Спорт", МАТЧ! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-sport.png" tvg-id="viasat-sport" group-title="Спорт", Viju+ sport HD
-http://91.204.123.202:80/333/index.m3u8
+http://195.26.83.96:7013/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" tvg-id="setanta1-lt" group-title="Спорт",Setanta Sports 1 HD
 http://cdn.tvboom.vip/setanta1hd/index.m3u8?token=TmlrYXRhbjc4fHxNakV5TURJNU1EZEJiU1E9
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta2-lt.png" tvg-id="setanta1-2t" group-title="Спорт",Setanta Sports 2 HD
@@ -230,6 +230,8 @@ http://185.57.68.33/110/index.m3u8
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=PQW3hpuI4ixSmkvZ8DFYSA&e=2081160974&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sports-apl.png" tvg-id="sky-sports-apl" group-title="Спорт",Sky Sports Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=f6Lrx1cPYx2SfJ9mbaHnbw&e=2068506972&scheme=https
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-sports-prem-ar.png" tvg-id="tnt-sports-prem-ar" group-title="Спорт",TNT SPORTS 1 HD
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=hrqmu7iM34XUP7Jw7GqFHg&e=2082500310&scheme=https
 
 
 
@@ -279,7 +281,7 @@ http://176.100.46.245:90/red/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air HD
 https://tinyurl.com/4tfv9tup/18036/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air
-http://91.204.123.202:80/128/index.m3u8
+http://89.218.32.179:18000/play/a03s
 #EXTINF:-1 group-title="Кино",Start World HD
 http://iptv46.mcx-ix.ru:8077/start_world/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
@@ -431,7 +433,7 @@ http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
 http://46.32.176.50/bigplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Terra HD
-http://iptv46.mcx-ix.ru:8077/natgeo_hd/index.m3u8
+http://195.26.83.96:7009/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC
 http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure" group-title="Познавательные",Travel+Adventure
@@ -621,11 +623,11 @@ rtmp://vkvsd285.okcdn.ru/playback/7765205854979?stkn=3YIqbICN3HQXqSqHe0t6L_U4aOb
 
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="Кинозал Креаторы",Скрипач ТВ HD
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://github.com/UFOTVM/TV/blob/main/scripach.png" group-title="Кинозал Креаторы",Скрипач ТВ HD
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Фильм
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo=https://github.com/UFOTVM/TV/blob/main/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Фильм
 http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Сериал
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://github.com/UFOTVM/TV/blob/main/SeleCaoTV.png" group-title="Кинозал Креаторы",SeleCaoTV Сериал
 http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", Kino Mix
 http://kinowalk.hopto.org/yurich_kinomix_live
@@ -639,15 +641,15 @@ http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="http://telik.live/images/fmc-tv.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", FantasticMistyc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd199.okcdn.ru/playback/3780958366657?stkn=c3qCEto7Z19Gl6AT2PFZujdHvggU3zjJ1Wd4nvkEESOm9yVb5Ua8iL_YwVUg7G8dNsZOAkV5dUs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",NSC
+#EXTINF:-1 tvg-logo="https://github.com/UFOTVM/TV/blob/main/NSC.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",NSC
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/d2qzrUO.png" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",15+ animatiom
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3436-3030-4661-a165-613330333230/photo.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы",Новый русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://github.com/UFOTVM/TV/blob/main/kinowalk.png" group-title="Кинозал Креаторы",Kino Walk
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/8/6/24/imgbin-television-show-kodi-film-series-Q965sauX6xFnXRpmYEGEuEiG5.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", TV Series
+#EXTINF:-1 tvg-logo="https://github.com/UFOTVM/TV/blob/main/TVseries.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", TV Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://sun9-81.userapi.com/WJ0Zg9HH9jna5O1M4BwV5rpMcJuCL_GAyd5Luw/HXvx3v4PSec.jpg" tvg-id="no_epg_cinema" group-title="Кинозал Креаторы", TDM KINO

@@ -253,7 +253,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tra
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
-http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=193
+https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла HD
@@ -411,11 +411,11 @@ http://46.32.176.50/NatGeoWildHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://37.186.70.39:40/play/105/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
-http://46.32.176.50/viasatexplorer/index.m3u8
+https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
-https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
-https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+https://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
 https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
@@ -482,7 +482,7 @@ http://46.32.176.50/detskiy/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://epg.iptvx.one/picons/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки
-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/boomerang.png" tvg-id="boomerang" group-title="Детские",Cartoonito
 https://tinyurl.com/upwnsw7p/723/index.m3u8
 #EXTINF:-1 group-title="Детские",О!
@@ -490,7 +490,7 @@ http://tv.ttk.mx:9092
 #EXTINF:-1 group-title="Детские",Nick Jr
 http://46.32.176.50/nickelodeonjunior/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
-http://91.204.123.202:80/443/index.m3u8
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",TiJi

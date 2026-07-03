@@ -447,7 +447,9 @@ https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/quadro4k.png" tvg-id="quadro4k" group-title="Познавательные",Quadro 4K
 http://185.78.112.47:8077/Quadro4K/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
-https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
+https://clck.ru/3T2YaD
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="https://epg.iptvx.one/picons/travel-channel.png",Travel Channel HD
+https://clck.ru/3T2YWd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные",Epic HD
 https://tinyurl.com/4tfv9tup/2054/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/curiosity-stream.png" tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD
@@ -521,6 +523,8 @@ http://kinowalk.hopto.org/kanaldisneyonline_live
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19124468/avatar?change_time=1718878513&croped=1&mh=140&mw=140" group-title="Детские", JTX Online
 http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://img.gazeta.ru/files3/623/16160623/lotltlll-pic_32ratio_900x600-900x600-8753.jpg" group-title="Детские", СОЮЗМУЛЬТФИЛЬМ
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/24/8b/c8/248bc8ea6a9e8206a5a667b8a4f8161a.jpg" tvg-id="no_epg_mult" group-title="Детские",Том и Джерри

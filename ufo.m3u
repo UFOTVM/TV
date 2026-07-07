@@ -120,7 +120,7 @@ https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russky-ekstrim.png" tvg-id="russky-ekstrim" group-title="Развлекательные",Русский экстрим
 #EXTVLCOPT:network-caching=3000
-http://iptv46.mcx-ix.ru:8077/rus-extrim-hd/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/fgq4m7h6/russkij-extrim-hd/video.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png" group-title="Развлекательные",КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 tvg-id="gags-network" tvg-logo="https://epg.iptvx.one/picons/gags-network.png" group-title="Развлекательные",Gagsnetwork

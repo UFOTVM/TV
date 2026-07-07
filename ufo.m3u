@@ -316,13 +316,13 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTVLCOPT:network-caching=3000
 https://tinyurl.com/4tfv9tup/2434/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/komedijnoe-hd.png" tvg-id="komedijnoe-hd" group-title="Кино",Комедийное HD
-https://tinyurl.com/4rfv5je97z/906.m3u8
+https://tinyurl.com/2x47stw5/906.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ostrosiuzhetnoe-hd.png" tvg-id="ostrosiuzhetnoe-hd" group-title="Кино",Остросюжетное HD
-https://tinyurl.com/4rfv5je97z/902.m3u8
+https://tinyurl.com/2x47stw5/902.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/premialnoe-hd.png" tvg-id="premialnoe-hd" group-title="Кино",Премиальное HD
-https://tinyurl.com/4rfv5je97z/901.m3u8
+https://tinyurl.com/2x47stw5/901.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" tvg-id="shokiruyushchee-hd" group-title="Кино",Шокирующее HD
-https://tinyurl.com/4rfv5je97z/905.m3u8
+https://tinyurl.com/2x47stw5/905.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/flixsnip.png" tvg-id="flixsnip" group-title="Кино",FlixSnip HD

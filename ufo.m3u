@@ -24,10 +24,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=8uNH_vgO7peCdRd0GvteNg&e=2077359351&scheme=https
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="Основные" ,Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2hpFHyGd4ABvaVKRieBvOg&e=2077359297&scheme=https
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
-#EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=376
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://edge02d.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.9MU9WeqgXvKafZvKUYmly-zfhrlV-BeUrOq-QURhzLs.aylz-GHSWlVWUAZTrkC6hun7z7PF4njUbfhpK4tVqZA.1783755489.248e36cfa9801559c1dec90ec8be4ff9
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
@@ -36,10 +34,8 @@ http://31.131.141.195:8000/play/2010/index.m3u8
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=E0R2kfCL_-Hcl58HPM1jgA&e=2072222110&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" tvg-id="tnt" group-title="Основные", THT
 http://176.118.197.101/THT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
-#EXTVLCOPT:network-caching=3000
-http://193.25.8.59:8000/ESPN
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://edge02r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.64OOxYaOpDVW8tOuiKNcDF0WxFgB1JSM7gr8aK2S8w4.8dLgK_5hyRgyiLbRFMNFg_VHouUMDi7_DFuEXYk0KEA.1783755489.afbd37e1d34b62ab36d579d4d16eb186
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
@@ -164,15 +160,15 @@ http://46.32.176.50/kuxnyatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Развлекательные",WF мода HD
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Аппетитный
-http://cdn.balelbrus.com/bigteisti19/08946921/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+https://tinyurl.com/upwnsw7p/9067/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Бобер
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a5cfa43179f7b313920bf743b1cf92191a0302c1-5333794-images-thumbs&n=13" tvg-id="no_epg_music" group-title="Развлекательные",Залипательные ролики
 https://rpn3.bozztv.com/dvrfl07/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="no_epg_music" group-title="Развлекательные",Приколы 1
-https://live20.bozztv.com/giatvplayout7/ushba11/tracks-v1a1/mono.m3u8
+https://rpn3.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="no_epg_music" group-title="Развлекательные",Приколы 2
-https://live20.bozztv.com/giatvplayout7/ushba20/tracks-v1a1/mono.m3u8
+https://rpn3.bozztv.com/dvrfl07/ushba20/tracks-v1a1/mono.m3u8
 
 
 
@@ -245,11 +241,11 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium" group-title="Кино", Amedia PREMIUM HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" group-title="Кино",TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fzchBV1ACcQqFaWvyJQZpw&e=1783438348&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" group-title="Кино",TV1000
 http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ZxXbQi5AgCgaILCZ5_JPjg&e=1783438361&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
@@ -257,7 +253,7 @@ https://tinyurl.com/2x47stw5/411.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла HD
-http://89.218.32.179:18000/play/a030
+http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 group-title="Кино",Vip Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино",Vip Megahit HD
@@ -283,7 +279,7 @@ https://tinyurl.com/4tfv9tup/18036/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air
 http://62.32.84.50:18000/play/a0kz/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
-https://tinyurl.com/mrxhyyvd/19248/index.m3u8
+http://bpl.online24.pm/play/6158/75BA4FC1CA5013E/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
 http://37.186.70.39:40/play/69/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
@@ -409,7 +405,7 @@ https://tinyurl.com/upwnsw7p/9027/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
 http://46.32.176.50/NatGeoWildHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
-http://37.186.70.39:40/play/105/index.m3u8
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132627&extension=ts
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
 https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
@@ -506,7 +502,7 @@ https://tinyurl.com/teh55yef/15098/index.m3u8
 #EXTINF:-1 group-title="Детские",Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 group-title="Детские",Лапки LIVE
-http://cdn.kubteltv.workers.dev/index.m3u8?ID=321
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=1148917&extension=ts
 #EXTINF:-1 group-title="Детские",English Club TV
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids HD

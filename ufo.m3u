@@ -2,9 +2,6 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge02r.mediavitrina.ru/hls-livef6/1tv/index.m3u8?token=v2.IlXJ1uRdReRYhc4ICo_dhZn3ha39P8ZgCj7j2QJHG68.c38odlzk_5J3fk2Bqvd5HhnxKRRY6EufGP06Zzs88Mw.1784887398.f65b5c95dd236e5c326dc38bc5724eea&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
@@ -284,7 +281,9 @@ http://62.32.84.50:18000/play/a0kz/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 http://62.32.84.50:18000/play/a0l0/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/premera/16/playlist.m3u8
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
 http://46.32.176.50/kinosemya/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" tvg-id="kinomiks" group-title="Кино",Киномикс
@@ -300,7 +299,7 @@ http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=200
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино
-http://37.186.70.39:40/play/73/index.m3u8
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
@@ -511,7 +510,7 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids
-http://37.186.70.39:40/play/97/index.m3u8
+http://213.91.179.28:8000/play/a07g
 #EXTINF:-1 tvg-id="supergeroi" group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Classics
@@ -522,7 +521,7 @@ http://kinowalk.hopto.org/kanaldisneyonline_live
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/19124468/avatar?change_time=1718878513&croped=1&mh=140&mw=140" group-title="Детские", JTX Online
 http://kinowalk.hopto.org/jtxonline_live
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://img.gazeta.ru/files3/623/16160623/lotltlll-pic_32ratio_900x600-900x600-8753.jpg" group-title="Детские", СОЮЗМУЛЬТФИЛЬМ
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images-s.kinorium.com/movie/poster/190430/600_2733464.jpg" group-title="Детские", Ну, Погоди!
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8

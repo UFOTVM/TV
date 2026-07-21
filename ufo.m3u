@@ -831,39 +831,38 @@ http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148906.png" group-title="BCU",BCU PREMIER 1 FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-1.png" tvg-id="bcu-kinozal-prem-1" group-title="BCU", BCU Premiere 1 HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148906&extension=ts&play_token=rNDnpm9h7u
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148905.png" group-title="BCU",BCU PREMIER 2 FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2" group-title="BCU", BCU Premiere 2 HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148905&extension=ts&play_token=4gkjNoz5vE
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148904.png" group-title="BCU",BCU PREMIER 3 FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinozal-prem-3.png" tvg-id="bcu-kinozal-prem-3" group-title="BCU", BCU Premiere 3 HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148904&extension=ts&play_token=QkH9EGNZWb
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148898.png" group-title="BCU",BCU ULTRA 4K
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k" group-title="BCU",BCU Ultra 4K
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148898&extension=ts&play_token=5dZ7e8PNcF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BCU-VHS.png" group-title="BCU",BCU VHS FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-vhs-hd.png" tvg-id="bcu-vhs" group-title="BCU",BCU VHS HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148897&extension=ts&play_token=DBp11FjwsT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148903.png" group-title="BCU",BCU MARVEL FHD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/8964.png" tvg-id="bcu-marvel" group-title="BCU",BCU Marvel HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148903&extension=ts&play_token=y87wg3eL3B
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148913.png" group-title="BCU",BCU ACTION FHD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4748.png" tvg-id="bcu-action" group-title="BCU",BCU Action HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148913&extension=ts&play_token=Ls1iVZemdU
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148912.png" group-title="BCU",BCU CINEMA FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png" tvg-id="bcu-cinema" group-title="BCU", BCU CINEMA HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148912&extension=ts&play_token=vpFlNYwLDT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148911.png" group-title="BCU",BCU CINEMA PLUS FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png" tvg-id="bcu-cinemaplus" group-title="BCU", BCU Cinema+ HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148911&extension=ts&play_token=maSjCUrsf3
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148910.png" group-title="BCU",BCU COMEDY FHD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/8963.png" tvg-id="bcu-comedy" group-title="BCU",BCU Comedy HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148910&extension=ts&play_token=Y64wFjGpYa
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148909.png" group-title="BCU",BCU FANTASTIC FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" tvg-id="bcu-fantastic" group-title="BCU",BCU Fantastic HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148909&extension=ts&play_token=cG3ImUAhOI
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148908.png" group-title="BCU",BCU KIDS+ FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kids-plus.png" tvg-id="bcu-kids-plus" group-title="BCU",BCU Kids+ HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148908&extension=ts&play_token=IVoOTAhYL2
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148907.png" group-title="BCU",BCU KINORATING FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="BCU",BCU Kinorating HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148907&extension=ts&play_token=Ly1axMGsu1
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148902.png" group-title="BCU",BCU MULTSERIAL FHD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148902.png" group-title="BCU",BCU MULTSERIAL HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148902&extension=ts&play_token=VfREWwpp3K
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148901.png" group-title="BCU",BCU ROMANTIC FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic" group-title="BCU",BCU Romantic HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148901&extension=ts&play_token=zxMEIac7Qf
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148900.png" group-title="BCU",BCU RUSSIAN FHD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-russian.png" tvg-id="bcu-russian" group-title="BCU",BCU Russian HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148900&extension=ts&play_token=HJh0yiqJM2
-
 
 
 

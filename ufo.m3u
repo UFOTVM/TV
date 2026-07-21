@@ -281,7 +281,7 @@ http://62.32.84.50:18000/play/a0kz/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
 http://62.32.84.50:18000/play/a0l0/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/premera/16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosemia.png" tvg-id="kinosemiya" group-title="Кино",Киносемья
@@ -832,6 +832,105 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="no_epg_music" group-title="СМОТРИМ + IPTVPLAY" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY PROMO
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1538.png",Sky High Doc HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1539.png",Sky High Brain HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1540.png",Sky High Nature FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1528.png",Sky High Nature HDR 4K
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1517.png",Sky High Brick S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1518.png",Sky High Dust S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1519.png",Sky High Concert HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1520.png",Sky High Strike VHS FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1521.png",Sky High Firezone FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1523.png",Sky High Gunrush FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1524.png",Sky High Quant S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1525.png",Sky High DRAMA 4K
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1526.png",Sky High Tanos S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1527.png",Sky High Bat S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1530.png",Sky High Neon VHS FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1531.png",Sky High Future FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1536.png",Sky High Boom FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1537.png",Sky High Civil S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1512.png",Sky High Scream HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1513.png",Sky High Fear VHS
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1515.png",Sky High RedRoom FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1516.png",Sky High Undead FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1541.png",Sky High Archive FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1542.png",Sky High Trace S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2263.png",Sky High Beyonds FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2264.png",Sky High Nord S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2265.png",Sky High Votum S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2266.png",Sky High Case VHS FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2267.png",Sky High Mono FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2268.png",Sky High Zippy S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2269.png",Sky High Heart S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2270.png",Sky High Joke FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2271.png",Sky High Medy VHS FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2272.png",Sky High Romix FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2273.png",Sky High Red S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2274.png",Sky High Ring S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2275.png",Sky High Wizz VHS FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2276.png",Sky High Dragon FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2277.png",Sky High Woonder FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2278.png",Sky High Space 4K HDR
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/2279.png",Sky High Horror 4K HDR
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1522.png",Sky High Bunny HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1514.png",Sky High Jetix HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1532.png",Sky High Nick S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1533.png",Sky High Toon S FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1534.png",Sky High Junior FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1535.png",Sky High Teen FHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="SKY HIGH" tvg-logo="http://epg.cdntv.online/img/1543.png",Sky High LO FI HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDMubTN1OA.m3u8?k=12345
 
 
 

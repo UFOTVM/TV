@@ -857,7 +857,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148909&e
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148908&extension=ts&play_token=IVoOTAhYL2
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating" group-title="BCU",BCU Kinorating HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148907&extension=ts&play_token=Ly1axMGsu1
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1148902.png" group-title="BCU",BCU MULTSERIAL HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-multserial.png" tvg-id="bcu-multserial" group-title="BCU",BCU Multserial HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148902&extension=ts&play_token=VfREWwpp3K
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic" group-title="BCU",BCU Romantic HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148901&extension=ts&play_token=zxMEIac7Qf

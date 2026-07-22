@@ -407,7 +407,7 @@ https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132627&extens
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
 https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148928&extension=ts&play_token=eARCTWLYIx
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
@@ -624,10 +624,7 @@ http://kinowalk.hopto.org/selecaotv_live
 http://kinowalk.hopto.org/selecaotv1_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/UFOTVM/LOGO/refs/heads/main/kinomix.webp" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Kino Mix
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Kinowalk TV",Legion tv FHD
-http://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.boosty.to/user/25794781/avatar?change_time=1764709281&mh=630" group-title="Kinowalk TV",KLI MEDIA НОВИНКИ
-http://kinowalk.hopto.org/legion-tv_live
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="Kinowalk TV", VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live

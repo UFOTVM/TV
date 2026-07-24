@@ -668,26 +668,27 @@ http://kinowalk.hopto.org/dimpon_live
 http://kinowalk.hopto.org/maldrvsetv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="Kinowalk TV", kinolampa
 http://kinowalk.hopto.org/kinolampa_live
-
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/12235240/avatar?change_time=1686298823&croped=1&mh=140&mw=140" group-title="Kinowalk TV", swat2k
+http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Kinofon 
 http://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Alex.Films 
 http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="Kinowalk TV", BOSSFILM 
-http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/275/128x128?unique=2026-04-19%2006:55:19.206545&access_token=e8a436a0-7eb4-46b1-8f7e-06fc05b14ca1" group-title="Kinowalk TV", AlexVira 
+http://kinowalk.hopto.org/alexvira_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="Kinowalk TV", ZubrilomFilm 
 http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29768939/avatar?change_time=1763990207&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Кинохунос 
-http://kinowalk.hopto.org/kinokunos_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/228/128x128?unique=2026-02-26%2021:02:41.011694&access_token=aa5cad91-128d-4187-8055-0f170c7c99e0" group-title="Kinowalk TV", АPRICUS live 
+http://kinowalk.hopto.org/apricus_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/15503490/avatar?change_time=1769803131&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Тоха Киноман 
 http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/29025041/avatar?change_time=1759414105&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Коновал ТВ 
 http://kinowalk.hopto.org/www.konoval_tv_live
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18203881/avatar?change_time=1770056028&croped=1&mh=140&mw=140" group-title="Kinowalk TV", KINO-TV 
-http://kinowalk.hopto.org/strannik1177_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19863595/avatar?change_time=1769945071&croped=1&mh=140&mw=140" group-title="Kinowalk TV", KINOХИТ HD 
-http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/312/128x128?unique=2026-06-15%2010:11:36.264054&access_token=effa622b-b844-48ae-9516-9528a9f1410c" group-title="Kinowalk TV", NeoVision TV
+http://kinowalk.hopto.org/neovisiontv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/311/128x128?unique=2026-06-15%2009:58:34.066788&access_token=86955f71-9d69-4085-80ab-d9f331afbaca" group-title="Kinowalk TV", Кладовая Фильмов
+http://kinowalk.hopto.org/skladfilm_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30356733/avatar?change_time=1767144911&croped=1&mh=140&mw=140" group-title="Kinowalk TV", КИНОУЖАС HD 
 http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19375213/avatar?change_time=1739702262&croped=1&mh=140&mw=140" group-title="Kinowalk TV", EvGAMEN
@@ -696,10 +697,10 @@ http://kinowalk.hopto.org/evgamen_movies_live
 http://kinowalk.hopto.org/mezontrop_live
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/27788933/avatar?change_time=1757043617&croped=1&mh=140&mw=140" group-title="Kinowalk TV", SеVаNz
-http://kinowalk.hopto.org/sevanz_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/18062774/avatar?change_time=1683146043&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Profeccor
-http://kinowalk.hopto.org/profeccor_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/315/128x128?unique=2026-06-15%2010:29:13.651493&access_token=840f7baa-6c2f-47db-9472-837aaec58b79" group-title="Kinowalk TV",кино кино кино
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/317/128x128?unique=2026-06-17%2008:13:03.568133&access_token=358c4768-48b7-4893-a614-0a609f448738" group-title="Kinowalk TV",Кинотеатр без билетов
+http://kinowalk.hopto.org/x-x-vanes-x-x_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30532004/avatar?change_time=1767465506&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Кинотека FULL_HD
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/31039588/avatar?change_time=1770826697&croped=1&mh=140&mw=140" group-title="Kinowalk TV", КИНО05
@@ -712,12 +713,9 @@ http://kinowalk.hopto.org/lampotv_live
 http://kinowalk.hopto.org/igrun1997_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Video Channel
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/12235240/avatar?change_time=1686298823&croped=1&mh=140&mw=140" group-title="Kinowalk TV", swat2k
-http://kinowalk.hopto.org/swat2k_live
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/6256103/avatar?change_time=1685722753&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Wfliq
 http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140" group-title="Kinowalk TV", ReanimatoR_VHS 
-http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/26410366/avatar?change_time=1764539328&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Snoochies Boochies 
 http://kinowalk.hopto.org/sinema_live
 
@@ -731,25 +729,13 @@ http://kinowalk.hopto.org/romantic_live
 http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="Kinowalk TV", SerialTV
 http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140" group-title="Kinowalk TV", R serials
-http://kinowalk.hopto.org/zzz881_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Фильмы сериалы
-http://kinowalk.hopto.org/dfsfsdg_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Мы из 90-х
 http://kinowalk.hopto.org/miiz90x_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140" group-title="Kinowalk TV", ZubrilomFranchise
-http://kinowalk.hopto.org/zubrilommusic.ru_live
 
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/30679453/avatar?change_time=1768060945&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/4374205/avatar?change_time=1685722513&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", FGS
-http://kinowalk.hopto.org/dscb_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19573960/avatar?change_time=1728634064&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", У КРАЯ БЕЗДНЫ 24/7
 http://kinowalk.hopto.org/ddator_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/31272330/avatar?change_time=1771171161&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", AASS
-http://kinowalk.hopto.org/aaasss_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1743317709&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Prodigy_movie
-http://kinowalk.hopto.org/roman_prodigy_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20396730/avatar?change_time=1742167676&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", InMuNa Live
 http://kinowalk.hopto.org/inmuna_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20310353/avatar?change_time=1771715709&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Тоха Стрим
@@ -773,17 +759,10 @@ http://kinowalk.hopto.org/perviryad_live
 http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/198/128x128?unique=2026-02-21%2020:43:54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73" tvg-id="no_epg_cinema" group-title="Kinowalk TV", ChowAmigo
 http://kinowalk.hopto.org/chowamigo_live
-#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/200/128x128?unique=2026-02-21%2020:44:21.583209&access_token=6bdbfce3-ebe0-48be-9c34-98c6f7b4a8f3" tvg-id="no_epg_cinema" group-title="Kinowalk TV", PartizaNka tv
-http://kinowalk.hopto.org/partizanka_tv_live
 
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/30809873/avatar?change_time=1772349724&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Astrix116
-http://kinowalk.hopto.org/astrix116_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/12719933/avatar?change_time=1699038708&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Kycman мульт
 http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/14163367/avatar?change_time=1685725099&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Argo_13
-http://kinowalk.hopto.org/argo_13_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19921068/avatar?change_time=1763821326&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Lisfix
-http://kinowalk.hopto.org/lisfix_live
+
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18716382/avatar?change_time=1737140673&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", dj Zour
 http://kinowalk.hopto.org/zsmedia_live
 

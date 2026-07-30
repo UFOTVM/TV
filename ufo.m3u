@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH"
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://edge01r.mediavitrina.ru/hls-livef6/1tv/index.m3u8?token=v2.YYMLdZOTiRDCu4LUJ1prTKgFk5sBCCF-3Y7YpqkcUe0.ExOmdHru_rv7Tm0x4HYAukS5uHWdBUgenB3-E_cLqM4.1786051339.aca6d0efd98e746f85ffdac920bed0dc
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый SD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
@@ -23,10 +23,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 http://46.32.176.50/rtrplaneta/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="Основные",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Основные" ,360° HD
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Основные",360° HD
 https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=8uNH_vgO7peCdRd0GvteNg&e=2077359351&scheme=https
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="Основные" ,Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2hpFHyGd4ABvaVKRieBvOg&e=2077359297&scheme=https
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/78.png" tvg-id="78kanal" group-title="Основные",Канал 78 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge01r.mediavitrina.ru/hls-livef6/channel78/index.m3u8?token=v2.F8nPussbXhIIl9v7YdTzE7oiTuxavc7U9deEE5DVkNw.7XYW6x-AM8x1yTmN4a4xX_D0_AS5mBCoiHSzk1Vg380.1786052409.613c507629f26046b519d1a3043b9890
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -53,6 +56,7 @@ https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Xh
 http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/super.png" tvg-id="super" group-title="Основные",Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=ygOk2tDua8hSzJnHH27dwA&e=2069500956&scheme=https
+
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epg.iptvx.one/picons/che.png" group-title="Основные",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domashny.png" tvg-id="domashny" group-title="Основные",Домашний HD

@@ -161,9 +161,9 @@ http://46.32.176.50/oxotoiribalka/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Точка отрыва
 https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",АВТО 24
-http://46.32.176.50/avto24/index.m3u8
+http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
-http://46.32.176.50/kuxnyatv/index.m3u8
+http://stream.mcquack.net/179/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/world-fashion-channel.png" tvg-id="world-fashion-channel" group-title="Развлекательные",WF мода HD
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Аппетитный
@@ -237,7 +237,7 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=hr
 
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино",Amedia 1 HD
-https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино",Amedia 2 HD
 http://tv.ttk.mx:9156
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Кино", Amedia Hit HD
@@ -267,7 +267,7 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино",Vip Serial HD
 http://46.32.176.50/ViasatSportHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
-http://46.32.176.50/domkino/index.m3u8
+http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино",Дом кино Premium HD
 https://s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 #EXTINF:-1 group-title="Кино",.Sci-Fi
@@ -332,7 +332,7 @@ https://tinyurl.com/teh55yef/10060/index.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
 http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
-http://46.32.176.50/eurokino/index.m3u8
+http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kineko.png" tvg-id="kineko" group-title="Кино",Кинеко HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epg.iptvx.one/picons/lubimoe-kino.png" group-title="Кино",Любимое кино
@@ -366,11 +366,11 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",Т24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv21m.png" tvg-id="tv21m" group-title="Кино",ТВ21
-http://46.32.176.50/tv21/index.m3u8
+http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
-http://46.32.176.50/nst/index.m3u8
+http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1 group-title="Кино",Plan B
-http://46.32.176.50/paramountchannel/index.m3u8
+http://stream.mcquack.net/196/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" tvg-id="kino-tv" group-title="Кино",КиноТВ HD
 http://tv.ttk.mx:9113
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epg.iptvx.one/picons/kino-tv-pl4.png" group-title="Кино",КиноТВ
@@ -399,13 +399,13 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=uW
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
 http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031931&extension=ts&play_token=9C0hndElOQ
+http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
 http://46.32.176.50/HistoryHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
-http://46.32.176.50/NatGeoWildHD/index.m3u8
+http://stream.mcquack.net/149/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132627&extension=ts
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
@@ -417,9 +417,9 @@ http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
 https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
-http://46.32.176.50/domashniejivotnie/index.m3u8
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zoopark.png" tvg-id="zoopark" group-title="Познавательные",Зоопарк
-http://46.32.176.50/zoopark/index.m3u8
+http://62.32.84.50:18000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
 http://193.25.8.59:8000/galaxy
 #EXTINF:-1 group-title="Познавательные",Планета HD
@@ -427,9 +427,9 @@ http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
 http://46.32.176.50/bigplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Terra HD
-http://46.32.176.50/nationalgeographic/index.m3u8
+http://62.32.84.50:18000/play/a0m9/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC
-http://46.32.176.50/tlc/index.m3u8
+http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure" group-title="Познавательные",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-id="travel-xp-4k" tvg-logo="https://epg.iptvx.one/picons/travel-xp-4k.png" group-title="Познавательные",TravelXP 4K

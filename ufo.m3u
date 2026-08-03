@@ -157,7 +157,7 @@ https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Поехали!
 http://tv.ttk.mx:9082
 #EXTINF:-1 group-title="Развлекательные",Рыбалка и охота
-http://smotrim.org/000002510.m3u8
+http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Точка отрыва
 https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",АВТО 24
@@ -185,7 +185,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eurosport1.png" tvg-id="eurosport1" group-title="Спорт", Eurosport1 HD
 http://stream.mcquack.net/176/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/eurosport2.png" tvg-id="eurosport2" group-title="Спорт", Eurosport2 HD
-http://smotrim.org/000002479.m3u8
+http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-tv.png" tvg-id="match-tv" group-title="Спорт", Матч! HD
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=eZv38IdfIqR5Qp4wrPZIog&e=2069500994&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-tv.png" tvg-id="match-tv" group-title="Спорт", Матч!
@@ -265,7 +265,7 @@ https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 group-title="Кино",Vip Premiere HD
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино",Vip Serial HD
-http://smotrim.org/000004375.m3u8
+http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино",Дом кино Premium HD
@@ -330,7 +330,7 @@ http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/flixsnip.png" tvg-id="flixsnip" group-title="Кино",FlixSnip HD
 https://tinyurl.com/teh55yef/10060/index.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
-http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+http://stream.mcquack.net/268/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kineko.png" tvg-id="kineko" group-title="Кино",Кинеко HD
@@ -400,7 +400,7 @@ http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
-http://smotrim.org/000001000.m3u8
+http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
@@ -408,7 +408,7 @@ http://stream.mcquack.net/149/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132627&extension=ts
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
-http://smotrim.org/000004157.m3u8
+http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
@@ -420,7 +420,7 @@ https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zoopark.png" tvg-id="zoopark" group-title="Познавательные",Зоопарк
 http://tv.ttk.mx:9029
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
-http://smotrim.org/000000332.m3u8
+http://tv.ttk.mx:9071
 #EXTINF:-1 group-title="Познавательные",Планета HD
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
@@ -758,8 +758,6 @@ http://kinowalk.hopto.org/baragozz_tv_live
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Первый ряд
 http://kinowalk.hopto.org/perviryad_live
-#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/197/128x128?unique=2026-02-21%2020:43:54.719669&access_token=986de50c-3a7a-4798-a1db-19f4161c0b9d" tvg-id="no_epg_cinema" group-title="Kinowalk TV", PrizraK PlaY
-http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/198/128x128?unique=2026-02-21%2020:43:54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73" tvg-id="no_epg_cinema" group-title="Kinowalk TV", ChowAmigo
 http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/12719933/avatar?change_time=1699038708&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Kycman мульт

@@ -133,11 +133,11 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-logo="https://epg.iptvx.one/picons/drive.png" group-title="Развлекательные",Драйв
 http://stream8.cinerama.uz/1421/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
-http://smotrim.org/000000206.m3u8
+https://s70378.cdn.ngenix.net/telecafe/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Вопросы и ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Время
-http://smotrim.org/000000205.m3u8
+https://s70378.cdn.ngenix.net/vremia/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Диалоги о Рыбалке
 https://tinyurl.com/upwnsw7p/2394/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Загородная жизнь HD
@@ -155,7 +155,7 @@ https://tinyurl.com/teh55yef/2087/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Поехали!
-http://smotrim.org/000002991.m3u8
+http://tv.ttk.mx:9082
 #EXTINF:-1 group-title="Развлекательные",Рыбалка и охота
 http://smotrim.org/000002510.m3u8
 #EXTINF:-1 group-title="Развлекательные",Точка отрыва
@@ -351,7 +351,7 @@ https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTVLCOPT:network-caching=3000
 http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=277
 #EXTINF:-1 group-title="Кино",Победа
-http://193.25.8.59:8000/tochka
+http://tv.ttk.mx:9149
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино",Сапфир HD

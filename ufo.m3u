@@ -805,7 +805,45 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
-
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Cinema
+#EXTGRP:Fresh
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Premiere
+#EXTGRP:Fresh
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Comedy
+#EXTGRP:Fresh
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Family
+#EXTGRP:Fresh
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Rating
+#EXTGRP:Fresh
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh VHS
+#EXTGRP:Fresh
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Fantastic
+#EXTGRP:Fresh
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Series
+#EXTGRP:Fresh
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Horror
+#EXTGRP:Fresh
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Adventure
+#EXTGRP:Fresh
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Romantic
+#EXTGRP:Fresh
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Thriller
+#EXTGRP:Fresh
+http://stream.mcquack.net/434/index.m3u8
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Kids
+#EXTGRP:Fresh
+http://stream.mcquack.net/425/index.m3u8
 
 
 

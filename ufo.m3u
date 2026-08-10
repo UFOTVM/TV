@@ -27,9 +27,9 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=8uNH_vgO7peCdRd0GvteNg&e=2077359351&scheme=https
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="Основные" ,Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2hpFHyGd4ABvaVKRieBvOg&e=2077359297&scheme=https
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/78.png" tvg-id="78kanal" group-title="Основные",Канал 78 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rt-doc.png" tvg-id="rtd-ru" group-title="Основные",RT Doc HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge01r.mediavitrina.ru/hls-livef6/channel78/index.m3u8?token=v2.F8nPussbXhIIl9v7YdTzE7oiTuxavc7U9deEE5DVkNw.7XYW6x-AM8x1yTmN4a4xX_D0_AS5mBCoiHSzk1Vg380.1786052409.613c507629f26046b519d1a3043b9890
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -348,9 +348,6 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mosfilm_z
 http://tv.ttk.mx:9169
 #EXTINF:-1 group-title="Кино",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
-#EXTINF:-1 group-title="Кино",Ключ
-#EXTVLCOPT:network-caching=3000
-http://cdn.kubteltv.workers.dev/tracks-v1a1/mono.ts.m3u8?ID=277
 #EXTINF:-1 group-title="Кино",Победа
 http://tv.ttk.mx:9149
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
@@ -697,8 +694,6 @@ http://kinowalk.hopto.org/neovisiontv_live
 http://kinowalk.hopto.org/re_boot_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30356733/avatar?change_time=1767144911&croped=1&mh=140&mw=140" group-title="Kinowalk TV", КИНОУЖАС HD 
 http://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19375213/avatar?change_time=1739702262&croped=1&mh=140&mw=140" group-title="Kinowalk TV", EvGAMEN
-http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18284008/avatar?change_time=1698739266&croped=1&mh=140&mw=140" group-title="Kinowalk TV",Мультфильмы 24/7
 http://kinowalk.hopto.org/mezontrop_live
 

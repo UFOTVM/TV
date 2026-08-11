@@ -257,7 +257,7 @@ http://smotrim.org/000003748.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла HD
-http://stream.mcquack.net/395/index.m3u8
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1787019701&md5=bNB9qQnLViykJdq70fXW7g
 #EXTINF:-1 group-title="Кино",Vip Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино",Vip Megahit HD
@@ -507,7 +507,7 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids HD
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids
-http://213.91.179.28:8000/play/a07g
+https://s70378.cdn.ngenix.net/ctc_kids/2/index.m3u8
 #EXTINF:-1 tvg-id="supergeroi" group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Classics

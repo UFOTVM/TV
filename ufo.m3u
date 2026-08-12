@@ -171,7 +171,7 @@ https://tinyurl.com/upwnsw7p/9067/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Бобер
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a5cfa43179f7b313920bf743b1cf92191a0302c1-5333794-images-thumbs&n=13" tvg-id="no_epg_music" group-title="Развлекательные",Залипательные ролики
-https://rpn3.bozztv.com/dvrfl07/ushba60/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba60/tracks-v1a1/mono.m3u8
 
 
 
@@ -203,7 +203,7 @@ https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ufc.png" tvg-id="ufc" group-title="Спорт",Удар HD
 http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/m1global.png" tvg-id="m1global" group-title="Спорт", MMA-TV
-http://31.148.48.15:80/M1_Global/index.m3u8
+https://s70378.cdn.ngenix.net/m1_global/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11092.png" tvg-id="boks-tv" group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" tvg-id="kxl-hd" group-title="Спорт", KHL HD
@@ -608,9 +608,21 @@ https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000003457.png" tvg-id="no_epg_music" group-title="Музыкальные",Clubbing TV
 http://46.151.151.250:9201
 
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="no_epg_music" group-title="Музыкальные",EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+
 #EXTINF:-1 tvg-logo="https://sun9-17.userapi.com/impg/7ZcuhP1R7Pgp14bH--fi8MqQw9IMlqSC66Ckzg/xJr21AFCPmY.jpg?size=320x201&quality=95&sign=9b9b8268f3cfb73b72b3e4da66029e79&c_uniq_tag=M29CRtGxcOE-UaBhy-HOdk7osjucQ4Tw88LGjjPAsNs&type=video_thumb" tvg-id="no_epg_music" group-title="Музыкальные", RETROHITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd285.okcdn.ru/playback/7765205854979?stkn=3YIqbICN3HQXqSqHe0t6L_U4aObzKpZdQDqaZigiXarsKvoVAU1g9ABrdjLIO7hYZdJPsBcdTGk&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i128.fastpic.org/big/2026/0730/07/d9764ae7e54fe2220bd749d0d2bfe007.jpg" group-title="Музыкальные",VB Русская Танцевальная Попса 80х-90х
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.UsskzeWbBzIX.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i128.fastpic.org/big/2026/0730/c2/bc7c9f65450aaa9106549406e3be18c2.jpg" group-title="Музыкальные",VB Live Dance Events & Mixes
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.8oNpN7R2EoH5.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i128.fastpic.org/big/2026/0730/c2/bc7c9f65450aaa9106549406e3be18c2.jpg" group-title="Музыкальные",VB Eurodance Hits of 90s & Dance Hits of 90s
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.KQqQc9umXpN7.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://s6.iimage.su/s/09/g3ZMlxvxp95iUJzPb7abvuKKFyB0gSgKGLU1NMcD6.jpg" group-title="Музыкальные",VB Greatest Hits & Romantic and Ballads
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.xvUhy97fmycZ.m3u8
 
 
 
@@ -633,6 +645,10 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/UFOTVM/LOGO/refs/heads/main/Video-Arsenal.png" tvg-id="no_epg_cinema" group-title="Kinowalk TV",VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i128.fastpic.org/big/2026/0730/e6/455f183c1745a2acf6f6e223f80129e6.jpg" group-title="Kinowalk TV",VB Всё в одном
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.BMuZHAyh31c9.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://s6.iimage.su/s/06/gnyQeTex0fqIpdBByaiOiDoVXqaKsc43DiiS9Qq6v.jpg" group-title="Kinowalk TV",VB Российские сериалы
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.9cRzMPUduIyw.m3u8
 #EXTINF:-1 tvg-logo="http://telik.live/images/fmc-tv.png" tvg-id="no_epg_cinema" group-title="Kinowalk TV", FantasticMistyc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd199.okcdn.ru/playback/3780958366657?stkn=c3qCEto7Z19Gl6AT2PFZujdHvggU3zjJ1Wd4nvkEESOm9yVb5Ua8iL_YwVUg7G8dNsZOAkV5dUs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -655,6 +671,8 @@ rtmp://vkvsd79.okcdn.ru/playback/11865043512184?stkn=iP9X2jyo6Zr-w_LUZKkXvBaBp3-
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="Kinowalk TV", AkudjiTV
 http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/12235240/avatar?change_time=1686298823&croped=1&mh=140&mw=140" group-title="Kinowalk TV", swat2k
+http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Video_Prokat
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" tvg-id="no_epg_cinema" group-title="Kinowalk TV", MovieToper
@@ -671,8 +689,7 @@ http://kinowalk.hopto.org/dimpon_live
 http://kinowalk.hopto.org/maldrvsetv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="Kinowalk TV", kinolampa
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/12235240/avatar?change_time=1686298823&croped=1&mh=140&mw=140" group-title="Kinowalk TV", swat2k
-http://kinowalk.hopto.org/swat2k_live
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Kinofon 
 http://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Alex.Films 

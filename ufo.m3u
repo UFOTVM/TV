@@ -281,7 +281,7 @@ http://176.100.46.245:90/red/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air HD
 https://tinyurl.com/4tfv9tup/18036/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air
-http://62.32.84.50:18000/play/a0kz/index.m3u8
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Start World HD
 http://62.32.84.50:18000/play/a0l0/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
@@ -343,7 +343,7 @@ http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://epg.iptvx.one/picons/ntv-xit.png" group-title="Кино",НТВ Хит
 http://tv.ttk.mx:9173
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epg.iptvx.one/picons/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8
+http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://tv.ttk.mx:9169
 #EXTINF:-1 group-title="Кино",Киносат
@@ -355,7 +355,7 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино",Сапфир HD
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
-http://31.148.48.15/Feniks_plus_kino/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Кино",Патриот
 http://cdntv.online/low/36m9rn5du2/2070.m3u8
 #EXTINF:-1 group-title="Кино",Bollywood HD
@@ -381,7 +381,7 @@ http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
 https://tinyurl.com/4tfv9tup/2163/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="bolt" group-title="Кино", Bolt HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8
+http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Кино",Kion Хит HD
 https://tinyurl.com/teh55yef/20211/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
@@ -407,10 +407,12 @@ http://stream.mcquack.net/149/index.m3u8
 https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132627&extension=ts
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
 http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
-https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+https://stream3.cinerama.uz/1228/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
 https://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
@@ -452,7 +454,7 @@ http://bpl.online24.pm/play/998/75BA4FC1CA5013E/video.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://epg.iptvx.one/picons/prikluchenia-hd.png" group-title="Познавательные",Приключения HD
 https://tinyurl.com/teh55yef/920/index.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://epg.iptvx.one/picons/ocean-tv.png" group-title="Познавательные",Ocean TV
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8
+http://85.192.24.253:8080/AA2126W/video.m3u8
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные",Insight TV
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
@@ -505,9 +507,9 @@ https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=1148917&exten
 #EXTINF:-1 group-title="Детские",English Club TV
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids HD
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8
+http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids" group-title="Детские",СТС Kids
-https://s70378.cdn.ngenix.net/ctc_kids/2/index.m3u8
+https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="supergeroi" group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Classics
@@ -529,8 +531,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18534796/avatar?change_time=1756592611&croped=1&mh=140&mw=140" group-title="Детские", Play 4 Fun
-http://kinowalk.hopto.org/play4fun_live
+
 
 
 
@@ -597,7 +598,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv" group-title="Музыкальные", Europa Plus TV
-http://46.32.176.50/europaplus/index.m3u8
+http://stream.mcquack.net/184/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/deejaytv-it.png" tvg-id="no_epg_music" group-title="Музыкальные",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -671,7 +672,7 @@ rtmp://vkvsd79.okcdn.ru/playback/11865043512184?stkn=iP9X2jyo6Zr-w_LUZKkXvBaBp3-
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="Kinowalk TV", AkudjiTV
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/12235240/avatar?change_time=1686298823&croped=1&mh=140&mw=140" group-title="Kinowalk TV", swat2k
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/12235240/avatar?change_time=1686298823&croped=1&mh=140&mw=140" group-title="Kinowalk TV",Доктор Хаус(swat2k)
 http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Video_Prokat
 http://kinowalk.hopto.org/video_prokat_live
@@ -689,6 +690,9 @@ http://kinowalk.hopto.org/dimpon_live
 http://kinowalk.hopto.org/maldrvsetv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="Kinowalk TV", kinolampa
 http://kinowalk.hopto.org/kinolampa_live
+
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18534796/avatar?change_time=1756592611&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Kinofon 
 http://kinowalk.hopto.org/kinofon_live
@@ -711,8 +715,6 @@ http://kinowalk.hopto.org/neovisiontv_live
 http://kinowalk.hopto.org/re_boot_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/30356733/avatar?change_time=1767144911&croped=1&mh=140&mw=140" group-title="Kinowalk TV", КИНОУЖАС HD 
 http://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images.live.vkvideo.ru/user/18284008/avatar?change_time=1698739266&croped=1&mh=140&mw=140" group-title="Kinowalk TV",Мультфильмы 24/7
-http://kinowalk.hopto.org/mezontrop_live
 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/315/128x128?unique=2026-06-15%2010:29:13.651493&access_token=840f7baa-6c2f-47db-9472-837aaec58b79" group-title="Kinowalk TV",кино кино кино

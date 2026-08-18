@@ -849,7 +849,7 @@ http://stream.mcquack.net/434/index.m3u8
 #EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Kids
 #EXTGRP:Fresh
 http://stream.mcquack.net/425/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",BCU
+#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",BCU СССР HD
 #EXTGRP:Fresh
 http://stream.mcquack.net/488/index.m3u8
 

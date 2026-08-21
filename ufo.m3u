@@ -237,7 +237,7 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=hr
 
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино",Amedia 1 HD
-http://stream.mcquack.net/117/index.m3u8
+https://stream-tv-digital.hf.space/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2INpyw-yZQ0aXasFh-zKrqDBl1a2BHZhu7OhzJQH7Ej93_j70nKkAhUYINg3HP5Hag&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино",Amedia 2 HD
 http://tv.ttk.mx:9156
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Кино", Amedia Hit HD
@@ -253,7 +253,7 @@ http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132754&extension=ts
+https://stream-tv-digital.hf.space/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2Ffp4Ws8Tn38022JjsLlZYVM4tf9bsQhivkVOYCJTFLcIsWfBEjfATH6HcPMQrQy5w&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла HD
@@ -398,7 +398,7 @@ http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
-http://stream.mcquack.net/125/index.m3u8
+http://stream-tv-prostar.hf.space/ch/HQ065W?key=AB001829BB
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
@@ -560,9 +560,9 @@ http://62.32.84.50:18000/play/a0lf/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png" group-title="Музыкальные",Bridge Deluxe HD
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png" group-title="Музыкальные",Bridge TV Hits
-http://62.32.84.50:18000/play/a0lc/index.m3u8
+http://stream-tv-prostar.hf.space/ch/9202?key=AB001829BB
 #EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png" group-title="Музыкальные",Bridge TV FRESH
-http://89.218.32.179:18000/play/a02j
+http://stream-tv-prostar.hf.space/ch/9230?key=AB001829BB
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://epg.iptvx.one/picons/muztv.png" group-title="Музыкальные",Муз ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epg.iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU.TV HD

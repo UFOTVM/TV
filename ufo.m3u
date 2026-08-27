@@ -8,7 +8,7 @@ https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S1
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.propg.net/img/channel_icons/2.png" tvg-id="rossia1" group-title="Основные", Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ntv.png" tvg-id="ntv" group-title="Основные",  НТВ HD
@@ -16,11 +16,10 @@ https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=KR
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/3.png" tvg-id="ntv" group-title="Основные",  НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные", Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Основные", Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png" group-title="Основные",RTR Planeta
-http://46.32.176.50/rtrplaneta/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="Основные",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Основные",360° HD
@@ -394,7 +393,7 @@ http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
-http://5.57.74.130:8000/play/a0bq/index.m3u8
+http://stream-tv-prostar.hf.space/ch/AA2102W?key=AB001829BB
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD

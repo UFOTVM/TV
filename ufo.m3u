@@ -442,8 +442,8 @@ http://bpl.online24.pm/play/505/75BA4FC1CA5013E/video.m3u8
 https://clck.ru/3T2YaD
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="https://epg.iptvx.one/picons/travel-channel.png",Travel Channel HD
 https://clck.ru/3T2YWd
-EXTINF:-1 group-title="Познавательные" tvg-id="hgtv" tvg-logo="https://epg.iptvx.one/picons/hgtv.png",HGTV HD
-https://clck.ru/3T2YaD
+#EXTINF:-1 group-title="Познавательные" tvg-id="hgtv" tvg-logo="https://epg.iptvx.one/picons/hgtv.png",HGTV HD
+https://clck.ru/3T2YaB
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные",Epic HD
 https://tinyurl.com/4tfv9tup/2054/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/curiosity-stream.png" tvg-id="curiosity-stream" group-title="Познавательные", Curiosity Stream HD

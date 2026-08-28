@@ -858,6 +858,8 @@ http://stream.mcquack.net/488/index.m3u8
 
 
 
+
+
 #EXTINF:0 tvg-rec="7",CineMan
 #EXTGRP:CineMan
 https://tinyurl.com/4tfv9tup/11004/index.m3u8
@@ -936,6 +938,51 @@ https://tinyurl.com/upwnsw7p/11002/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan Cartoons Big
 #EXTGRP:CineMan
 https://tinyurl.com/upwnsw7p/11003/index.m3u8
+
+
+#EXTINF:-1 group-title="Cinema +",MM NewFilm 1
+http://stream-tv-prostar.hf.space/ch/8741?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM NewFilm 2
+http://stream-tv-prostar.hf.space/ch/8742?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM NewFilm 3
+http://stream-tv-prostar.hf.space/ch/8743?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM NewFilm Ru
+http://stream-tv-prostar.hf.space/ch/8706?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM Комедия
+http://stream-tv-prostar.hf.space/ch/8744?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM Боевик
+http://stream-tv-prostar.hf.space/ch/8745?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM Катастрофа
+http://stream-tv-prostar.hf.space/ch/8746?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM Роскино
+http://stream-tv-prostar.hf.space/ch/8709?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM Супергерои
+http://stream-tv-prostar.hf.space/ch/8710?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",MM История
+http://stream-tv-prostar.hf.space/ch/8933?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",GoldLine VHS
+http://stream-tv-prostar.hf.space/ch/9492?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",GoldLine Психо
+http://stream-tv-prostar.hf.space/ch/8483?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",GoldLine Сериал
+http://stream-tv-prostar.hf.space/ch/8533?key=AB001829BB
+
+#EXTINF:-1 group-title="Cinema +",KBC-Newfilm HD
+http://stream-tv-prostar.hf.space/ch/AA1771W?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",KBC-Elite comedy's HD
+http://stream-tv-prostar.hf.space/ch/AA1766W?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",KBC-Шпионское HD
+http://stream-tv-prostar.hf.space/ch/AA1772W?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",KBC-History HD
+http://stream-tv-prostar.hf.space/ch/AA1773W?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",KBC-Russian Комедия HD
+http://stream-tv-prostar.hf.space/ch/AA1774W?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",KBC-Comics HD
+http://stream-tv-prostar.hf.space/ch/AA1765W?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",KBC-Fantastic HD
+http://stream-tv-prostar.hf.space/ch/AA1770W?key=AB001829BB
+#EXTINF:-1 group-title="Cinema +",KBC-Кошмарное HD
+http://stream-tv-prostar.hf.space/ch/AA1777W?key=AB001829BB
 
 
 

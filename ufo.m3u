@@ -97,6 +97,8 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 http://31.131.141.195:8000/play/2020/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ont-by.png" tvg-id="ont-by" group-title="Основные",ОНТ HD
 http://194.158.222.36:6102
+#EXTINF:-1 tvg-logo="https://www.kharkov-z.ru/upload/iblock/15f/yfycwhv2zv5o62xg8idydfrki6d2k8mn.png" tvg-id="no_epg" group-title="Основные",ХАРЬКОВ Z
+https://live.kharkov-z.ru/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://epg.iptvx.one/picons/krik-tv.png" group-title="Основные",КРИК-ТВ HD
 https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
 
@@ -779,19 +781,19 @@ http://kinowalk.hopto.org/zsmedia_live
 
 
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png" group-title="СМОТРИМ +",Смотрим 100% Праздник HD
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="СМОТРИМ +",Смотрим 100% Классика HD
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="СМОТРИМ +",Смотрим 100% Любовь HD
-https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="СМОТРИМ +",Смотрим 100% Мужское HD
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="chestny-detektiv" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png" group-title="СМОТРИМ +",Смотрим Честный детектив HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png" group-title="СМОТРИМ +",Смотрим 100% Факты HD
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="СМОТРИМ +",Смотрим 100% Детское HD
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv05/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="СМОТРИМ +" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -942,49 +944,6 @@ https://tinyurl.com/upwnsw7p/11002/index.m3u8
 https://tinyurl.com/upwnsw7p/11003/index.m3u8
 
 
-#EXTINF:-1 group-title="Cinema +",MM NewFilm 1
-http://stream-tv-prostar.hf.space/ch/8741?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM NewFilm 2
-http://stream-tv-prostar.hf.space/ch/8742?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM NewFilm 3
-http://stream-tv-prostar.hf.space/ch/8743?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM NewFilm Ru
-http://stream-tv-prostar.hf.space/ch/8706?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM Комедия
-http://stream-tv-prostar.hf.space/ch/8744?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM Боевик
-http://stream-tv-prostar.hf.space/ch/8745?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM Катастрофа
-http://stream-tv-prostar.hf.space/ch/8746?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM Роскино
-http://stream-tv-prostar.hf.space/ch/8709?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM Супергерои
-http://stream-tv-prostar.hf.space/ch/8710?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",MM История
-http://stream-tv-prostar.hf.space/ch/8933?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",GoldLine VHS
-http://stream-tv-prostar.hf.space/ch/9492?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",GoldLine Психо
-http://stream-tv-prostar.hf.space/ch/8483?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",GoldLine Сериал
-http://stream-tv-prostar.hf.space/ch/8533?key=AB001829BB
-
-#EXTINF:-1 group-title="Cinema +",KBC-Newfilm HD
-http://stream-tv-prostar.hf.space/ch/AA1771W?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",KBC-Elite comedy's HD
-http://stream-tv-prostar.hf.space/ch/AA1766W?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",KBC-Шпионское HD
-http://stream-tv-prostar.hf.space/ch/AA1772W?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",KBC-History HD
-http://stream-tv-prostar.hf.space/ch/AA1773W?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",KBC-Russian Комедия HD
-http://stream-tv-prostar.hf.space/ch/AA1774W?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",KBC-Comics HD
-http://stream-tv-prostar.hf.space/ch/AA1765W?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",KBC-Fantastic HD
-http://stream-tv-prostar.hf.space/ch/AA1770W?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",KBC-Кошмарное HD
-http://stream-tv-prostar.hf.space/ch/AA1777W?key=AB001829BB
 
 
 

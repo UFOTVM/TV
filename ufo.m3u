@@ -254,11 +254,11 @@ http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
-https://cdn.kinolar.workers.dev/tv1000rukinohd/mono.m3u8?key=halvatv
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132754&extension=ts&play_token=yTLNmUtVNA
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 romantica HD
-https://cdn.kinolar.workers.dev/Viju_tv_1000_romantic/mono.m3u8?key=halvatv
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ow4POWusg5YWczvB4Gak7A&e=1789049075&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино",Vip Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино",Vip Megahit HD
@@ -280,7 +280,7 @@ http://62.32.84.50:18000/play/a0h5/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://176.100.46.245:90/red/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air HD
-https://cdn.kinolar.workers.dev/STARTAIRHD/mono.m3u8?key=halvatv
+https://tinyurl.com/4tfv9tup/18036/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air
 https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Start World HD
@@ -411,7 +411,7 @@ http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
-https://cdn.kinolar.workers.dev/ViasatNatureHD/mono.m3u8?key=halvatv
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148928&extension=ts&play_token=eARCTWLYIx
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD

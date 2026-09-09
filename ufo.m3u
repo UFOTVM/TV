@@ -196,9 +196,9 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-sport.png" tvg-id="viasat-sport" group-title="Спорт", Viju+ sport HD
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" tvg-id="setanta1-lt" group-title="Спорт",Setanta Sports 1 HD
-https://stream3.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta2-lt.png" tvg-id="setanta1-2t" group-title="Спорт",Setanta Sports 2 HD
-https://stream3.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trace-sport-stars-ru.png" tvg-id="trace-sport-stars-ru" group-title="Спорт",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ufc.png" tvg-id="ufc" group-title="Спорт",Удар HD
@@ -381,14 +381,26 @@ https://tinyurl.com/4tfv9tup/2163/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Кино",Kion Хит HD
 https://tinyurl.com/teh55yef/20211/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/81/8c/818cc0846fd903cd2943d9cfc9a48486.jpg?size=l" tvg-id="no_epg_cinema" group-title="Кино", Apple TV+Action Time
-https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=waj95cuyyi8uqhMviY5J5Q&e=2088331937&scheme=https
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/ff/e0/ffe0813d42945ce49830c8631a8eeb72.jpg?size=l" tvg-id="no_epg_cinema" group-title="Кино", Apple TV+Woman's Story
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=MyL89IE96vyCNFX0quwgMA&e=2088331938&scheme=https
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2025-03-14/87/c6/87c6d211fd30f5019ebf2bc074b5f7e5.jpg" tvg-id="no_epg" group-title="Кино",Кинолаффка HD
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=uWEwgWbkG33r2o5mU0X38A&e=2082027011&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/81/8c/818cc0846fd903cd2943d9cfc9a48486.jpg?size=l" tvg-id="no_epg_cinema" group-title="Кино", Apple TV+Action Time
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=waj95cuyyi8uqhMviY5J5Q&e=2088331937&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/ff/e0/ffe0813d42945ce49830c8631a8eeb72.jpg?size=l" tvg-id="no_epg_cinema" group-title="Кино", Apple TV+Woman's Story
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=MyL89IE96vyCNFX0quwgMA&e=2088331938&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-21/cb/00/cb00bf0b844dadef144f7b9fb208e18b.jpg?width=500" tvg-id="no_epg_cinema" group-title="Кино", Amazon Prime Video mans' club
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=VuhfAnwVN0QaMpV2AjMFNQ&e=2088894153&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-19/cb/51/cb517861e0143a571958f43b5c6a0f66.jpg?width=500" tvg-id="no_epg_cinema" group-title="Кино", Amazon Prime Video Romance
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=vDrzYErdC_oimMeApzw5Ig&e=2088894154&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg" tvg-id="no_epg_cinema" group-title="Кино", Твой кинотеатр
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=CDANA7lfLAqGndYFwAD5Eg&e=2088894154&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg" tvg-id="no_epg_cinema" group-title="Кино",Звездные войны
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=V6xxaC-8NJNujIneTTwOQQ&e=2088894152&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-27/c1/58/c158f2953bf501c79015111beffbc606.jpg" tvg-id="no_epg_cinema" group-title="Кино",Гарри Поттер
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=w3HwRFG8CRLteg6rMlCSXQ&e=2088894152&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-26/5f/5f/5f5f4258f912baf2c5a5c0a07550183a.jpg" tvg-id="no_epg_cinema" group-title="Кино",Marvel
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=GDM7F7_8DDUK3Mdk_lwaPg&e=2088894153&scheme=https
 
 
 

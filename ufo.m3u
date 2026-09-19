@@ -160,7 +160,7 @@ http://tv.ttk.mx:9082
 #EXTINF:-1 group-title="Развлекательные",Рыбалка и охота
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Точка отрыва
-https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+http://178.65.81.67:81/play/a01c
 #EXTINF:-1 group-title="Развлекательные",АВТО 24
 http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Кухня ТВ
@@ -196,9 +196,9 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-sport.png" tvg-id="viasat-sport" group-title="Спорт", Viju+ sport HD
 http://89.33.29.115:8080/Viasat_Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" tvg-id="setanta1-lt" group-title="Спорт",Setanta Sports 1 HD
-http://tv.teamm.workers.dev/ch854/tv.m3u8?tv=tv
+http://66.90.110.10:8080/FzIkFkfZRD/index.m3u8?token=CNVkbIWpdNQAUXGC
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta2-lt.png" tvg-id="setanta1-2t" group-title="Спорт",Setanta Sports 2 HD
-http://tv.teamm.workers.dev/ch855/tv.m3u8?tv=tv
+https://stream3.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trace-sport-stars-ru.png" tvg-id="trace-sport-stars-ru" group-title="Спорт",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ufc.png" tvg-id="ufc" group-title="Спорт",Удар HD

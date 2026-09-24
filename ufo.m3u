@@ -238,7 +238,7 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=hr
 
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино",Amedia 1 HD
-https://ott.ip-tv.workers.dev/stream/L0FBMzU5Vy9pbmRleC5tM3U4?key=halva
+http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино",Amedia 2 HD
 http://tv.ttk.mx:9156
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Кино", Amedia Hit HD
@@ -254,7 +254,7 @@ http://89.33.29.115:8080/TV1000_Action/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
-https://cdn.itvuz.workers.dev/stream/89?key=zunotv
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031904&extension=ts&play_token=TngILrSNZd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 romantica HD
@@ -308,7 +308,7 @@ https://s70378.cdn.ngenix.net/kinouzhas/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино HD
-https://ott.ip-tv.workers.dev/stream/L0FBNDM2Vy9pbmRleC5tM3U4?key=halva
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031893&extension=ts&play_token=FVTY1Deq2j
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кино",VHS-ка

@@ -336,7 +336,7 @@ http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kineko.png" tvg-id="kineko" group-title="Кино",Кинеко
-http://62.32.84.50:18000/play/a0l7/index.m3u8
+http://46.32.176.50/foxrussia/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epg.iptvx.one/picons/lubimoe-kino.png" group-title="Кино",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Мир Сериала
@@ -423,11 +423,11 @@ http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
-http://89.33.29.115:8080/Viasat_Nature_HD/tracks-v1a1/mono.m3u8
+https://cdn.itvuz.workers.dev/stream/136?key=zunotv
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
-http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
+https://cdn.itvuz.workers.dev/stream/162?key=zunotv
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zoopark.png" tvg-id="zoopark" group-title="Познавательные",Зоопарк
@@ -455,7 +455,7 @@ http://stream.mcquack.net/225/index.m3u8
 https://jmp2.uk/stvp-USBA3400003IP
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
-http://89.33.29.115:8080/RTG_TV/tracks-v1a1/mono.m3u8
+http://46.53.200.153:7777/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="https://epg.iptvx.one/picons/travel-channel.png",Travel Channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=Bs5xw7zm21S2vqZdsaXnxw&e=2090404629&scheme=https
 #EXTINF:-1 group-title="Познавательные" tvg-id="hgtv" tvg-logo="https://epg.iptvx.one/picons/hgtv.png",HGTV HD
@@ -589,7 +589,7 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",MCM Top
-http://89.33.29.115:8080/MCM/tracks-v1a1/mono.m3u8
+http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/city-tv-bg.png" tvg-id="city-tv-bg" group-title="Музыкальные",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 

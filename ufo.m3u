@@ -222,11 +222,11 @@ https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" group-title="Спорт",Овертайм ТВ
 http://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-football1.png" tvg-id="match-football1" group-title="Спорт", Футбол1
-http://89.33.29.115:8080/Match_Futbol_1_HD/tracks-v1a1/mono.m3u8
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-football2.png" tvg-id="match-football2" group-title="Спорт", Футбол2
-http://89.33.29.115:8080/Match_Futbol_2_HD/tracks-v1a1/mono.m3u8
+http://185.195.184.30:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/match-football3.png" tvg-id="match-football3" group-title="Спорт", Футбол3
-http://89.33.29.115:8080/Match_Futbol_3_HD/tracks-v1a1/mono.m3u8
+http://176.100.46.245:90/matchfootball3/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nba-tv.png" tvg-id="nba-tv" group-title="Спорт", NBA TV
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=PQW3hpuI4ixSmkvZ8DFYSA&e=2081160974&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sports-apl.png" tvg-id="sky-sports-apl" group-title="Спорт",Sky Sports Premier League

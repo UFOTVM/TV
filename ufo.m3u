@@ -254,7 +254,7 @@ http://89.33.29.115:8080/TV1000_Action/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031904&extension=ts&play_token=TngILrSNZd
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла
@@ -551,7 +551,7 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" group-title="Музыкальные",1HD Music
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/88047.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+http://92.114.85.52:1453/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one./picons/deluxe-music-de.png" tvg-id="deluxe-music-de" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
@@ -566,8 +566,7 @@ https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=v7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" tvg-id="no_epg_music" group-title="Музыкальные",Kiss TV
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://epg.iptvx.one/picons/bridge-tv.png" group-title="Музыкальные",Bridge
-#EXTVLCOPT:network-caching=3000
-http://5.188.159.128:8070/bridgetv/index.m3u8
+http://185.195.184.30:8000/play/a0g7/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png" group-title="Музыкальные",Bridge Deluxe HD
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png" group-title="Музыкальные",Bridge TV Hits
@@ -606,7 +605,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA Russia rut
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=gMiCSZ4n6zXhu914XD0K0Q&e=2088807415&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=bdmfh0A-pLlWuuXBBEP9wg&e=2090708349&scheme=https
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv" group-title="Музыкальные", Europa Plus TV
 http://stream.mcquack.net/184/index.m3u8

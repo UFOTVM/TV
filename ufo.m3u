@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge07d.mediavitrina.ru/hls-livef6/1tv/index.m3u8?token=v2.Ibn-3seXzKQRH-0-AS8g5FbvxtKAgNtikaUiP1Nx_sk.FVVUgUnXlLuNIQyOzkjLY9jkVKyvd93-7Mk6MMRFnsQ.1790928714.36e3bc8b0e226fdf87238c9ab29ef472
+https://edge01d.mediavitrina.ru/hls-livef5/1tv/index.m3u8?token=v2.MPbiPP6Mf_VFlfmYeIS0PdQh-u8R0bzY5-7b9tyOGgo.7j7ex9zPfrNAySP3emwPvmQ2jr-ulequ8pJ7TBN7uuI.1791548491.824493f0e2d658db1457a9ff9dfd5b92
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
@@ -32,7 +32,7 @@ https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge06d.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.PsDEIEIPzwadDScYvKAEyDwHS0WLeQ6gJUQ-e3BaZzg.M1GAoaPeoR6a7zsCuGBJAoJnYaQ8Wcqf9WdyPDuHQ5s.1790928815.e8a1027430e9ae18ce1612f277ded1de
+https://edge05p.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.aI4jBZHWjM2_CpTWFwAOxBoTUNRABRTPzE6MiGi__08.bTqA9HYrXkQnXHmwgoaT5WU-I0pBnHet2FvvPt5_Ihk.1791548627.bf893f4b8fca0936ff0f67c7664ffbc4
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -42,7 +42,7 @@ http://176.118.197.101/THT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные",  СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge07r.mediavitrina.ru/hls-livef6/ctc/index.m3u8?token=v2.IPTZi0OX6BWY8aN9h7epxJo3NULi6eKcNeuT4kA5BQs.Ta3LeSNdOf8djhQqPTK0C8cqzNWjISAvclKmHYSIfH0.1790928908.bb2a7539447508cbd5ad4b3928c2604a
+https://edge01d.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.sq0QkATuFbSP_PgvaRgU2IKEONsn8_BpIw7gjgd8K6A.ST74VHUVirwwsugSGwB_F1aM2SqxME0d-AAIAfRCrGc.1791548738.cf3b118dbe1114e1dabba695d37f9097
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные",  СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -67,7 +67,7 @@ https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=x45t0M4xuuiCNqRQBW70Jg&e=2069285051&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge07r.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.nPiGGw0bAt8o43U9aezUh4ZZ6hGA9toZLReQhlfpgv0.z8P5nwplONqS4k5nLt06aZtoBHDLSFqSAhJ8aecQr4U.1790928989.2b6ba29ab5de971cf49a9a11db3ced96
+https://edge05p.mediavitrina.ru/hls-livef6/tvc/index.m3u8?token=v2.WGFZ7jXNXcFBTZEr390Yurif4g7jgzkHLkx5sfRHR18.AH2t2-P2sxh8KH4CwcU9KmqFhN9duqLugq6eU_Wd-AQ.1791548830.0805766ba7b9bda38269479ec5f0097c
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://epg.iptvx.one/picons/kultura.png" group-title="Основные",Россия K
@@ -76,7 +76,7 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piaty-int.png" tvg-id="5kanal-ru" group-title="Основные",Пятый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge02p.mediavitrina.ru/hls-livef8/5tv/index.m3u8?token=v2.tgWpynLv_dBNjMuo6qgX2luN9X5IgQWkmQuhVuaIP1w.zyeMkdQHKor_DycDF8f6-xLQeGn8gMgcqhGKU8UgXWM.1790929065.37b27259e95c7f08a4e8cdd83ee015a1
+https://edge06d.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.K1mkS44u_Ar1tjc3fmIJYrAV2ZXGqG-HAcQ5Y50i3Lo.F3Y59y7T7DQbKAYwzLLYl-exCd0Flu5HWeBiXRQtdcs.1791548896.ed3696ad1e01ed61b586894b997b7150
 #EXTINF:-1 group-title="Основные",8 канал
 https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/906.png" group-title="Основные",ОТР

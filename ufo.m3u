@@ -128,7 +128,7 @@ https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IB
 #EXTVLCOPT:network-caching=3000
 http://tv.ttk.mx:9095
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png" group-title="Развлекательные",КВН ТВ
-https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+http://212.15.51.20:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-logo="https://epg.iptvx.one/picons/gags-network.png" group-title="Развлекательные",Gagsnetwork
 https://tinyurl.com/upwnsw7p/14024/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://epg.iptvx.one/picons/nostalgia.png" group-title="Развлекательные",Ностальгия
@@ -286,7 +286,7 @@ http://176.100.46.245:90/red/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air HD
 https://tinyurl.com/4tfv9tup/18036/index.m3u8
 #EXTINF:-1 group-title="Кино",Start Air
-https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+http://195.64.140.147:10063/63
 #EXTINF:-1 group-title="Кино",Start World HD
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
@@ -315,6 +315,8 @@ http://212.15.51.20:8000/play/a01p/index.m3u8
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031893&extension=ts&play_token=FVTY1Deq2j
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
 http://212.15.51.20:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoseria.png" tvg-id="kinoseria" group-title="Кино", Киносерия
+http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино", Trash HD
 http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shot-tv.png" tvg-id="shot-tv" group-title="Кино", Shot TV
@@ -449,9 +451,9 @@ http://tv.ttk.mx:9029
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
 http://tv.ttk.mx:9071
 #EXTINF:-1 group-title="Познавательные",Планета HD
-https://cdn.itvuz.workers.dev/stream/141?key=zunotv
+http://stream.mcquack.net/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+http://212.15.51.20:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Terra HD
 http://195.64.140.147:10150/150
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC
@@ -481,7 +483,7 @@ https://tinyurl.com/4tfv9tup/2054/index.m3u8
 https://tinyurl.com/teh55yef/920/index.m3u8
 #EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://epg.iptvx.one/picons/insight-tv-hd.png" group-title="Познавательные",Insight TV
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Terra Incognita
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://programma-peredach.com/img/ch/wide/terra-inkognita.webp" group-title="Познавательные",Terra Incognita
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 
 

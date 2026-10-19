@@ -209,11 +209,11 @@ https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ufc.png" tvg-id="ufc" group-title="Спорт",Удар HD
 http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/m1global.png" tvg-id="m1global" group-title="Спорт", MMA-TV
-https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+http://212.15.51.20:8000/play/a073/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11092.png" tvg-id="boks-tv" group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" tvg-id="kxl-hd" group-title="Спорт", KHL HD
-https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://212.15.51.20:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="kxl" tvg-logo="https://epg.iptvx.one/picons/kxl.png" group-title="Спорт",КХЛ ТВ
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="nhl-network-us" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png",NHL Network
@@ -390,6 +390,8 @@ https://tinyurl.com/2x47stw5/1031.m3u8
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN HD
 http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/fanhd.png" tvg-id="fanhd" group-title="Кино", FAN
+http://212.15.51.20:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sumiko.png" tvg-id="sumiko" group-title="Кино",Sumiko
 https://tinyurl.com/4tfv9tup/2163/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bolt.png" tvg-id="bolt" group-title="Кино", Bolt HD
@@ -455,7 +457,7 @@ http://tv.ttk.mx:9029
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv" group-title="Познавательные",Тайны галактики HD
 http://tv.ttk.mx:9071
 #EXTINF:-1 group-title="Познавательные",Планета HD
-http://stream.mcquack.net/124/index.m3u8
+http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
 http://212.15.51.20:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Terra HD
@@ -533,7 +535,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские",Лёва
 https://tinyurl.com/teh55yef/15098/index.m3u8
 #EXTINF:-1 group-title="Детские",Da Vinci
-https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+http://212.15.51.20:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Детские",Лапки LIVE
 https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Детские",English Club TV
@@ -604,7 +606,7 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",MCM Top
-http://46.32.176.50/mcmtop/index.m3u8
+http://212.15.51.20:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/city-tv-bg.png" tvg-id="city-tv-bg" group-title="Музыкальные",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 

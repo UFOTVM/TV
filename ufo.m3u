@@ -565,6 +565,13 @@ https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/2a/d0/2ad02f890612b8836aaa8bc7d514b7da.jpg" tvg-id="no_epg_mult" group-title="Детские",Мультаташечки
+https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=bVmIPyjpzyY2FAvVsWtEfQ&e=2092566530&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/1a/f8/1af8d15f1c938d14ac4880702baaf611.png" tvg-id="no_epg_mult" group-title="Детские",Мультимейшн
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=fBmsOXfAGMP23DVnD3Lbcw&e=2092566530&scheme=https
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/2026-05-22/9f/b1/9fb17161f1cc95aaf15adb72d5612a2c.jpg" tvg-id="no_epg_mult" group-title="Детские",Наше Аниме
+https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=eyWUEumrlwhGIkabFi6A2Q&e=2092566529&scheme=https
+
 
 
 

@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge02r.mediavitrina.ru/hls-livef6/1tv/index.m3u8?token=v2.0_XAES0nJ6JMHsJRvCKAcl_A8GtbXmt9QZ7UpRwVwas._iEK8NzjIwPgtw5pQb6h9i3yPYsJJqkMYs6Of3WjqJ8.1793426860.e691e3b808332369b84b2de55aa212b2
+https://edge08r.mediavitrina.ru/hls-livef5/1tv/index.m3u8?token=v2.TVpGFqJeqi85eQH2RZYig64O1TBj2hGr3tDbSUz5WA0.AHm0OB89ZsJahsEz-_LtTjR_a1fDsLmVAmN9sJ6x4no.1793883010.ec9930cda0685fde84d5b4053c3147b5
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" tvg-id="pervy" group-title="Основные", Первый
@@ -32,7 +32,7 @@ https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.91jP61BHFBcpg_LpgpAQl996CkwhJWQqKHVLDscVFso.0uAvt2kJTuBzRq0cyTHnReyGaCuOVsnMfRBr8qNxyJA.1793426962.283f0af3a6dc8adf26d8a702393da0f8
+https://edge07r.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.Wd6WbNZ1UDKcoDyUC7-bDsT122SIZYrw3G8_YFl7dtI.uUX-E2iypHZHv5wmuAjuPOwxe8LCcN3bv5z7_h5Ih0U.1793883232.1133aa95ce388b423959924bfda46cb7
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt" group-title="Основные", THT HD
@@ -42,7 +42,7 @@ http://176.118.197.101/THT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sts.png" tvg-id="sts" group-title="Основные", СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge02r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.jXhuliINhrCfvQ3E8upZHdR2WFX_6IqMpbqaj4WLmtc.ZEconjBhHeTIfptrSSPYy33eR7nd42ABWBGKaY4kEm4.1793427128.39fd946571550ca09214341f82d6c80c
+https://edge01p.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.ZPQyqASOlApTqCHIpEP00DdW1bB0piYp2C_IKrqSfx0._Kc2x-VLRu5QJ71euVbmZ9Gz-_h6yiY8LNHjjwaGRjM.1793883335.f88977a98626e717524e159cf29a65d8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" tvg-id="sts" group-title="Основные", СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="tv3-ru" group-title="Основные",ТВ3 HD
@@ -67,7 +67,7 @@ http://31.131.141.195:8000/play/a001/index.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=x45t0M4xuuiCNqRQBW70Jg&e=2069285051&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge02r.mediavitrina.ru/hls-livef6/tvc/index.m3u8?token=v2.BKcBpir_CRXOTy4t4Z8AGVXIPctXl1PyM55bbvz-thU.ryd-YbmWsI0EXQ4POTbi0RG7aJ6AZoQ86cJ50mShPAI.1793427245.1716555bf33a13b6a171594ac8846ce3
+https://edge01d.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2._YOuZScsa3NsLtnlR9AQpW_W6LKAy8DrgwWjHf0NSfY.-iCvRFbeGkCJvaLIwHdnZQmh7ncbTBsp8OSlFt__ZpQ.1793883410.74aa8c8df0dbcdda4c1deb72879e68bf
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные",  ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://epg.iptvx.one/picons/kultura.png" group-title="Основные",Россия K
@@ -76,7 +76,7 @@ https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piaty-int.png" tvg-id="5kanal-ru" group-title="Основные",Пятый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge07r.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.29AypqSBot4qO60gUzpM3RoZ1eRaaltBUN6yAyFCric.vHE_DF_AQvgiKHZfMrjgyW-mMFX9pT0jjcdJOh2HbxM.1793427327.471d8cf8db0e42e342cd5813cfb8c65b
+https://edge08r.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.BXy9xCdeYWntAKqpO-CQ0q8jTvrjqYBLysyO-T9bb1c.ulY6Y7tP0K6wPac0CQILvW-6c0xeoj2XVhi_7DFvqDM.1793883482.a48904bee55000d1f42e277a31c17489
 #EXTINF:-1 group-title="Основные",8 канал
 https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/906.png" group-title="Основные",ОТР
@@ -737,6 +737,8 @@ http://kinowalk.hopto.org/apricus_live
 http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18716382/avatar?change_time=1737140673&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", dj Zour
 http://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="Kinowalk TV", kinolampa
+http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/312/128x128?unique=2026-06-15%2010:11:36.264054&access_token=effa622b-b844-48ae-9516-9528a9f1410c" group-title="Kinowalk TV", NeoVision TV
 http://kinowalk.hopto.org/neovisiontv_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/320/128x128?unique=2026-06-25%2010:27:19.568369&access_token=a1dc2036-1032-4c19-ae54-0f8cedab33b1" group-title="Kinowalk TV",RE_BOOT
@@ -781,9 +783,9 @@ http://kinowalk.hopto.org/perviryad_live
 http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/12719933/avatar?change_time=1699038708&croped=1&mh=140&mw=140" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Kycman мульт
 http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/static-content/logo/219?unique=2026-07-23+16%3A39%3A04.724227&access_token=cf5c5b2b-3d45-492a-bd67-cb8b0f89396a" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Егор Егорыч )) 
-http://kinowalk.hopto.org/yegor_yegorych_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/static-content/logo/226?unique=2026-07-27+13%3A37%3A32.858124&access_token=b2c8a399-c663-4a02-b7fc-f3c1f186c698" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Cinema Time
+http://kinowalk.hopto.org/yegor_yegorych_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/static-content/logo/219?unique=2026-07-23+16%3A39%3A04.724227&access_token=cf5c5b2b-3d45-492a-bd67-cb8b0f89396a" tvg-id="no_epg_cinema" group-title="Kinowalk TV", Егор Егорыч )) 
 http://kinowalk.hopto.org/yegor_yegorych_live
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="Kinowalk TV", Dimpon TV
@@ -800,8 +802,6 @@ http://kinowalk.hopto.org/kinofon_live
 http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://kinowalk.hopto.org/web/image/275/128x128?unique=2026-04-19%2006:55:19.206545&access_token=e8a436a0-7eb4-46b1-8f7e-06fc05b14ca1" group-title="Kinowalk TV", AlexVira 
 http://kinowalk.hopto.org/alexvira_live
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="Kinowalk TV", kinolampa
-http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140" group-title="Kinowalk TV", Aisman
 http://kinowalk.hopto.org/aisman_live
 

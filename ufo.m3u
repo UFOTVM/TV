@@ -406,6 +406,10 @@ https://tinyurl.com/4tfv9tup/2163/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Кино",Kion Хит HD
 https://tinyurl.com/teh55yef/20211/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wT4GQmho5C5yL5oL-zQ3CM0nwNVaJfL5gY2a2tMYWlx2vGYb7NchraGKPoT_m9HttVyW9YNR=s400-c-k-c0x00ffffff-no-rj" tvg-id="no_epg_cinema" group-title="Кино",Kino HD
+http://91.205.196.7:8000/play/a00z
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/LiJ65fO43twO-ygsWkeMDoPJtK-7KBRBCugaz4gtXczaEg1c-aR_r9Xo6QsoPbeFHt-sSJBbgg=s400-c-k-c0x00ffffff-no-rj" tvg-id="no_epg_cinema" group-title="Кино",Top Films HD
+http://91.205.196.7:8000/play/a03e
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
 
@@ -533,7 +537,7 @@ https://tinyurl.com/upwnsw7p/723/index.m3u8
 http://tv.ttk.mx:9092
 #EXTINF:-1 group-title="Детские",Nick Jr
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
+http://91.205.196.7:8000/play/a01q
 #EXTINF:-1 group-title="Детские",Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=Ac5CNFCTPyjvI502W6xgrw&e=2090404676&scheme=https
 #EXTINF:-1 group-title="Детские",Nicktoons

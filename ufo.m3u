@@ -206,10 +206,10 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" tvg-id="setanta1-lt" group-title="Спорт",Setanta Sports 1 HD
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream3.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_SETANTA_SPORTS1HD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta2-lt.png" tvg-id="setanta1-2t" group-title="Спорт",Setanta Sports 2 HD
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream3.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_SETANTA_SPORTS2HD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trace-sport-stars-ru.png" tvg-id="trace-sport-stars-ru" group-title="Спорт",Trace Sport Stars HD
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
@@ -260,12 +260,12 @@ http://91.205.196.7:8000/play/a02j
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="tv1000" group-title="Кино",TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action HD
-http://stream.mcquack.net/100/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" group-title="Кино",TV1000 action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское HD
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_TV1000RUSSKOEKINOHD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="Кино",TV1000 Новелла
@@ -282,10 +282,7 @@ http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино",Дом кино Premium HD
 http://tv.ttk.mx:9084
-#EXTINF:-1 tvg-id="fox" tvg-logo="https://epg.iptvx.one/picons/fox.png" group-title="Кино",Fox
-https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=A5iqJk_hPu1pqskFuJZU_Q&e=2092311403&scheme=https
-#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epg.iptvx.one/picons/foxlife.png" group-title="Кино",Fox Life
-https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=NWw85Vf1M8jaA9AjDDwTOA&e=2092311403&scheme=https
+
 #EXTINF:-1 group-title="Кино",.Sci-Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-logo="https://epg.iptvx.one/picons/sony-scifi.png" group-title="Кино",.Sci-Fi HD
@@ -329,8 +326,10 @@ http://66.90.110.10:8080/cxzOWX5W18/index.m3u8?token=CNVkbIWpdNQAUXGC
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinoseria.png" tvg-id="kinoseria" group-title="Кино", Киносерия
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/trashtv.png" tvg-id="trashtv" group-title="Кино", Trash HD
-http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/video/2026-10-30/3c/65/3c6546eba5d3e10aff069884cefd2a17.jpg?width=500" group-title="Кино",Лучшие фантастические фильмы
+https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=1MKSLHdAnNqdMyQ90cMmFg&e=2094923976&scheme=https
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/video/2026-10-30/18/bf/18bfabdeaddf9b7659a87498cfb6fe27.jpg?width=500" group-title="Кино",Лучшие экшн фильмы
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=ADnCYz3rL2QghpebT16NfA&e=2094923977&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shot-tv.png" tvg-id="shot-tv" group-title="Кино", Shot TV
 http://195.64.140.147:10062/62
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кино",VHS-ка
@@ -354,7 +353,7 @@ http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/flixsnip.png" tvg-id="flixsnip" group-title="Кино",FlixSnip HD
 https://tinyurl.com/teh55yef/10060/index.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
-http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
+http://dmitry-tv.ddns.net/hls/CH_HOLLYWOOD.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kineko.png" tvg-id="kineko" group-title="Кино",Кинеко
@@ -453,17 +452,17 @@ http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=XIlYETIzEf8C7a-PCDWWwA&e=2088331934&scheme=https
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
-http://stream.mcquack.net/239/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_GLAZAMI_TURISTA.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
@@ -542,7 +541,7 @@ http://91.205.196.7:8000/play/a01q
 http://91.205.196.7:8000/play/a01r
 #EXTINF:-1 group-title="Детские",Nicktoons
 #EXTVLCOPT:http-user-agent=TiviMate
-https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NICKTOONS.m3u8
 #EXTINF:-1 group-title="Детские",TiJi
 https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
 #EXTINF:-1 group-title="Детские",Мульт

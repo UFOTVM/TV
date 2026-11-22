@@ -248,7 +248,7 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=hr
 
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино",Amedia 1 HD
-http://stream.mcquack.net/117/index.m3u8
+https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино",Amedia 2 HD
 http://tv.ttk.mx:9156
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Кино", Amedia Hit HD
@@ -313,7 +313,7 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" tvg-id="kinokomedia" group-title="Кино", Кинокомедия
-http://stream.mcquack.net/265/index.m3u8
+http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас HD
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Кино",Киноужас
@@ -444,17 +444,17 @@ http://91.205.196.7:8000/play/a029
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 http://91.205.196.7:8000/play/a023
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
-http://181.224.200.5:2277/play/a02b/index.m3u8
+http://181.119.215.61:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
-http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=-r71goYaZD8bUUJNI1UAeQ&e=2090404628&scheme=https
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://91.205.196.7:8000/play/a024
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
-http://stream.mcquack.net/101/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_HISTORYHD.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
 #EXTVLCOPT:http-user-agent=TiviMate
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
@@ -659,7 +659,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=bdmfh0A-pLlWuuXBBEP9wg&e=2090708349&scheme=https
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv" group-title="Музыкальные", Europa Plus TV
-http://stream.mcquack.net/184/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_EUROPA_PLUS.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/deejaytv-it.png" tvg-id="no_epg_music" group-title="Музыкальные",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -842,12 +842,12 @@ https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png" group-title="СМОТРИМ +",Смотрим 100% Детское HD
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_mult" group-title="СМОТРИМ +" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png", IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СМОТРИМ +" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СМОТРИМ +" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="СМОТРИМ +" tvg-logo="https://light.tvp.pp.ru/picons/082a8fde4f8602f51c96f92ef066399788e4f7a1402fe879b4d0a6ee931832da.png", ФАНТАСТИКА HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3914.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СМОТРИМ +" tvg-logo="https://light.tvp.pp.ru/picons/4fab7cdee25052675035e1f7d6c265260536bfa18b2d3ee055508e88783602fc.png", IPTVPLAY ВЕДЬМАК
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3919.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СМОТРИМ +" tvg-logo="https://light.tvp.pp.ru/picons/e3298fc1c4e3c2e08f084d9cbfbccdc8f9656e75c6f11a8f3b1d9d90da521bf4.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3988.m3u8
 #EXTINF:-1 tvg-id="cityedem-kinomist" group-title="СМОТРИМ +"  tvg-logo="https://epg.iptvx.one/picons/cityedem-kinomist.png", Киномистика
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="СМОТРИМ +" tvg-logo="https://www.cityeden.info/_bl/23/76607580.png", КиноФантастика
@@ -856,58 +856,12 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-id="cityedem-kinoact" group-title="СМОТРИМ +" tvg-logo="https://epg.iptvx.one/picons/cityedem-kinoact.png", КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СМОТРИМ +" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/9415.png" group-title="СМОТРИМ +",IPTVPLAY MORTAL KOMBAT
-http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_music" group-title="СМОТРИМ +" tvg-logo="https://i.postimg.cc/v8KFj826/1.png", IPTVPLAY PROMO
-http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Cinema
-#EXTGRP:Fresh
-http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Premiere
-#EXTGRP:Fresh
-http://stream.mcquack.net/424/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Comedy
-#EXTGRP:Fresh
-http://stream.mcquack.net/426/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Family
-#EXTGRP:Fresh
-http://stream.mcquack.net/427/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Rating
-#EXTGRP:Fresh
-http://stream.mcquack.net/422/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh VHS
-#EXTGRP:Fresh
-http://stream.mcquack.net/428/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Fantastic
-#EXTGRP:Fresh
-http://stream.mcquack.net/429/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Series
-#EXTGRP:Fresh
-http://stream.mcquack.net/430/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Horror
-#EXTGRP:Fresh
-http://stream.mcquack.net/431/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Adventure
-#EXTGRP:Fresh
-http://stream.mcquack.net/432/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Romantic
-#EXTGRP:Fresh
-http://stream.mcquack.net/433/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Thriller
-#EXTGRP:Fresh
-http://stream.mcquack.net/434/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",Fresh Kids
-#EXTGRP:Fresh
-http://stream.mcquack.net/425/index.m3u8
-#EXTINF:-1 group-title="Fresh" tvg-rec="7" timeshift="7",BCU СССР HD
-#EXTGRP:Fresh
-http://stream.mcquack.net/488/index.m3u8
-
-
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="СМОТРИМ +" tvg-logo="https://light.tvp.pp.ru/picons/2030f1454c2aac8d5e1fe8f13731502cc60393e2acafaa94bfd1ca21e888d6cf.png", IPTVPLAY Великая Отечественная HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3918.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://light.tvp.pp.ru/picons/41b389b25e6a29309d30124b61876231007a64eddcc5b12ce37eeac0bed3833d.png" group-title="СМОТРИМ +",IPTVPLAY УЖАСТИК HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3916.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" group-title="СМОТРИМ +" tvg-logo="https://light.tvp.pp.ru/picons/92e4429de7e67346abb3d6ff8d815dc8abe1a543fca1536f1ec4e0199b8f282c.png", IPTVPLAY ПАМЯТЬ HD
+https://social.tvp.pp.ru/public-playlist/q3sndMn4jxOpMXOiAx_OauuobFGwrYWiWO9SGtLt7nI/3915.m3u8
 
 
 
